@@ -21,6 +21,7 @@ class Clean:
                 line = line.strip()
                 if line:
                     self.Documents.append(line)
+ 
     def is_number(self,s):
         try:
             float(s)

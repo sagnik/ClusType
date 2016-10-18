@@ -1,6 +1,6 @@
 #!/bin/sh
 DataPath='data/yelp'
-RawText='data/yelp/yelp_sample50.txt'
+RawText='data/yelp/yelp_sample50k.txt'
 TypeFile='data/yelp/type_tid.txt'
 StopwordFile='data/stopwords.txt'
 FreebaseMap='data/freebase_links.nt'
@@ -19,6 +19,7 @@ ResultFileInText='result/resultsInText.txt' # typed mentions annotated in segmen
 ###
 rm -rf tmp
 mkdir tmp
+
 mkdir result
 
 ### Candidate Generation
@@ -31,6 +32,8 @@ segmentInput='Intermediate/phrase_segments.txt'
 cd candidate_generation
 rm -rf Intermediate
 mkdir Intermediate
+
+print "directory Intermediate created"
 python DataPreprocessing/Clean.py $RawText 
 python FrequentPhraseMining/FrequentPatternMining.py $segmentInput $maxLength $minSup 
 python EntityExtraction/EntityRelation.py $sentences_path $full_sentence_path $pos_path $full_pos_path $frequent_patterns_path $significance $SegmentOutFile $capitalize
