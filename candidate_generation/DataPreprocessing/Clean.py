@@ -38,7 +38,7 @@ class Clean:
         for doc in os.listdir(path):
             docContent  = open(os.path.join(path,doc)).read().strip()
             if docContent:
-                self.Documents.append((doc.split('-parscit')[0],docContent))
+                self.Documents.append((doc.split('.txt')[0],docContent))
         print "initialized with",len(self.Documents),"documents"
     
     def is_number(self,s):

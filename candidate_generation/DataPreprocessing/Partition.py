@@ -4,7 +4,7 @@ class Partition:
     def __init__(self, punctuation):
         self.punctuation = set(punctuation)
         self.num_words = 0
-        self.f = open('Intermediate/phrase_segments.txt','w')
+        self.f = open('IntermediateNLP/phrase_segments.txt','w')
         self.sw = StopWords()
 
     def split(self, sentence):

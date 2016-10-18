@@ -70,17 +70,18 @@ class FrequentPatternMining:
             if pattern_size > self.max_pattern:
                 break
         return self.frequent_patterns
+
 if __name__ == "__main__":
     path = sys.argv[1]
     max_pattern = int(sys.argv[2])
     minsup = int(sys.argv[3])
     documents = []
-    with open("Intermediate/phrase_segments.txt",'r') as f:
+    with open("IntermediateNLP/phrase_segments.txt",'r') as f:
         for line in f:
             documents.append(line.strip())
     FPM = FrequentPatternMining(documents, max_pattern, minsup)
     FrequentPatterns = FPM.mine_patterns()
-    pickle.dump(FrequentPatterns, open("Intermediate/frequentPatterns.pickle", "w"))
+    pickle.dump(FrequentPatterns, open("IntermediateNLP/frequentPatterns.pickle", "w"))
 
 
 

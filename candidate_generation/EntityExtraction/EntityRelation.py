@@ -61,6 +61,7 @@ class EntityRelation:
                 self.FullPOS[doc_index][sent_index].append(split_full_pos_tags)
         # load segmentor
         self.S = Segmentor(significance, self.frequent_patterns, self.TotalWords)
+
     def extract(self):
         out_path = self.out_path
         with open(out_path, 'w') as f:
