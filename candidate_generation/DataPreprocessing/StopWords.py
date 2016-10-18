@@ -1,7 +1,7 @@
 __author__ = 'ahmed'
 class StopWords:
     def __init__(self):
-        path = 'stopwords/en_scholarly.txt'
+        path = 'stopwords/en-scholarly.txt'
         f = open(path, 'r')
         self.stop_words = set([line.strip() for line in f])
     def isStopWord(self, word):

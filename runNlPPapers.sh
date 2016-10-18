@@ -1,6 +1,6 @@
 #!/bin/sh
-DataPath='/media/sagnik/OS_Install/data/nlp-table-data/pdfs/fulltxts/'
-RawTextFiles='/media/sagnik/OS_Install/data/nlp-table-data/pdfs/fulltxts'
+DataPath='/media/sagnik/OS_Install/data/nlp-table-data/txtsfromparsredxmls/'
+RawTextFiles='/media/sagnik/OS_Install/data/nlp-table-data/txtsfromparsedxmls/'
 #TypeFile='/media/sagnik/OS_Install/data/nlp-table-data/pdfs'
 StopwordFile='data/stopwords.txt'
 #FreebaseMap='data/freebase_links.nt'

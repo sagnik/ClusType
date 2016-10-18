@@ -26,19 +26,20 @@ class Clean:
                     self.documents.append(line)
     '''
     def __init__(self, path):
-        self.documents = []
+        self.Documents = []
         self.allowed = set([chr(i) for i in xrange(ord('a'), ord('z')+1)]+ \
                 [chr(i) for i in xrange(ord('a'), ord('z')+1)] + \
             #[',','-',' '] + [str(i) for i in xrange(10)])
                 [',','.','?','-','!',' '] + [str(i) for i in xrange(10)])
         self.punctuation = [';',':','&', '?', "/"]
-        self.p = partition(self.punctuation)
-        self.tagger = patterntagger()
-        self.sw = stopwords()
+        self.P = Partition(self.punctuation)
+        self.tagger = PatternTagger()
+        self.sw = StopWords()
         for doc in os.listdir(path):
             docContent  = open(os.path.join(path,doc)).read().strip()
-                if docContent:
-                    self.documents.append((doc,docContent))
+            if docContent:
+                self.Documents.append((doc.split('-parscit')[0],docContent))
+        print "initialized with",len(self.Documents),"documents"
     
     def is_number(self,s):
         try:
@@ -109,7 +110,7 @@ class Clean:
                         n.write(" ".join(no_stop_pos)+"\n")
 if __name__ == "__main__":
     path = sys.argv[1]
-    C = Clean('../' + path)
+    C = Clean(path)
     print "Start candidate generation..."
     C.clean_and_tag()
 
