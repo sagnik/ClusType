@@ -4,30 +4,49 @@ from textblob import TextBlob
 from textblob.taggers import PatternTagger
 from Partition import Partition
 from StopWords import StopWords
+import os
 
 class Clean:
+   
+    '''
     def __init__(self, path):
-        self.Documents = []
+        self.documents = []
         self.allowed = set([chr(i) for i in xrange(ord('a'), ord('z')+1)]+ \
-                [chr(i) for i in xrange(ord('A'), ord('Z')+1)] + \
+                [chr(i) for i in xrange(ord('a'), ord('z')+1)] + \
             #[',','-',' '] + [str(i) for i in xrange(10)])
                 [',','.','?','-','!',' '] + [str(i) for i in xrange(10)])
         self.punctuation = [';',':','&', '?', "/"]
-        self.P = Partition(self.punctuation)
-        self.tagger = PatternTagger()
-        self.sw = StopWords()
+        self.p = partition(self.punctuation)
+        self.tagger = patterntagger()
+        self.sw = stopwords()
         with open(path,'r') as f:
             for line in f:
                 line = line.strip()
                 if line:
-                    self.Documents.append(line)
- 
+                    self.documents.append(line)
+    '''
+    def __init__(self, path):
+        self.documents = []
+        self.allowed = set([chr(i) for i in xrange(ord('a'), ord('z')+1)]+ \
+                [chr(i) for i in xrange(ord('a'), ord('z')+1)] + \
+            #[',','-',' '] + [str(i) for i in xrange(10)])
+                [',','.','?','-','!',' '] + [str(i) for i in xrange(10)])
+        self.punctuation = [';',':','&', '?', "/"]
+        self.p = partition(self.punctuation)
+        self.tagger = patterntagger()
+        self.sw = stopwords()
+        for doc in os.listdir(path):
+            docContent  = open(os.path.join(path,doc)).read().strip()
+                if docContent:
+                    self.documents.append((doc,docContent))
+    
     def is_number(self,s):
         try:
             float(s)
             return True
         except ValueError:
             return False
+
     def remove_stopwords(self, words, pos):
         new_sent = []
         new_pos = []
@@ -52,6 +71,7 @@ class Clean:
         sent = " ".join(new_sent)
 
         return sent
+
     def remove_things(self, string):
         string = string.replace("\t", " ")
         string = string.replace(" and ", ", and ")
@@ -59,14 +79,15 @@ class Clean:
         return "".join(new_string)
 
     def clean_and_tag(self):
-        with open('Intermediate/full_sentences.txt', 'w') as f,\
-                open('Intermediate/full_pos.txt','w') as g,\
-                open('Intermediate/sentences.txt', 'w') as m,\
-                open('Intermediate/pos.txt', 'w') as n:
+        with open('IntermediateNLP/full_sentences.txt', 'w') as f,\
+                open('IntermediateNLP/full_pos.txt','w') as g,\
+                open('IntermediateNLP/sentences.txt', 'w') as m,\
+                open('IntermediateNLP/pos.txt', 'w') as n:
             for i in xrange(len(self.Documents)):
-                if i%10000 == 0 and i!=0:
+                if i%1000 == 0 and i!=0:
                     print str(i)+" documents processed."
-                doc = self.Documents[i]
+                docName = self.Documents[i][0]
+                doc = self.Documents[i][1]
                 cleaned_doc = self.remove_things(doc)
                 blob = TextBlob(cleaned_doc)
                 for j in xrange(len(blob.sentences)):
@@ -81,10 +102,10 @@ class Clean:
                         for word,tag in sent_blob.pos_tags:
                             words.append(word)
                             pos.append(tag)
-                        f.write(str(i)+":"+str(j)+":"+str(k)+":"+(" ".join(words)+"\n"))
+                        f.write(docName+":"+str(j)+":"+str(k)+":"+(" ".join(words)+"\n"))
                         g.write(" ".join(pos)+"\n")
                         no_stop_words, no_stop_pos = self.remove_stopwords(words,pos)
-                        m.write(str(i)+":"+str(j)+":"+str(k)+":"+(" ".join(no_stop_words)+"\n"))
+                        m.write(docName+":"+str(j)+":"+str(k)+":"+(" ".join(no_stop_words)+"\n"))
                         n.write(" ".join(no_stop_pos)+"\n")
 if __name__ == "__main__":
     path = sys.argv[1]
