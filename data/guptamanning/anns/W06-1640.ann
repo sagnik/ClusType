@@ -1,0 +1,12 @@
+T1|Opinion Summarization|187,208|DOMAIN,FOCUS
+T2|opinion summaries|500,517|DOMAIN,FOCUS
+T3|sentiment analysis|665,683|DOMAIN,FOCUS
+T4|coreference resolution|846,868|DOMAIN
+T5|Opinion Summarization|187,208|FOCUS
+T6|opinion summaries|500,517|FOCUS
+T7|sentiment analysis|665,683|FOCUS
+T8|Partially Supervised Coreference Resolution|37,80|TECHNIQUE
+T9|Structured Rule Learning|317,341|TECHNIQUE
+T10|partially supervised|1010,1030|TECHNIQUE
+T11|partially supervised clustering|1184,1215|TECHNIQUE
+T12|source coreference resolution|1346,1375|TECHNIQUE

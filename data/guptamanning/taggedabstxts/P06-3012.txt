@@ -1,0 +1,8 @@
+<tag name="FOCUS" value="start"/><tag name="TECHNIQUE" value="start"/>Focus<tag name="TECHNIQUE" value="end"/> To Emphasize <tag name="TECHNIQUE" value="start"/>Tone Structures<tag name="TECHNIQUE" value="end"/> For <tag name="DOMAIN" value="start"/>Prosodic Analysis In Spoken Language Generation<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> .
+We analyze the concept of <tag name="FOCUS" value="start"/><tag name="TECHNIQUE" value="start"/>focus<tag name="TECHNIQUE" value="end"/> in speech<tag name="FOCUS" value="end"/> and the relationship between <tag name="FOCUS" value="start"/>focus and speech acts for <tag name="DOMAIN" value="start"/>prosodic generation<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> .
+We determinehowthespeaker 's utterancesare influenced by speaker 's intention .
+The relationship between speech acts and focus information is used to define which parts of the sentence serve as the focus parts .
+We propose the <tag name="FOCUS" value="start"/>Focus to Emphasize <tag name="TECHNIQUE" value="start"/>Tones<tag name="TECHNIQUE" value="end"/> -LRB- FET -RRB- structure<tag name="FOCUS" value="end"/> to analyze the focus components .
+We also design the <tag name="FOCUS" value="start"/><tag name="TECHNIQUE" value="start"/>FET grammar<tag name="TECHNIQUE" value="end"/><tag name="FOCUS" value="end"/> to analyze the intonation patterns and produce tone marks as a result of our analysis .
+We present a proof-of-the-concept working example to validate our proposal .
+More comprehensive evaluations are part of our current work .

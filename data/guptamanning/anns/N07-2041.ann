@@ -1,0 +1,19 @@
+T1|Biomedical Named-Entity|98,121|DOMAIN,FOCUS
+T2|Functional Relation|256,275|DOMAIN,FOCUS
+T3|biomedical named-entities|677,702|DOMAIN,FOCUS
+T4|localization relations|1010,1032|DOMAIN,FOCUS
+T5|relation extraction|1568,1587|DOMAIN,FOCUS
+T6|relation extraction|2045,2064|DOMAIN,FOCUS
+T7|Biomedical Named-Entity|98,121|FOCUS
+T8|Functional Relation|256,275|FOCUS
+T9|biomedical named-entities|677,702|FOCUS
+T10|NEs|842,845|FOCUS
+T11|localization relations|1010,1032|FOCUS
+T12|relation extraction|1568,1587|FOCUS
+T13|relation extraction|2045,2064|FOCUS
+T14|Statistical Parsing|382,401|TECHNIQUE
+T15|statistical parsing|514,533|TECHNIQUE
+T16|parser|1203,1209|TECHNIQUE
+T17|syntactic|1300,1309|TECHNIQUE
+T18|semantic|1403,1411|TECHNIQUE
+T19|semi-supervised|1713,1728|TECHNIQUE

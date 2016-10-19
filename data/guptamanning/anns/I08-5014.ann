@@ -1,0 +1,6 @@
+T1|Named Entity Recognition|67,91|DOMAIN,FOCUS
+T2|named entities|311,325|DOMAIN,FOCUS
+T3|Named Entity Recognition|67,91|FOCUS
+T4|named entities|311,325|FOCUS
+T5|Phonetic matching|449,466|TECHNIQUE
+T6|rules|804,809|TECHNIQUE

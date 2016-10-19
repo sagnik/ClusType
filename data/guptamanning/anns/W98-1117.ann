@@ -1,0 +1,13 @@
+T1|Partial Parser|157,171|DOMAIN,FOCUS
+T2|partial parser|349,363|DOMAIN,FOCUS
+T3|parser|1074,1080|DOMAIN,FOCUS
+T4|parser|1348,1354|DOMAIN,FOCUS
+T5|Partial Parser|157,171|FOCUS
+T6|partial parser|349,363|FOCUS
+T7|parser|1074,1080|FOCUS
+T8|parser|1348,1354|FOCUS
+T9|Maximum-Entropy|39,54|TECHNIQUE
+T10|maximum entropy|556,571|TECHNIQUE
+T11|hierarchical structure|746,768|TECHNIQUE
+T12|parts of speech|843,858|TECHNIQUE
+T13|phrasal categories|935,953|TECHNIQUE

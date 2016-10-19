@@ -1,0 +1,10 @@
+T1|Grammar Induction|110,127|DOMAIN,FOCUS
+T2|bootstrapping grammars|724,746|DOMAIN,FOCUS
+T3|parsing sentence pairs|402,424|DOMAIN
+T4|Grammar Induction|110,127|FOCUS
+T5|bootstrapping grammars|724,746|FOCUS
+T6|synchronous parsing|1204,1223|FOCUS
+T7|parsing|1407,1414|FOCUS
+T8|Earley-style dynamic programming|252,284|TECHNIQUE
+T9|grammatical information|892,915|TECHNIQUE
+T10|-LRB- statistical -RRB- word alignment|1045,1083|TECHNIQUE

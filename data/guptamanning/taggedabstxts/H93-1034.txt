@@ -1,0 +1,7 @@
+Efficient <tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/> Collaborative Discourse<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> : A Theory And Its Implementation .
+An architecture for <tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>voice dialogue machines<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> is described with emphasis on the problem solving and high level decision making mechanisms .
+The architecture provides facilities for <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>generating voice interactions<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> aimed at cooperative human-machine problem solving .
+It assumes that the dialogue will consist of a series of local selfconsistent subdialogues each aimed at subgoals related to the overall task .
+The discourse may consist of a set of such subdiaiogues with jumps from one subdialogue to the other in a search for a successful conclusion .
+The architecture maintains a <tag name="TECHNIQUE" value="start"/>user model<tag name="TECHNIQUE" value="end"/> to assure that interactions properly account for the level of competence of the user , and it includes an ability for the machine to take the initiative or yield the initiative to the user .
+It uses <tag name="TECHNIQUE" value="start"/>expectation <tag name="TECHNIQUE" value="end"/> from the dialogue processor to aid in the correction of errors from the speech recognizer .

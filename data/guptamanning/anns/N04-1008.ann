@@ -1,0 +1,10 @@
+T1|Question Answering|77,95|DOMAIN,FOCUS
+T2|Question Answering|290,308|DOMAIN,FOCUS
+T3|answer\/question|1020,1036|DOMAIN,FOCUS
+T4|FAQlike questions and answers|505,534|DOMAIN
+T5|Question Answering|77,95|FOCUS
+T6|Question Answering|290,308|FOCUS
+T7|answer\/question|1020,1036|FOCUS
+T8|noisy-channel|667,680|TECHNIQUE
+T9|language model|788,802|TECHNIQUE
+T10|transformation|893,907|TECHNIQUE

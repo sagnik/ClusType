@@ -1,0 +1,11 @@
+T1|Generation|77,87|DOMAIN
+T2|autosegmental representations|554,583|DOMAIN
+T3|universal generator Gen|656,679|DOMAIN
+T4|generation|1215,1225|DOMAIN
+T5|primitive Optimality Theory -LRB- OTP -RRB-|239,282|FOCUS
+T6|formalization of OT|376,395|FOCUS
+T7|OTP|462,465|FOCUS
+T8|OTP|874,877|FOCUS
+T9|finite-state methods|993,1013|TECHNIQUE
+T10|finite-state|1582,1594|TECHNIQUE
+T11|factored automata|1679,1696|TECHNIQUE

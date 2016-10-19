@@ -1,0 +1,8 @@
+T1|lexical category|1076,1092|DOMAIN,FOCUS
+T2|Concept Discovery|152,169|DOMAIN
+T3|concept acquisition|1603,1622|DOMAIN
+T4|lexical category|1076,1092|FOCUS
+T5|Unsupervised|70,82|TECHNIQUE
+T6|Unsupervised Word Prefix Segmentation|293,330|TECHNIQUE
+T7|unsupervised word segmentation|1227,1257|TECHNIQUE
+T8|unsupervised|1519,1533|TECHNIQUE

@@ -1,0 +1,7 @@
+<tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Synonym Extraction<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> Using A <tag name="TECHNIQUE" value="start"/>Semantic Distance On A Dictionary<tag name="TECHNIQUE" value="end"/> .
+<tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Synonyms extraction<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> is a difficult task to achieve and evaluate .
+Some studies have tried to exploit general dictionaries for that purpose , seeing them as graphs where words are related by the definition they appear in , in a complex network of an arguably semantic nature .
+The advantage of using a general <tag name="TECHNIQUE" value="start"/>dictionary<tag name="TECHNIQUE" value="end"/> lies in the coverage , and the availability of such resources , in general and also in specialised domains .
+We present here a method exploiting such a <tag name="TECHNIQUE" value="start"/>graph structure<tag name="TECHNIQUE" value="end"/> to compute a distance between words .
+This distance is used to isolate candidate <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>synonyms<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> for a given word .
+We present an evaluation of the relevance of the candidates on a sample of the lexicon .

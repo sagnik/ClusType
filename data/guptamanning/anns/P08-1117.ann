@@ -1,0 +1,16 @@
+T1|Entailed Semantic Relations|81,108|DOMAIN,FOCUS
+T2|textual inference|370,387|DOMAIN,FOCUS
+T3|semantic relations|699,717|DOMAIN,FOCUS
+T4|relations|1719,1728|DOMAIN
+T5|Entailed Semantic Relations|81,108|FOCUS
+T6|textual inference|370,387|FOCUS
+T7|semantic relations|699,717|FOCUS
+T8|Syntax-Based Comma Resolution|217,246|TECHNIQUE
+T9|comma structures|505,521|TECHNIQUE
+T10|comma resolution|881,897|TECHNIQUE
+T11|Sentence Transformation Rule Learner|1157,1193|TECHNIQUE
+T12|ASTRL|1272,1277|TECHNIQUE
+T13|machine learning|1360,1376|TECHNIQUE
+T14|syntactic analysis|1471,1489|TECHNIQUE
+T15|sentence transformation rules|1587,1616|TECHNIQUE
+T16|comma structures|1848,1864|TECHNIQUE

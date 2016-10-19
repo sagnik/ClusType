@@ -1,0 +1,13 @@
+T1|Classifying Factored Genres|67,94|DOMAIN,FOCUS
+T2|genre classification|365,385|DOMAIN,FOCUS
+T3|genres|1009,1015|DOMAIN,FOCUS
+T4|genre|1243,1248|DOMAIN,FOCUS
+T5|genres|1416,1422|DOMAIN,FOCUS
+T6|Classifying Factored Genres|67,94|FOCUS
+T7|genre classification|365,385|FOCUS
+T8|genres|1009,1015|FOCUS
+T9|genre|1243,1248|FOCUS
+T10|genres|1416,1422|FOCUS
+T11|Part-of-Speech Histograms|200,225|TECHNIQUE
+T12|word\/POS histograms|624,644|TECHNIQUE
+T13|PCA transform|724,737|TECHNIQUE

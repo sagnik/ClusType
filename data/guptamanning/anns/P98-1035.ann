@@ -1,0 +1,11 @@
+T1|Language Modeling|174,191|DOMAIN,FOCUS
+T2|language model|345,359|DOMAIN,FOCUS
+T3|trigram modeling|1292,1308|DOMAIN,FOCUS
+T4|automatic speech recognition|932,960|DOMAIN
+T5|Language Modeling|174,191|FOCUS
+T6|language model|345,359|FOCUS
+T7|trigram modeling|1292,1308|FOCUS
+T8|Syntactic Structure|48,67|TECHNIQUE
+T9|syntactic structure|474,493|TECHNIQUE
+T10|long distance dependencies|661,687|TECHNIQUE
+T11|probabilistic|1048,1061|TECHNIQUE

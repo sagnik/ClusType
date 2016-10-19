@@ -1,0 +1,11 @@
+T1|Spoken Utterance Retrieval|164,190|DOMAIN,FOCUS
+T2|spoken document retrieval|338,363|DOMAIN,FOCUS
+T3|spoken utterance retrieval|1260,1286|DOMAIN,FOCUS
+T4|Spoken Utterance Retrieval|164,190|FOCUS
+T5|spoken document retrieval|338,363|FOCUS
+T6|indexing|1104,1112|FOCUS
+T7|spoken utterance retrieval|1260,1286|FOCUS
+T8|Lattice-Based Search|37,57|TECHNIQUE
+T9|lattices|1401,1409|TECHNIQUE
+T10|word lattices|1732,1745|TECHNIQUE
+T11|phone lattices|1831,1845|TECHNIQUE

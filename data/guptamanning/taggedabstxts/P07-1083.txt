@@ -1,0 +1,6 @@
+<tag name="TECHNIQUE" value="start"/>Alignment-Based Discriminative<tag name="TECHNIQUE" value="end"/> <tag name="DOMAIN" value="start"/>String Similarity<tag name="DOMAIN" value="end"/> .
+A character-based measure of similarity is an important component of many natural language processing systems , including approaches to transliteration , coreference , word alignment , spelling correction , and the identi cation of cognates in related vocabularies .
+We propose an <tag name="TECHNIQUE" value="start"/>alignment-based discriminative<tag name="TECHNIQUE" value="end"/> framework for <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>string similarity<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
+We gather features from substring pairs consistent with a <tag name="TECHNIQUE" value="start"/>character-based alignment<tag name="TECHNIQUE" value="end"/> of the two strings .
+This approach achieves exceptional performance ; on nine separate cognate identi cation experiments using six language pairs , we more than double the precision of traditional orthographic measures like Longest Common Subsequence Ratio and Dice 's Coef cient .
+We also show strong improvements over other recent discriminative and heuristic similarity functions .

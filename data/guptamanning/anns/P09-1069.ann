@@ -1,0 +1,11 @@
+T1|Compositional Semantic Parser|78,107|DOMAIN,FOCUS
+T2|semantic parser|387,402|DOMAIN,FOCUS
+T3|compositional semantic|869,891|DOMAIN,FOCUS
+T4|database querying|1108,1125|DOMAIN
+T5|robot control|1206,1219|DOMAIN
+T6|Compositional Semantic Parser|78,107|FOCUS
+T7|semantic parser|387,402|FOCUS
+T8|compositional semantic|869,891|FOCUS
+T9|Syntactic Parser|226,242|TECHNIQUE
+T10|syntactic parser|626,642|TECHNIQUE
+T11|parse trees|740,751|TECHNIQUE

@@ -1,0 +1,11 @@
+T1|named entity recognition|568,592|DOMAIN,FOCUS
+T2|NER|729,732|DOMAIN,FOCUS
+T3|Named Entity Recognition|67,91|DOMAIN
+T4|named entity recognition|294,318|DOMAIN
+T5|named entity recognizer|1025,1048|DOMAIN
+T6|nested name entities|1168,1188|DOMAIN
+T7|named entity recognition|568,592|FOCUS
+T8|NER|729,732|FOCUS
+T9|machine learning|1287,1303|TECHNIQUE
+T10|POS tagger|1573,1583|TECHNIQUE
+T11|chunker|1660,1667|TECHNIQUE

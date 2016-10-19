@@ -1,0 +1,4 @@
+A Prototype Of A <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Grammar Checker<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> For Czech .
+This paper describes the implementation of a prototype of a <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>grammar based grammar checker<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> for Czech and the basic ideas behind this implementation .
+The demo is implemented as an independent program cooperating with Microsoft Word .
+The <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>grammar checker<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> uses <tag name="TECHNIQUE" value="start"/>specialized grammar formalism<tag name="TECHNIQUE" value="end"/> which generally enables to check errors in languages with a very high degree of word order freedom .

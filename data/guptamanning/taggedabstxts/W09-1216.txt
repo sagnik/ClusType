@@ -1,0 +1,8 @@
+<tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Multilingual Semantic Parsing<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> with a Pipeline of <tag name="TECHNIQUE" value="start"/>Linear Classifiers<tag name="TECHNIQUE" value="end"/> .
+I describe a fast <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>multilingual parser<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> for <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>semantic dependencies<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
+The parser is implemented as a pipeline of <tag name="TECHNIQUE" value="start"/>linear classifiers<tag name="TECHNIQUE" value="end"/> trained with <tag name="TECHNIQUE" value="start"/>support vector machines<tag name="TECHNIQUE" value="end"/> .
+I use only <tag name="TECHNIQUE" value="start"/>first order features<tag name="TECHNIQUE" value="end"/> , and no pair-wise feature combinations in order to reduce training and prediction times .
+Hyper-parameters are carefully tuned for each language and sub-problem .
+The system is evaluated on seven different languages : Catalan , Chinese , Czech , English , German , Japanese and Spanish .
+An analysis of learning rates and of the reliance on syntactic parsing quality shows that only modest improvements could be expected for most languages given more training data ; Better syntactic parsing quality , on the other hand , could greatly improve the results .
+Individual tuning of hyper-parameters is crucial for obtaining good <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>semantic parsing<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> quality .

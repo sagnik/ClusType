@@ -1,0 +1,10 @@
+T1|Word Sense Disambiguation|184,209|DOMAIN,FOCUS
+T2|word sense disambiguation|977,1002|DOMAIN,FOCUS
+T3|Word Sense Disambiguation|184,209|FOCUS
+T4|RLSC-LIN|328,336|FOCUS
+T5|RLSCCOMB|405,413|FOCUS
+T6|word sense disambiguation|977,1002|FOCUS
+T7|Regularized Least-Squares Classification|37,77|TECHNIQUE
+T8|Regularized Least-Squares Classification|584,624|TECHNIQUE
+T9|RLSC|703,707|TECHNIQUE
+T10|learning|786,794|TECHNIQUE

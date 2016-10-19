@@ -1,0 +1,20 @@
+T1|Unknown Lexical Items|79,100|DOMAIN,FOCUS
+T2|unknown words|476,489|DOMAIN,FOCUS
+T3|unknown words|838,851|DOMAIN,FOCUS
+T4|unknown words|1369,1382|DOMAIN,FOCUS
+T5|unknown words|2280,2293|DOMAIN,FOCUS
+T6|parser|1839,1845|DOMAIN
+T7|parse|2154,2159|DOMAIN
+T8|Unknown Lexical Items|79,100|FOCUS
+T9|unknown words|476,489|FOCUS
+T10|unknown words|838,851|FOCUS
+T11|unknown words|1369,1382|FOCUS
+T12|unknown words|2280,2293|FOCUS
+T13|Morphological|207,220|TECHNIQUE
+T14|Syntactic|297,306|TECHNIQUE
+T15|syntactic|972,981|TECHNIQUE
+T16|morphological|1142,1155|TECHNIQUE
+T17|morphology|1580,1590|TECHNIQUE
+T18|syntactic|1667,1676|TECHNIQUE
+T19|morphological|1940,1953|TECHNIQUE
+T20|syntactic rules|2066,2081|TECHNIQUE

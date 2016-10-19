@@ -1,0 +1,9 @@
+<tag name="TECHNIQUE" value="start"/>Data-Driven<tag name="TECHNIQUE" value="end"/>Classification Of  <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Linguistic Styles In Spoken Dialogues<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
+Language users have individual <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>linguistic styles<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
+A <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>spoken dialogue<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> system may benefit from adapting to the linguistic style of a user in input analysis and output generation .
+To investigate the possibility to automatically classify speakers according to their <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>linguistic style<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> three corpora of <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>spoken dialogues<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> were analyzed .
+Several numerical parameters were computed for every speaker .
+These parameters were reduced to linguistically interpretable components by means of a <tag name="TECHNIQUE" value="start"/>principal component analysis<tag name="TECHNIQUE" value="end"/> .
+Classes were established from these components by <tag name="TECHNIQUE" value="start"/>cluster analysis<tag name="TECHNIQUE" value="end"/> .
+Unseen input was classified by trained <tag name="TECHNIQUE" value="start"/>neural networks<tag name="TECHNIQUE" value="end"/> with varying error rates depending on corpus type .
+A first investigation in using special <tag name="TECHNIQUE" value="start"/>language models<tag name="TECHNIQUE" value="end"/> for speaker classes was carried out .

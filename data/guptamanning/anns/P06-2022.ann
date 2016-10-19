@@ -1,0 +1,12 @@
+T1|Nominal Mentions Of Events|92,118|DOMAIN,FOCUS
+T2|event extraction|387,403|DOMAIN,FOCUS
+T3|event extraction|674,690|DOMAIN,FOCUS
+T4|Nominal Mentions Of Events|92,118|FOCUS
+T5|event extraction|387,403|FOCUS
+T6|event extraction|674,690|FOCUS
+T7|nominal event mentions|1024,1046|FOCUS
+T8|Bootstrapped Probabilistic Classifier|226,263|TECHNIQUE
+T9|weaklysupervised|882,898|TECHNIQUE
+T10|word sense disambiguation -LRB- WSD -RRB- andlexicalacquisitiontocreateaclassifier|1177,1259|TECHNIQUE
+T11|bootstrapped probabilistic generative|1406,1443|TECHNIQUE
+T12|bootstrapping|1694,1707|TECHNIQUE

@@ -1,0 +1,7 @@
+Transforming <tag name="TECHNIQUE" value="start"/>Examples Into Patterns<tag name="TECHNIQUE" value="end"/> For <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Information Extraction<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
+<tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Information Extraction<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> -LRB- <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>IE<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> -RRB- systems today are commonly based on pattern matching .
+The patterns are regular expressions stored in a customizable knowledge base .
+Adapting an IE system to a new subject domain entails the construction of a new pattern base - a time-consuming and expensive task .
+We describe a strategy for building <tag name="TECHNIQUE" value="start"/>patterns from examples<tag name="TECHNIQUE" value="end"/> .
+To adapt the IE system to a new domain quickly , the user chooses a set of examples in a training text , and for each example gives the logical form entries which the example induces .
+The system transforms these examples into patterns and then applies <tag name="TECHNIQUE" value="start"/>meta-rules<tag name="TECHNIQUE" value="end"/> to generalize these patterns .

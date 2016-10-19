@@ -1,0 +1,15 @@
+T1|Context Sensing|67,82|DOMAIN,FOCUS
+T2|context|373,380|DOMAIN,FOCUS
+T3|context from noisy transcriptions of spoken conversations|935,992|DOMAIN
+T4|Context Sensing|67,82|FOCUS
+T5|context|373,380|FOCUS
+T6|OVERHEAR|1479,1487|FOCUS
+T7|Speech And Common Sense|189,212|TECHNIQUE
+T8|conversation topics|494,513|TECHNIQUE
+T9|prior knowledge|596,611|TECHNIQUE
+T10|common sense|799,811|TECHNIQUE
+T11|common sense|1068,1080|TECHNIQUE
+T12|OMCSNet|1216,1223|TECHNIQUE
+T13|commonsense semantic network|1300,1328|TECHNIQUE
+T14|LifeNet|1703,1710|TECHNIQUE
+T15|probabilistic graphical|1787,1810|TECHNIQUE

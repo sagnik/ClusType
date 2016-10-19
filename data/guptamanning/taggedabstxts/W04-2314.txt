@@ -1,0 +1,8 @@
+<tag name="TECHNIQUE" value="start"/>Bootstrapping<tag name="TECHNIQUE" value="end"/> <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Spoken Dialog<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> Systems With Data Reuse .
+Building natural language spoken dialog systems requires large amounts of human transcribed and labeled speech utterances to reach useful operational service performances .
+Furthermore , the design of such complex systems consists of several manual steps .
+The User Experience -LRB- UE -RRB- expert analyzes and de nes by hand the system core functionalities : the system semantic scope -LRB- call-types -RRB- and the dialog manager strategy which will drive the human-machine interaction .
+This approach is extensive and error prone since it involves several non-trivial design decisions that can only be evaluated after the actual system deployment .
+Moreover , scalability is compromised by time , costs and the high level of UE know-how needed to reach a consistent design .
+We propose a novel approach for <tag name="TECHNIQUE" value="start"/>bootstrapping<tag name="TECHNIQUE" value="end"/> <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>spoken dialog<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> systems based on reuse of existing transcribed and labeled data , common reusable dialog <tag name="TECHNIQUE" value="start"/>templates and patterns<tag name="TECHNIQUE" value="end"/> , generic language and understanding models , and a consistent design process .
+We demonstrate that our approach reduces design and development time while providing an effective system without any application speci c data .

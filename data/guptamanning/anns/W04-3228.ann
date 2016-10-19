@@ -1,0 +1,10 @@
+T1|Tree-Based Alignment|245,265|DOMAIN,FOCUS
+T2|treeto-tree alignment|515,536|DOMAIN,FOCUS
+T3|Tree-Based Alignment|245,265|FOCUS
+T4|treeto-tree alignment|515,536|FOCUS
+T5|Dependencies|37,49|TECHNIQUE
+T6|Constituents|126,138|TECHNIQUE
+T7|statistical|401,412|TECHNIQUE
+T8|probabilistic tree transduction|735,766|TECHNIQUE
+T9|constituent-based|986,1003|TECHNIQUE
+T10|dependency|1172,1182|TECHNIQUE

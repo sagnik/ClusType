@@ -1,0 +1,11 @@
+T1|Information Extraction|219,241|DOMAIN,FOCUS
+T2|event coreference|419,436|DOMAIN,FOCUS
+T3|information extraction|1386,1408|DOMAIN,FOCUS
+T4|Event Coreference|67,84|DOMAIN
+T5|complex event representations|555,584|DOMAIN
+T6|information extraction|680,702|DOMAIN
+T7|object -LRB- noun phrase -RRB- and event coreference resolution .|1141,1206|DOMAIN
+T8|Information Extraction|219,241|FOCUS
+T9|event coreference|419,436|FOCUS
+T10|information extraction|1386,1408|FOCUS
+T11|world or conceptual modelling and discourse modelling|859,914|TECHNIQUE

@@ -1,0 +1,13 @@
+T1|Spoken Lecture Segmentation|161,188|DOMAIN,FOCUS
+T2|lecture segmentation|430,450|DOMAIN,FOCUS
+T3|segmentation|596,608|DOMAIN,FOCUS
+T4|segmentation|1193,1205|DOMAIN,FOCUS
+T5|Spoken Lecture Segmentation|161,188|FOCUS
+T6|lecture segmentation|430,450|FOCUS
+T7|segmentation|596,608|FOCUS
+T8|segmentation|1193,1205|FOCUS
+T9|Minimum Cut|37,48|TECHNIQUE
+T10|unsupervised|315,327|TECHNIQUE
+T11|graph-partitioning|714,732|TECHNIQUE
+T12|normalized cut|829,843|TECHNIQUE
+T13|longrange cohesion dependencies|999,1030|TECHNIQUE

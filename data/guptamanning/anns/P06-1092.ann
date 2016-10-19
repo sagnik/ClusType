@@ -1,0 +1,6 @@
+T1|phoneme-to-text transcription|1053,1082|DOMAIN,FOCUS
+T2|Phoneme-To-Text Transcription|67,96|DOMAIN
+T3|phoneme-to-text transcription|1053,1082|FOCUS
+T4|noisy channel model|238,257|TECHNIQUE
+T5|adaptation|464,474|TECHNIQUE
+T6|language model|739,753|TECHNIQUE

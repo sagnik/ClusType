@@ -1,0 +1,18 @@
+T1|Language Model Adaptation|151,178|DOMAIN,FOCUS
+T2|Language model -LRB- LM -RRB- adaptation|422,462|DOMAIN,FOCUS
+T3|LM adaptation|1102,1115|DOMAIN,FOCUS
+T4|Language Model Adaptation|151,178|FOCUS
+T5|Language model -LRB- LM -RRB- adaptation|422,462|FOCUS
+T6|LM adaptation|1102,1115|FOCUS
+T7|Unsupervised|37,49|TECHNIQUE
+T8|Named Entity Information|293,317|TECHNIQUE
+T9|named entity|840,852|TECHNIQUE
+T10|NE|932,934|TECHNIQUE
+T11|latent topic analysis|1234,1255|TECHNIQUE
+T12|clustering|1364,1374|TECHNIQUE
+T13|Latent Dirichlet Allocation|1451,1478|TECHNIQUE
+T14|LDA|1557,1560|TECHNIQUE
+T15|topic mixture models|1702,1724|TECHNIQUE
+T16|LDA|1818,1821|TECHNIQUE
+T17|LDA-based|2060,2069|TECHNIQUE
+T18|named entities|2169,2183|TECHNIQUE

@@ -1,0 +1,12 @@
+T1|translation|854,865|DOMAIN,FOCUS
+T2|translation|1389,1400|DOMAIN,FOCUS
+T3|MT System|240,251|DOMAIN
+T4|machine translation|460,479|DOMAIN
+T5|MT-system|1993,2002|DOMAIN
+T6|Compound Nouns|33,47|FOCUS
+T7|translation|854,865|FOCUS
+T8|translation|1389,1400|FOCUS
+T9|Unification-Based|121,138|TECHNIQUE
+T10|unification-based|607,624|TECHNIQUE
+T11|interlingua-based|1645,1662|TECHNIQUE
+T12|transfer-based|1750,1764|TECHNIQUE

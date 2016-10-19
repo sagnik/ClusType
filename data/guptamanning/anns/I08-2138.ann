@@ -1,0 +1,15 @@
+T1|grammar checking|269,285|DOMAIN,FOCUS
+T2|grammatical errors|454,472|DOMAIN,FOCUS
+T3|error detection|1242,1257|DOMAIN,FOCUS
+T4|grammatical errors|1520,1538|DOMAIN,FOCUS
+T5|Grammar Checker|77,92|DOMAIN
+T6|grammar checking|269,285|FOCUS
+T7|grammatical errors|454,472|FOCUS
+T8|error detection|1242,1257|FOCUS
+T9|grammatical errors|1520,1538|FOCUS
+T10|lexicon|697,704|TECHNIQUE
+T11|morphology|781,791|TECHNIQUE
+T12|rule-based|877,887|TECHNIQUE
+T13|part of speech tagging|972,994|TECHNIQUE
+T14|phrase chunking|1071,1086|TECHNIQUE
+T15|rules|1358,1363|TECHNIQUE

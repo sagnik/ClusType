@@ -1,0 +1,15 @@
+T1|Spoken Dialog Management|246,270|DOMAIN,FOCUS
+T2|spoken dialog management|620,644|DOMAIN,FOCUS
+T3|spoken dialog|1677,1690|DOMAIN,FOCUS
+T4|weather information|1290,1309|DOMAIN
+T5|car navigation dialog|1380,1401|DOMAIN
+T6|Frame-Based Probabilistic|72,97|FOCUS
+T7|Spoken Dialog Management|246,270|FOCUS
+T8|spoken dialog management|620,644|FOCUS
+T9|spoken dialog|1677,1690|FOCUS
+T10|Examples|385,393|TECHNIQUE
+T11|probabilistic|490,503|TECHNIQUE
+T12|frame-based belief state representation|918,957|TECHNIQUE
+T13|examples|1097,1105|TECHNIQUE
+T14|frame-based probabilistic|1494,1519|TECHNIQUE
+T15|probabilistic|1806,1819|TECHNIQUE

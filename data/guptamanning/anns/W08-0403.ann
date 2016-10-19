@@ -1,0 +1,11 @@
+T1|Translation|260,273|DOMAIN
+T2|SMT|732,735|DOMAIN
+T3|Prior Derivation|37,53|TECHNIQUE
+T4|Syntax-Based|179,191|TECHNIQUE
+T5|Linguistically Syntactic Parsing|380,412|TECHNIQUE
+T6|Tree Kernels|489,501|TECHNIQUE
+T7|syntax-based|650,662|TECHNIQUE
+T8|statistical constituent parsers|914,945|TECHNIQUE
+T9|prior derivation|1058,1074|TECHNIQUE
+T10|training|1276,1284|TECHNIQUE
+T11|tree kernel|1408,1419|TECHNIQUE

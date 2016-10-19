@@ -1,0 +1,12 @@
+T1|Phonotactic Word Segmentation|79,108|DOMAIN,FOCUS
+T2|word boundaries|461,476|DOMAIN,FOCUS
+T3|boundary marking|963,979|DOMAIN,FOCUS
+T4|Phonotactic Word Segmentation|79,108|FOCUS
+T5|WordEnds|332,342|FOCUS
+T6|word boundaries|461,476|FOCUS
+T7|boundary marking|963,979|FOCUS
+T8|WordEnds|1436,1444|FOCUS
+T9|unsupervised|237,249|TECHNIQUE
+T10|Phone ngrams|616,628|TECHNIQUE
+T11|bootstrap|746,755|TECHNIQUE
+T12|discriminative|837,851|TECHNIQUE

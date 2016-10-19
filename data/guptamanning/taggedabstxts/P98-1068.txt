@@ -1,0 +1,5 @@
+Japanese <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Morphological Analyzer<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> using <tag name="TECHNIQUE" value="start"/>Word Co-occurrence<tag name="TECHNIQUE" value="end"/> - JTAG .
+We developed a Japanese <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>morphological analyzer<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> that uses the <tag name="TECHNIQUE" value="start"/>co-occurrence of words<tag name="TECHNIQUE" value="end"/> to select the correct sequence of words in an unsegmented Japanese sentence .
+The <tag name="TECHNIQUE" value="start"/>co-occurrence<tag name="TECHNIQUE" value="end"/> information can be obtained from cases where the system incorrectly analyzes sentences .
+As the amount of information increases , the accuracy of the system increases with a small risk of degradation .
+Experimental results show that the proposed system assigns the correct phonological representations to unsegmented Japanese sentences more precisely than do other popular systems .

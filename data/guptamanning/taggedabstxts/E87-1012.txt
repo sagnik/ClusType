@@ -1,0 +1,8 @@
+A Tool For The Automatic Creation , Extension And Updating Of  <tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>Lexical Knowledge Bases<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> .
+A tool is described which helps in the creation , extension and updating of <tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>lexical knowledge bases<tag name="DOMAIN" value="end"/> -LRB- <tag name="DOMAIN" value="start"/>LKBs<tag name="DOMAIN" value="end"/> -RRB-<tag name="FOCUS" value="end"/> .
+Two levels of representation are distinguished : a <tag name="TECHNIQUE" value="start"/>static storage level<tag name="TECHNIQUE" value="end"/> and a <tag name="TECHNIQUE" value="start"/>dynamic knowledge level<tag name="TECHNIQUE" value="end"/> .
+The latter is an object-oriented environment containing <tag name="TECHNIQUE" value="start"/>linguistic and lexicographic knowledge<tag name="TECHNIQUE" value="end"/> .
+At the knowledge level , constructors and filters can be defined .
+Constructors are objects which extend the <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>LKB<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> both horizontally -LRB- new information -RRB- and vertically -LRB- new entries -RRB- using the <tag name="TECHNIQUE" value="start"/>linguistic knowledge<tag name="TECHNIQUE" value="end"/> .
+Filters are objects which derive new <tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>LKBs<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> from existing ones thereby optionally changing the storage structure .
+The latter use <tag name="TECHNIQUE" value="start"/>lexicographic knowledge<tag name="TECHNIQUE" value="end"/> .

@@ -1,0 +1,8 @@
+A New Method for <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Sentiment Classification<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> in Text Retrieval .
+Traditional text categorization is usually a topic-based task , but a subtle demand on information retrieval is to distinguish between positive and negative view on text topic .
+In this paper , a new method is explored to solve this problem .
+Firstly , a batch of <tag name="TECHNIQUE" value="start"/>Concerned Concepts<tag name="TECHNIQUE" value="end"/> in the researched domain is predefined .
+Secondly , the special knowledge representing the positive or negative <tag name="TECHNIQUE" value="start"/> context<tag name="TECHNIQUE" value="end"/> of these concepts within sentences is built up .
+At last , an evaluating function based on the knowledge is defined for <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>sentiment classification<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> of free text .
+We introduce some <tag name="TECHNIQUE" value="start"/>linguistic knowledge<tag name="TECHNIQUE" value="end"/> in these procedures to make our method effective .
+As a result , the new method proves better compared with <tag name="TECHNIQUE" value="start"/>SVM<tag name="TECHNIQUE" value="end"/> when experimenting on Chinese texts about a certain topic .

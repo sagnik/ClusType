@@ -1,0 +1,6 @@
+<tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>Classifying Amharic News Text<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> Using <tag name="TECHNIQUE" value="start"/>Self-Organizing Maps<tag name="TECHNIQUE" value="end"/> .
+The paper addresses using <tag name="TECHNIQUE" value="start"/>artificial neural networks<tag name="TECHNIQUE" value="end"/> for <tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>classification of Amharic news <tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> items .
+Amharic is the language for countrywide communication in Ethiopia and has its own writing system containing extensive systematic redundancy .
+It is quite dialectally diversified and probably representative of the languages of a continent that so far has received little attention within the language processing field .
+The experiments investigated <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>document clustering<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> around user queries using <tag name="TECHNIQUE" value="start"/>SelfOrganizing Maps , an unsupervised learning neural network strategy<tag name="TECHNIQUE" value="end"/> .
+The best ANN model showed a precision of 60.0 % when trying to cluster unseen data , and a 69.5 % precision when trying to classify it .

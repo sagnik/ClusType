@@ -1,0 +1,10 @@
+T1|Morphological Analysis|190,212|DOMAIN,FOCUS
+T2|morphological analysis|601,623|DOMAIN
+T3|word segmentation|1019,1036|DOMAIN
+T4|partof-speech tagging|1107,1128|DOMAIN
+T5|Morphological Analysis|190,212|FOCUS
+T6|Lexicon-Constrained Character|39,68|TECHNIQUE
+T7|lexicon-constrained character|337,366|TECHNIQUE
+T8|word and character features|464,491|TECHNIQUE
+T9|character-based|706,721|TECHNIQUE
+T10|lexicon|817,824|TECHNIQUE

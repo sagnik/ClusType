@@ -1,0 +1,10 @@
+T1|Grammar Induction|254,271|DOMAIN,FOCUS
+T2|unsupervised part-of-speech tag|472,503|FOCUS,TECHNIQUE
+T3|parsing|776,783|DOMAIN
+T4|parsing|1165,1172|DOMAIN
+T5|Unsupervised Part-of-Speech Tagging|81,116|FOCUS
+T6|Grammar Induction|254,271|FOCUS
+T7|unsupervised part-of-speech tag|472,503|TECHNIQUE
+T8|supervised and unsupervised|646,673|TECHNIQUE
+T9|tags|910,914|TECHNIQUE
+T10|unsupervised|1083,1095|TECHNIQUE

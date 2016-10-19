@@ -1,0 +1,6 @@
+T1|named entity|711,723|DOMAIN,FOCUS
+T2|Bio-Medical Entity Extraction|67,96|DOMAIN
+T3|named entity|711,723|FOCUS
+T4|Support Vector Machines|203,226|TECHNIQUE
+T5|Support Vector Machines|301,324|TECHNIQUE
+T6|SVM|943,946|TECHNIQUE

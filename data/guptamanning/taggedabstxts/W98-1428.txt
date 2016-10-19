@@ -1,0 +1,5 @@
+<tag name="FOCUS" value="start"/>EXEMPLARS<tag name="FOCUS" value="end"/> : A Practical , Extensible Framework For <tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>Dynamic Text Generation<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> .
+In this paper , we present <tag name="FOCUS" value="start"/>EXEMPLARS<tag name="FOCUS" value="end"/> , an <tag name="TECHNIQUE" value="start"/>object-oriented , rule-based <tag name="TECHNIQUE" value="end"/> framework designed to support practical , <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>dynamic text generation<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> , emphasizing its novel features compared to .
+existing hybrid systems that mix template-style and more sophisticated techniques .
+These features - .
+include an extensible <tag name="TECHNIQUE" value="start"/>classification-based text planning<tag name="TECHNIQUE" value="end"/>  mechanism , a definition language that is a superset of the Java language , and advanced support for <tag name="TECHNIQUE" value="start"/>HTMIdSGML templates<tag name="TECHNIQUE" value="end"/> .

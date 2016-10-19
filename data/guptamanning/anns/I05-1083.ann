@@ -1,0 +1,18 @@
+T1|Language Model Adaptation|89,114|DOMAIN,FOCUS
+T2|language model adaptation|416,441|DOMAIN,FOCUS
+T3|adapting|1011,1019|DOMAIN,FOCUS
+T4|adaptation|1361,1371|DOMAIN,FOCUS
+T5|adaptation|1795,1805|DOMAIN,FOCUS
+T6|Language Model Adaptation|89,114|FOCUS
+T7|language model adaptation|416,441|FOCUS
+T8|adapting|1011,1019|FOCUS
+T9|adaptation|1361,1371|FOCUS
+T10|adaptation|1795,1805|FOCUS
+T11|Metric of Domain Similarity|223,250|TECHNIQUE
+T12|maximum a posteriori|556,576|TECHNIQUE
+T13|MAP|655,658|TECHNIQUE
+T14|discriminative training|754,777|TECHNIQUE
+T15|information-theoretic|1498,1519|TECHNIQUE
+T16|cross entropy|1602,1615|TECHNIQUE
+T17|discriminative|1939,1953|TECHNIQUE
+T18|MAP-based|2061,2070|TECHNIQUE

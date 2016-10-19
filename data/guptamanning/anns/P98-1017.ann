@@ -1,0 +1,14 @@
+T1|Multilingual Generation in Speech-to-Speech Dialogue Translation|163,227|DOMAIN,FOCUS
+T2|generation component in a multilingual speechto-speech dialogue translation|407,482|DOMAIN,FOCUS
+T3|Multilingual Generation in Speech-to-Speech Dialogue Translation|163,227|FOCUS
+T4|generation component in a multilingual speechto-speech dialogue translation|407,482|FOCUS
+T5|Kernel|50,56|TECHNIQUE
+T6|kernel|746,752|TECHNIQUE
+T7|microplanning|845,858|TECHNIQUE
+T8|syntactic realizer|937,955|TECHNIQUE
+T9|lexical and syntactic choice|1064,1092|TECHNIQUE
+T10|constraint-satisfaction|1176,1199|TECHNIQUE
+T11|syntactic realizer|1289,1307|TECHNIQUE
+T12|HPSG grammars|1390,1403|TECHNIQUE
+T13|microplanning constraints|1664,1689|TECHNIQUE
+T14|HPSG grammars|1770,1783|TECHNIQUE

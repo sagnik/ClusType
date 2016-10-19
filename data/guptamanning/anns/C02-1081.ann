@@ -1,0 +1,15 @@
+T1|Linguistic Styles In Spoken Dialogues|169,206|DOMAIN,FOCUS
+T2|linguistic styles|370,387|DOMAIN,FOCUS
+T3|spoken dialogue|522,537|DOMAIN,FOCUS
+T4|linguistic style|862,878|DOMAIN,FOCUS
+T5|spoken dialogues|1026,1042|DOMAIN,FOCUS
+T6|Linguistic Styles In Spoken Dialogues|169,206|FOCUS
+T7|linguistic styles|370,387|FOCUS
+T8|spoken dialogue|522,537|FOCUS
+T9|linguistic style|862,878|FOCUS
+T10|spoken dialogues|1026,1042|FOCUS
+T11|Data-Driven|37,48|TECHNIQUE
+T12|principal component analysis|1309,1337|TECHNIQUE
+T13|cluster analysis|1462,1478|TECHNIQUE
+T14|neural networks|1592,1607|TECHNIQUE
+T15|language models|1771,1786|TECHNIQUE

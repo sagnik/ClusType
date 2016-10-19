@@ -1,0 +1,5 @@
+<tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Named Entity Recognition<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> for Indian Languages  .
+Abstract Stub This paper talks about a new approach to recognize <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>named entities<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> for Indian languages .
+<tag name="TECHNIQUE" value="start"/>Phonetic matching<tag name="TECHNIQUE" value="end"/> technique is used to match the strings of different languages on the basis of their similar sounding property .
+We have tested our system with a comparable corpus of English and Hindi language data .
+This approach is language independent and requires only a set of <tag name="TECHNIQUE" value="start"/>rules<tag name="TECHNIQUE" value="end"/> appropriate for a language .

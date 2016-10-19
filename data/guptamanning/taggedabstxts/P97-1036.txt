@@ -1,0 +1,6 @@
+<tag name="FOCUS" value="start"/> <tag name="TECHNIQUE" value="start"/>Unification-Based<tag name="TECHNIQUE" value="end"/> <tag name="DOMAIN" value="start"/> Multimodal Integration<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> .
+Recent empirical research has shown conclusive advantages of <tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>multimodal interaction<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> over speech-only interaction for mapbased tasks .
+This paper describes a <tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>multimodal language processing<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> architecture which supports interfaces allowing simultaneous input from <tag name="DOMAIN" value="start"/> speech and gesture recognition<tag name="DOMAIN" value="end"/> .
+Integration of spoken and gestural input is driven by <tag name="TECHNIQUE" value="start"/>unification of typed feature structures <tag name="TECHNIQUE" value="end"/> representing the semantic contributions of the different modes .
+This integration method allows the component modalities to mutually compensate for each others ' errors .
+It is implemented in QuickSet , a multimodal -LRB- pen\/voice -RRB- system that enables users to set up and control distributed interactive simulations .

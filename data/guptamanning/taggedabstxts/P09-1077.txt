@@ -1,0 +1,6 @@
+Automatic <tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/> sense prediction for implicit discourse relations <tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> in text .
+We present a series of experiments on automatically identifying the <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/> sense of implicit discourse relations<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> , i.e. relations that are not marked with a discourse connective such as `` but '' or `` because '' .
+We work with a corpus of implicit relations present in newspaper text and report results on a test set that is representative of the naturally occurring distribution of senses .
+We use several <tag name="TECHNIQUE" value="start"/>linguistically informed features<tag name="TECHNIQUE" value="end"/> , including  <tag name="TECHNIQUE" value="start"/> polarity tags , Levin verb classes , length of verb phrases , modality , context , and lexical features<tag name="TECHNIQUE" value="end"/> .
+In addition , we revisit past approaches using lexical pairs from unannotated text as features , explain some of their shortcomings and propose modifications .
+Our best combination of features outperforms the baseline from data intensive approaches by 4 % for comparison and 16 % for contingency .

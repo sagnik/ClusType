@@ -1,0 +1,5 @@
+An <tag name="TECHNIQUE" value="start"/>Unsupervised <tag name="TECHNIQUE" value="end"/>  Model for <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Text Message Normalization<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
+Cell phone text messaging users express themselves briefly and colloquially using a variety of creative forms .
+We analyze a sample of creative , non-standard text message word forms to determine frequent word formation processes in texting language .
+Drawing on these observations , we construct an <tag name="TECHNIQUE" value="start"/>unsupervised noisy-channel <tag name="TECHNIQUE" value="end"/> model for <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>text message normalization<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
+On a test set of 303 text message forms that differ from their standard form , our model achieves 59 % accuracy , which is on par with the best supervised results reported on this dataset .

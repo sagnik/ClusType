@@ -1,0 +1,9 @@
+T1|voice enabled procedure browser|296,327|DOMAIN,FOCUS
+T2|Voice Enabled Procedure Browser|69,100|DOMAIN
+T3|grammarbased speech recognition|852,883|DOMAIN
+T4|open microphone speech recognition|1145,1179|DOMAIN
+T5|voice enabled procedure browser|296,327|FOCUS
+T6|spoken dialog|585,598|FOCUS
+T7|Regulus toolkit|963,978|TECHNIQUE
+T8|SVM|1053,1056|TECHNIQUE
+T9|side-effect free dialogue management|1262,1298|TECHNIQUE

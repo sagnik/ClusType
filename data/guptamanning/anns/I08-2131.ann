@@ -1,0 +1,13 @@
+T1|Text Correction|88,103|DOMAIN,FOCUS
+T2|spelling errors|528,543|DOMAIN,FOCUS
+T3|spelling mistakes|682,699|DOMAIN,FOCUS
+T4|correction of spelling mistakes|986,1017|DOMAIN,FOCUS
+T5|Text Correction|88,103|FOCUS
+T6|Finite State Automata|243,264|FOCUS
+T7|spelling errors|528,543|FOCUS
+T8|spelling mistakes|682,699|FOCUS
+T9|correction of spelling mistakes|986,1017|FOCUS
+T10|finite state automata|1131,1152|TECHNIQUE
+T11|language model|1353,1367|TECHNIQUE
+T12|dictionary|1607,1617|TECHNIQUE
+T13|language model|1719,1733|TECHNIQUE

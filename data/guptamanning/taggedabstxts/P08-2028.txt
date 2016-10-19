@@ -1,0 +1,5 @@
+The Good , the Bad , and the Unknown : Morphosyllabic  <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Sentiment Tagging of Unseen Words<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
+The omnipresence of unknown words is a problem that any NLP component needs to address in some form .
+While there exist many established techniques for dealing with unknown words in the realm of POS-tagging , for example , guessing unknown words ' semantic properties is a less-explored area with greater challenges .
+In this paper , we study the <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>semantic field of sentiment<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> and propose five methods for assigning prior <tag name="DOMAIN" value="start"/>sentiment polarities to unknown words<tag name="DOMAIN" value="end"/> based on known <tag name="TECHNIQUE" value="start"/>sentiment carriers<tag name="TECHNIQUE" value="end"/> .
+Tested on 2000 cases , the methods mirror human judgements closely in threeand twoway polarity classification tasks , and reach accuracies above 63 % and 81 % , respectively .

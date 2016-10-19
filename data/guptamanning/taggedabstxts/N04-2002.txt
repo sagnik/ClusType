@@ -1,0 +1,7 @@
+Identifying <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Chemical Names In Biomedical Text<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> : An Investigation Of <tag name="TECHNIQUE" value="start"/>Substring Co-Occurrence<tag name="TECHNIQUE" value="end"/> Based Approaches .
+We investigate various strategies for finding <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>chemicals in biomedical text<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> using <tag name="TECHNIQUE" value="start"/>substring co-occurrence<tag name="TECHNIQUE" value="end"/> information .
+The goal is to build a system from readily available data with minimal human involvement .
+Our models are trained from a <tag name="TECHNIQUE" value="start"/>dictionary<tag name="TECHNIQUE" value="end"/> of chemical names and general biomedical text .
+We investigated several strategies including <tag name="TECHNIQUE" value="start"/>Naïve Bayes classifiers<tag name="TECHNIQUE" value="end"/> and several types of <tag name="TECHNIQUE" value="start"/>N-gram models<tag name="TECHNIQUE" value="end"/> .
+We introduced a new way of interpolating <tag name="TECHNIQUE" value="start"/>N-grams<tag name="TECHNIQUE" value="end"/> that does not require tuning any parameters .
+We also found the task to be similar to Language Identification .

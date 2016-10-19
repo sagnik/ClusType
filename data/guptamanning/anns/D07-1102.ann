@@ -1,0 +1,24 @@
+T1|Non-Projective Trees|160,180|DOMAIN,FOCUS
+T2|Parsing|402,409|DOMAIN,FOCUS
+T3|Tree-Ranking|544,556|DOMAIN,FOCUS
+T4|multilingual parsing|749,769|DOMAIN,FOCUS
+T5|parser|1066,1072|DOMAIN,FOCUS
+T6|parser|1603,1609|DOMAIN,FOCUS
+T7|reranking|2031,2040|DOMAIN,FOCUS
+T8|Non-Projective Trees|160,180|FOCUS
+T9|Parsing|402,409|FOCUS
+T10|Tree-Ranking|544,556|FOCUS
+T11|multilingual parsing|749,769|FOCUS
+T12|parser|1066,1072|FOCUS
+T13|reranker|1303,1311|FOCUS
+T14|parser|1603,1609|FOCUS
+T15|reranking|2031,2040|FOCUS
+T16|Log-Linear|37,47|TECHNIQUE
+T17|$ k $ - best MST|283,299|TECHNIQUE
+T18|k-best maximum spanning tree -LRB- MST -RRB-|919,963|TECHNIQUE
+T19|tree labeler|1177,1189|TECHNIQUE
+T20|MST|1497,1500|TECHNIQUE
+T21|tree-normalized|1712,1727|TECHNIQUE
+T22|graphnormalized conditional training|1804,1840|TECHNIQUE
+T23|treebased|1919,1928|TECHNIQUE
+T24|non-projective edge attributes|2254,2284|TECHNIQUE

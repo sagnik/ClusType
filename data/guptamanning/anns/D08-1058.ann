@@ -1,0 +1,18 @@
+T1|Sentiment|356,367|DOMAIN,FOCUS
+T2|sentiment polarity|546,564|DOMAIN,FOCUS
+T3|sentiment|748,757|DOMAIN,FOCUS
+T4|sentiment|1066,1075|DOMAIN,FOCUS
+T5|sentiment polarity|1559,1577|DOMAIN,FOCUS
+T6|sentiment|1806,1815|DOMAIN,FOCUS
+T7|Sentiment|356,367|FOCUS
+T8|sentiment polarity|546,564|FOCUS
+T9|sentiment|748,757|FOCUS
+T10|sentiment|1066,1075|FOCUS
+T11|sentiment polarity|1559,1577|FOCUS
+T12|sentiment|1806,1815|FOCUS
+T13|Bilingual Knowledge|43,62|TECHNIQUE
+T14|Ensemble|139,147|TECHNIQUE
+T15|Unsupervised|235,247|TECHNIQUE
+T16|translates|1279,1289|TECHNIQUE
+T17|machine translation|1402,1421|TECHNIQUE
+T18|ensemble|1986,1994|TECHNIQUE

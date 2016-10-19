@@ -1,0 +1,17 @@
+T1|Syntactic Analysis|69,87|DOMAIN,FOCUS
+T2|syntactic analysis|398,416|DOMAIN,FOCUS
+T3|dependency structure|718,738|DOMAIN
+T4|dependency structure|2157,2177|DOMAIN
+T5|dependency analysis|2615,2634|DOMAIN
+T6|Syntactic Analysis|69,87|FOCUS
+T7|syntactic analysis|398,416|FOCUS
+T8|Conjunctive Structures|249,271|TECHNIQUE
+T9|conjunctive structures|543,565|TECHNIQUE
+T10|conjunctive structures|867,889|TECHNIQUE
+T11|conjunctive structures|1145,1167|TECHNIQUE
+T12|conjunctive structures|1299,1321|TECHNIQUE
+T13|conjunctive structure|1746,1767|TECHNIQUE
+T14|dynamic programming|1867,1886|TECHNIQUE
+T15|conjunctive structures|2038,2060|TECHNIQUE
+T16|head-dependent rules|2299,2319|TECHNIQUE
+T17|conjunctive structures|2423,2445|TECHNIQUE

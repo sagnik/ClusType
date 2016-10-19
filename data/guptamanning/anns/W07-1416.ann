@@ -1,0 +1,11 @@
+T1|Textual Entailment|67,85|DOMAIN,FOCUS
+T2|textual entailment|595,613|DOMAIN
+T3|Textual Entailment|67,85|FOCUS
+T4|Univariate Density|192,210|TECHNIQUE
+T5|Maximizing Discriminant Function|293,325|TECHNIQUE
+T6|univariate Gaussian density|1065,1092|TECHNIQUE
+T7|maximizing a linear discriminant function|1172,1213|TECHNIQUE
+T8|lexical similarity|1331,1349|TECHNIQUE
+T9|lexical similarity|1435,1453|TECHNIQUE
+T10|synonym|1539,1546|TECHNIQUE
+T11|antonym|1623,1630|TECHNIQUE

@@ -1,0 +1,12 @@
+T1|OCR Error Correction|248,268|DOMAIN,FOCUS
+T2|spelling correction|815,834|DOMAIN,FOCUS
+T3|OCR errors|1443,1453|DOMAIN,FOCUS
+T4|OCR Error Correction|248,268|FOCUS
+T5|spelling correction|815,834|FOCUS
+T6|OCR errors|1443,1453|FOCUS
+T7|Trigram|47,54|TECHNIQUE
+T8|Winnow|131,137|TECHNIQUE
+T9|word segmentation|1071,1088|TECHNIQUE
+T10|edit distance|1285,1298|TECHNIQUE
+T11|part-ofspeech trigram|1568,1589|TECHNIQUE
+T12|Winnow|1672,1678|TECHNIQUE

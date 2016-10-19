@@ -1,0 +1,5 @@
+A Small-Vocabulary Shared Task for <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Medical Speech Translation<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
+We outline a possible small-vocabulary shared task for the emerging <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>medical speech translation<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> community .
+Data would consist of about 2000 recorded and transcribed utterances collected during an evaluation of an English ↔ Spanish version of the Open Source MedSLT system ; the vocabulary covered consisted of about 450 words in English , and 250 in Spanish .
+The key problem in defining the task is to agree on a scoring system which is acceptable both to medical professionals and to the speech and language community .
+We suggest a framework for defining and administering a scoring system of this kind .

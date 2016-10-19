@@ -1,0 +1,11 @@
+T1|Word Meanings|76,89|DOMAIN,FOCUS
+T2|Descriptive Parameter Spaces|224,252|DOMAIN,FOCUS
+T3|`` query-bydescription '' task|1088,1118|DOMAIN
+T4|semantic basis functions|1596,1620|DOMAIN
+T5|Word Meanings|76,89|FOCUS
+T6|Descriptive Parameter Spaces|224,252|FOCUS
+T7|Music|391,396|FOCUS
+T8|features from audio|838,857|TECHNIQUE
+T9|language features linked to the music|958,995|TECHNIQUE
+T10|semantically attached|1344,1365|TECHNIQUE
+T11|perceptual grounding|1468,1488|TECHNIQUE

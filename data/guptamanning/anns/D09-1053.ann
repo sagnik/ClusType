@@ -1,0 +1,10 @@
+T1|Model Adaptation|67,83|DOMAIN
+T2|Web Search Ranking|366,384|DOMAIN
+T3|model adaptation|521,537|DOMAIN
+T4|Web search ranking|647,665|DOMAIN
+T5|Model Interpolation|188,207|TECHNIQUE
+T6|Boosting|284,292|TECHNIQUE
+T7|Model Interpolation and error-driven learning|737,782|TECHNIQUE
+T8|boosting|878,886|TECHNIQUE
+T9|model interpolation|993,1012|TECHNIQUE
+T10|tree-based boosting|1222,1241|TECHNIQUE

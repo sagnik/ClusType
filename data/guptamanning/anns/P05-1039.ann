@@ -1,0 +1,12 @@
+T1|Parsing|106,113|DOMAIN,FOCUS
+T2|parsing|1355,1362|DOMAIN,FOCUS
+T3|parser|476,482|DOMAIN
+T4|parser|1082,1088|DOMAIN
+T5|Parsing|106,113|FOCUS
+T6|parsing|1355,1362|FOCUS
+T7|Suffix Analysis And Smoothing|226,255|TECHNIQUE
+T8|unlexicalized|393,406|TECHNIQUE
+T9|smoothing and suffix analysis|608,637|TECHNIQUE
+T10|smoothing|878,887|TECHNIQUE
+T11|unlexicalized|999,1012|TECHNIQUE
+T12|smoothing|1239,1248|TECHNIQUE

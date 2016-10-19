@@ -1,0 +1,4 @@
+Constructing <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Verb Semantic Classes<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> For French : Methods And Evaluation .
+In this paper , we study a reformulation , which is better adapted to NLP , of the alternation system developed for English by B. Levin .
+We have studied a set of 1700 verbs from which we explain how <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>verb semantic classes<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> can be built in a systematic way .
+The quality of the results w.r. t , semantic chLssifications such as WordNet is then evaluated .

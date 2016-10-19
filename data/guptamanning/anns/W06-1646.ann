@@ -1,0 +1,9 @@
+T1|Speech Recognition Of Inflected Languages|162,203|DOMAIN,FOCUS
+T2|speech recognition of inflected languages|379,420|DOMAIN,FOCUS
+T3|Speech Recognition Of Inflected Languages|162,203|FOCUS
+T4|speech recognition of inflected languages|379,420|FOCUS
+T5|Corrective|37,47|TECHNIQUE
+T6|discriminative|546,560|TECHNIQUE
+T7|word ngrams|659,670|TECHNIQUE
+T8|factored morphological|763,785|TECHNIQUE
+T9|χ2 statistics|1242,1256|TECHNIQUE

@@ -1,0 +1,12 @@
+T1|translation|1451,1462|DOMAIN,FOCUS
+T2|translation|1634,1645|DOMAIN,FOCUS
+T3|SMT|188,191|DOMAIN
+T4|machine translation -LRB- SMT -RRB-|556,591|DOMAIN
+T5|long-range word reorderings|340,367|FOCUS
+T6|long-range reorderings|1171,1195|FOCUS
+T7|translation|1451,1462|FOCUS
+T8|translation|1634,1645|FOCUS
+T9|POS-Based|39,48|TECHNIQUE
+T10|statistical|475,486|TECHNIQUE
+T11|POS -LRB- Part-of-Speech -RRB- - based rules|992,1036|TECHNIQUE
+T12|discontinuous rules|1278,1299|TECHNIQUE

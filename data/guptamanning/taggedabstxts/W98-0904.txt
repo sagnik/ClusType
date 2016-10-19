@@ -1,0 +1,11 @@
+<tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>Optimal Morphology<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> .
+<tag name="DOMAIN" value="start"/>Optimal morphology <tag name="DOMAIN" value="end"/> -LRB- OM -RRB- is a <tag name="TECHNIQUE" value="start"/>finite state<tag name="TECHNIQUE" value="end"/> formalism that unifies concepts from Optimality Theory -LRB- OT , Prince ~ : Smolensky , 1993 -RRB- and Declarative Phonology -LRB- DP , Scobbie , Coleman Bird , 1996 -RRB- to describe <tag name="DOMAIN" value="start"/>morphophonological alternations in inflectional morphology<tag name="DOMAIN" value="end"/> .
+Candidate sets are formalized by <tag name="TECHNIQUE" value="start"/>inviolable lexical constraints<tag name="TECHNIQUE" value="end"/> which map abstract morpheme signatures to allomorphs .
+Phonology is implemented as <tag name="TECHNIQUE" value="start"/>violable rankable constraints<tag name="TECHNIQUE" value="end"/> selecting optimal candidates from these .
+Both types of constraints are realized by <tag name="TECHNIQUE" value="start"/>finite state transducers<tag name="TECHNIQUE" value="end"/> .
+Using phonological data from Albanian it is shown that given a finite state lexicalization of candidate outputs for word forms OM allows more natural analyses than unviolable finite state constraints do .
+Two possible evaluation strategies for OM grammars are considered : the global evaluation procedure from E1lisou -LRB- 1994 -RRB- and a simple strategy of local constraint evaluation .
+While the OM-specific lexicalization of candidate sets allows straightforward generation and a simple method of <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>morphological parsing<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> even under global evaluation , local constraint evaluation is shown to be preferable empirically and to be formally more restrictive .
+The first point is illustrated by an account of directionality effects in some classical Mende data .
+A procedure is given that generates a finite state transducer simulating the effects of local constraint evaluation .
+Thus local as opposed to global evaluation -LRB- Frank & Satta , 1998 -RRB- seems to guarantee the finite-stateness of the input-output-mapping .

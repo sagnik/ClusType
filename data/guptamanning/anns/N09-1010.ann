@@ -1,0 +1,9 @@
+T1|Multilingual Part-of-Speech Tagging|183,218|DOMAIN,FOCUS
+T2|part-of-speech tagging|575,597|DOMAIN,FOCUS
+T3|Multilingual Part-of-Speech Tagging|183,218|FOCUS
+T4|part-of-speech tagging|575,597|FOCUS
+T5|Unsupervised|68,80|TECHNIQUE
+T6|Bayesian Non-Parametric|323,346|TECHNIQUE
+T7|unsupervised|460,472|TECHNIQUE
+T8|non-parametric Bayesian|914,937|TECHNIQUE
+T9|multilingual latent variables|1092,1121|TECHNIQUE

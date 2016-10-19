@@ -1,0 +1,9 @@
+T1|Information Extraction|179,201|DOMAIN,FOCUS
+T2|Information Extraction|334,356|DOMAIN,FOCUS
+T3|IE|493,495|DOMAIN,FOCUS
+T4|Information Extraction|179,201|FOCUS
+T5|Information Extraction|334,356|FOCUS
+T6|IE|493,495|FOCUS
+T7|Examples Into Patterns|50,72|TECHNIQUE
+T8|patterns from examples|905,927|TECHNIQUE
+T9|meta-rules|1255,1265|TECHNIQUE

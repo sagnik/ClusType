@@ -1,0 +1,12 @@
+T1|Multilingual Semantic Parsing|67,96|DOMAIN,FOCUS
+T2|multilingual parser|357,376|DOMAIN,FOCUS
+T3|semantic dependencies|511,532|DOMAIN,FOCUS
+T4|semantic parsing|1641,1657|DOMAIN,FOCUS
+T5|Multilingual Semantic Parsing|67,96|FOCUS
+T6|multilingual parser|357,376|FOCUS
+T7|semantic dependencies|511,532|FOCUS
+T8|semantic parsing|1641,1657|FOCUS
+T9|Linear Classifiers|216,234|TECHNIQUE
+T10|linear classifiers|678,696|TECHNIQUE
+T11|support vector machines|782,805|TECHNIQUE
+T12|first order features|891,911|TECHNIQUE

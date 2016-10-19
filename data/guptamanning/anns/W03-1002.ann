@@ -1,0 +1,11 @@
+T1|machine translation|1522,1541|DOMAIN,FOCUS
+T2|Machine Translation|151,170|DOMAIN
+T3|machine translation|559,580|DOMAIN
+T4|machine translation|1522,1541|FOCUS
+T5|Statistical|70,81|TECHNIQUE
+T6|Coercive Two-Level Syntactic Transduction|277,318|TECHNIQUE
+T7|statistical|479,490|TECHNIQUE
+T8|shallow syntactic analysis -LRB- part-of-speech tagging and phrase chunking -RRB-|701,782|TECHNIQUE
+T9|lexical transfer|1059,1075|TECHNIQUE
+T10|parts of speech|1216,1231|TECHNIQUE
+T11|lemma-to-lemma|1343,1357|TECHNIQUE

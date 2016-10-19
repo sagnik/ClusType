@@ -1,0 +1,12 @@
+T1|Language Identification|67,90|DOMAIN,FOCUS
+T2|language identification|1214,1237|DOMAIN,FOCUS
+T3|Confidence Limits|229,246|FOCUS,TECHNIQUE
+T4|confidence limits on the classification|678,717|FOCUS,TECHNIQUE
+T5|language identification|484,507|DOMAIN
+T6|genre identification|1018,1038|DOMAIN
+T7|Language Identification|67,90|FOCUS
+T8|language identification|1214,1237|FOCUS
+T9|Confidence Limits|229,246|TECHNIQUE
+T10|statistical classification|354,380|TECHNIQUE
+T11|confidence limits on the classification|678,717|TECHNIQUE
+T12|statistical|1413,1424|TECHNIQUE

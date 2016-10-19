@@ -1,0 +1,16 @@
+T1|PoS tagging|372,385|DOMAIN,FOCUS
+T2|shallow parsing|2131,2146|DOMAIN,FOCUS
+T3|part-of-speech tagging|636,658|DOMAIN
+T4|PoS tagging|1158,1169|DOMAIN
+T5|PoS tagger|1902,1912|DOMAIN
+T6|infinite HMM|74,86|FOCUS
+T7|unsupervised|227,239|FOCUS
+T8|PoS tagging|372,385|FOCUS
+T9|shallow parsing|2131,2146|FOCUS
+T10|unsupervised|554,566|TECHNIQUE
+T11|non-parametric version of the HMM|769,802|TECHNIQUE
+T12|infinite HMM -LRB- iHMM -RRB-|888,917|TECHNIQUE
+T13|unsupervised Markov models|1058,1084|TECHNIQUE
+T14|Dirichlet and Pitman-Yor processes|1292,1326|TECHNIQUE
+T15|iHMM inference|1478,1492|TECHNIQUE
+T16|unsupervised|1820,1832|TECHNIQUE

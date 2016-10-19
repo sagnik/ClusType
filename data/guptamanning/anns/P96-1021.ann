@@ -1,0 +1,8 @@
+T1|Machine Translation|183,202|DOMAIN
+T2|machine translation|464,483|DOMAIN
+T3|translation|800,811|DOMAIN
+T4|Statistical|102,113|TECHNIQUE
+T5|statistical|383,394|TECHNIQUE
+T6|statistical|719,730|TECHNIQUE
+T7|stochastic bracketing transduction grammar -LRB- SBTG -RRB-|953,1012|TECHNIQUE
+T8|bigram language model|1184,1205|TECHNIQUE

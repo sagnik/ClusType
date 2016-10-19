@@ -1,0 +1,4 @@
+<tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>Word Alignment And Cross-Lingual Resource Acquisition<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> .
+Annotated corpora are valuable resources for developing Natural Language Processing applications .
+This work focuses on <tag name="FOCUS" value="start"/>acquiring annotated data for <tag name="DOMAIN" value="start"/>multilingual processing <tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> applications .
+We present an annotation environment that supports a web-based user-interface for <tag name="DOMAIN" value="start"/>acquiring word alignments <tag name="DOMAIN" value="end"/> between English and Chinese as well as a visualization tool for researchers to explore the annotated data .

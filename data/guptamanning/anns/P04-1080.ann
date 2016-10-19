@@ -1,0 +1,10 @@
+T1|Word Sense|76,86|DOMAIN,FOCUS
+T2|word sense|532,542|DOMAIN
+T3|Word Sense|76,86|FOCUS
+T4|Feature Selection|192,209|TECHNIQUE
+T5|Order Identification|286,306|TECHNIQUE
+T6|unsupervised|450,462|TECHNIQUE
+T7|feature selection|854,871|TECHNIQUE
+T8|unsupervised|1035,1047|TECHNIQUE
+T9|Gaussian mixture|1129,1145|TECHNIQUE
+T10|Minimum Description Length|1228,1254|TECHNIQUE

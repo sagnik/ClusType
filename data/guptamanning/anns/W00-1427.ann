@@ -1,0 +1,10 @@
+T1|Morphological Generation|84,108|DOMAIN,FOCUS
+T2|morphological generator|442,465|DOMAIN,FOCUS
+T3|morphological generator|1069,1092|DOMAIN,FOCUS
+T4|Morphological Generation|84,108|FOCUS
+T5|morphological generator|442,465|FOCUS
+T6|morphological generator|1069,1092|FOCUS
+T7|finite-state|587,599|TECHNIQUE
+T8|lemma|739,744|TECHNIQUE
+T9|part-of-speech|819,833|TECHNIQUE
+T10|inflection|924,934|TECHNIQUE

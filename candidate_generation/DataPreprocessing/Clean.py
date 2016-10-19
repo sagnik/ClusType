@@ -36,7 +36,7 @@ class Clean:
         self.tagger = PatternTagger()
         self.sw = StopWords()
         for doc in os.listdir(path):
-            docContent  = open(os.path.join(path,doc)).read().strip()
+            docContent  = open(os.path.join(path,doc)).read().strip().lower()
             if docContent:
                 self.Documents.append((doc.split('.txt')[0],docContent))
         print "initialized with",len(self.Documents),"documents"

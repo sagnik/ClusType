@@ -1,0 +1,9 @@
+T1|word segmentation|1245,1262|DOMAIN,FOCUS
+T2|Segmenter|163,172|DOMAIN
+T3|Chinese Word Segmenter|362,384|DOMAIN
+T4|character-based tagging|797,820|DOMAIN
+T5|word segmentation|1245,1262|FOCUS
+T6|Character-based CRF|41,60|TECHNIQUE
+T7|Conditional Random Field|560,584|TECHNIQUE
+T8|CRF|664,667|TECHNIQUE
+T9|word-based|958,968|TECHNIQUE

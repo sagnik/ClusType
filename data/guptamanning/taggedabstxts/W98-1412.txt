@@ -1,0 +1,4 @@
+<tag name="FOCUS" value="start"/><tag name="TECHNIQUE" value="start"/>Abductive Reasoning<tag name="TECHNIQUE" value="end"/> For <tag name="DOMAIN" value="start"/>Syntactic Realization<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> .
+<tag name="FOCUS" value="start"/><tag name="TECHNIQUE" value="start"/>Abductive reasoning<tag name="TECHNIQUE" value="end"/><tag name="FOCUS" value="end"/> is • used in a bidirectional framework for <tag name="DOMAIN" value="start"/>syntactic realization and semantic interpretation<tag name="DOMAIN" value="end"/> .
+The use of the framework is illustrated in a case study of <tag name="DOMAIN" value="start"/>sentence generation<tag name="DOMAIN" value="end"/> , where different syntactic forms are generated depending on the status of discourse information .
+Examples are given involving three differen t syntactic constructions in German root clauses .

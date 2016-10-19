@@ -1,0 +1,4 @@
+Importance Of <tag name="TECHNIQUE" value="start"/>Pronominal Anaphora Resolution<tag name="TECHNIQUE" value="end"/> In <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Question Answering<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> Systems .
+The main aim of this paper is to analyze the e # 0Bects of applying <tag name="TECHNIQUE" value="start"/>pronominal anaphora resolution<tag name="TECHNIQUE" value="end"/> to <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Question Answering<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> # 28QA # 29 systems .
+For this task a complete <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>QA<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> system has been implemented .
+System evaluation measures performance improvements obtained when information that is referenced anaphorically in documents is not ignored .

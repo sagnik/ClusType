@@ -1,0 +1,9 @@
+T1|Eye Movements in Reading|101,125|DOMAIN,FOCUS
+T2|fixated by a reader|435,454|DOMAIN,FOCUS
+T3|eye movements|1001,1014|DOMAIN,FOCUS
+T4|Eye Movements in Reading|101,125|FOCUS
+T5|fixated by a reader|435,454|FOCUS
+T6|eye movements|1001,1014|FOCUS
+T7|machine learning|247,263|TECHNIQUE
+T8|transitionbased|657,672|TECHNIQUE
+T9|logistic regression classifier|758,788|TECHNIQUE

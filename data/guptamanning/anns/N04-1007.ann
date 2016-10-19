@@ -1,0 +1,12 @@
+T1|Answering Definition Questions|67,97|DOMAIN,FOCUS
+T2|question answering|322,340|DOMAIN,FOCUS
+T3|answering such questions|736,760|DOMAIN,FOCUS
+T4|Question Answering|1364,1382|DOMAIN,FOCUS
+T5|Answering Definition Questions|67,97|FOCUS
+T6|question answering|322,340|FOCUS
+T7|answering such questions|736,760|FOCUS
+T8|Question Answering|1364,1382|FOCUS
+T9|multi-strategy|606,620|TECHNIQUE
+T10|surface patterns|903,919|TECHNIQUE
+T11|dictionary|1005,1015|TECHNIQUE
+T12|document retriever|1111,1129|TECHNIQUE

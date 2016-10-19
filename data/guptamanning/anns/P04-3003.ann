@@ -1,0 +1,18 @@
+T1|Transliteration Lexicons|80,104|DOMAIN,FOCUS
+T2|transliterated-term lexicons|397,425|DOMAIN,FOCUS
+T3|transliterated-term|1625,1644|DOMAIN,FOCUS
+T4|transliterated-term|1890,1909|DOMAIN,FOCUS
+T5|transliterated-term|2201,2220|DOMAIN,FOCUS
+T6|Transliteration Lexicons|80,104|FOCUS
+T7|transliterated-term lexicons|397,425|FOCUS
+T8|transliterated-term|1625,1644|FOCUS
+T9|transliterated-term|1890,1909|FOCUS
+T10|transliterated-term|2201,2220|FOCUS
+T11|Web|210,213|TECHNIQUE
+T12|syllable alignment|537,555|TECHNIQUE
+T13|confusion matrices|659,677|TECHNIQUE
+T14|confusion matrix|815,831|TECHNIQUE
+T15|phonetically|1012,1024|TECHNIQUE
+T16|statistically|1101,1114|TECHNIQUE
+T17|phoneme-to-phoneme|1248,1266|TECHNIQUE
+T18|text-to-phoneme syllabification|1343,1374|TECHNIQUE

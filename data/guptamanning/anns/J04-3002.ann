@@ -1,0 +1,14 @@
+T1|Subjective Language|76,95|DOMAIN,FOCUS
+T2|Subjectivity|228,240|DOMAIN,FOCUS
+T3|subjectivity|1749,1761|DOMAIN,FOCUS
+T4|subjectivity|551,563|DOMAIN
+T5|subjective language|810,829|DOMAIN
+T6|opinion piece recognition|2013,2038|DOMAIN
+T7|text categorization|2122,2141|DOMAIN
+T8|genre detection|2212,2227|DOMAIN
+T9|Subjective Language|76,95|FOCUS
+T10|Subjectivity|228,240|FOCUS
+T11|subjectivity|1749,1761|FOCUS
+T12|collocations|1026,1038|TECHNIQUE
+T13|distributional similarity|1155,1182|TECHNIQUE
+T14|high-density features|1880,1901|TECHNIQUE

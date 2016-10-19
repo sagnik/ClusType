@@ -1,0 +1,17 @@
+T1|Natural Language Interfaces to Databases|514,554|DOMAIN,FOCUS
+T2|NLIs|691,695|DOMAIN,FOCUS
+T3|database-independent NLIs|2023,2048|DOMAIN,FOCUS
+T4|Natural Language Interfaces To Databases|41,81|DOMAIN
+T5|Statistical Parsing|196,215|FOCUS
+T6|Semantic Tractability|357,378|FOCUS
+T7|Natural Language Interfaces to Databases|514,554|FOCUS
+T8|NLIs|691,695|FOCUS
+T9|PRECISE NLI|1174,1185|FOCUS
+T10|PRECISE|1610,1617|FOCUS
+T11|database-independent NLIs|2023,2048|FOCUS
+T12|statistical parsing|835,854|TECHNIQUE
+T13|statistical parser|1269,1287|TECHNIQUE
+T14|semantic|1410,1418|TECHNIQUE
+T15|light re-training|1511,1530|TECHNIQUE
+T16|parser|1698,1704|TECHNIQUE
+T17|statistical parsers|1892,1911|TECHNIQUE

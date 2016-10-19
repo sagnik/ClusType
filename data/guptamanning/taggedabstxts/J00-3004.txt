@@ -1,0 +1,7 @@
+A <tag name="TECHNIQUE" value="start"/>Compression-Based<tag name="TECHNIQUE" value="end"/> Algorithm For Chinese <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Word Segmentation<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
+Chinese is written without using spaces or other word delimiters .
+Although a text may be thought of as a corresponding sequence of words , there is considerable ambiguity in the placement of boundaries .
+Interpreting a text as a sequence of words is beneficial for some information retrieval and storage tasks : for example,full-text search , word-based compression , and keyphrase extraction .
+We describe a scheme that infers appropriate positions for <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>word boundaries<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> using an <tag name="TECHNIQUE" value="start"/>adaptive language model<tag name="TECHNIQUE" value="end"/> that is standard in text compression .
+It is trained on a corpus of presegmented text , and when applied to new text , interpolates <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>word boundaries<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> so as to maximize the compression obtained .
+This simple and general method performs well with respect to specialized schemes for Chinese  <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>language segmentation<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .

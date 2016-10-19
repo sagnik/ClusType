@@ -1,0 +1,10 @@
+T1|Named Entity Transliteration|151,181|DOMAIN
+T2|name transliteration|603,625|DOMAIN
+T3|transliteration|988,1003|DOMAIN
+T4|transliteration|1220,1235|DOMAIN
+T5|Temporal And Phonetic Correlation|321,354|FOCUS
+T6|Unsupervised|70,82|TECHNIQUE
+T7|unsupervised|522,534|TECHNIQUE
+T8|unsupervised phonetic|1128,1149|TECHNIQUE
+T9|temporal distribution|1338,1359|TECHNIQUE
+T10|phonetic-based scoring|1656,1678|TECHNIQUE

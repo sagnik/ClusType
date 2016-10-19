@@ -1,0 +1,12 @@
+T1|Coherence Modeling|160,178|DOMAIN,FOCUS
+T2|discourse coherence|729,748|DOMAIN,FOCUS
+T3|information ordering|895,915|DOMAIN,FOCUS
+T4|information ordering|1317,1337|DOMAIN,FOCUS
+T5|Coherence Modeling|160,178|FOCUS
+T6|discourse coherence|729,748|FOCUS
+T7|information ordering|895,915|FOCUS
+T8|information ordering|1317,1337|FOCUS
+T9|Coreference-inspired|37,57|TECHNIQUE
+T10|coreference resolution|293,315|TECHNIQUE
+T11|discourse-new classifier|1077,1101|TECHNIQUE
+T12|pronoun coreference|1178,1197|TECHNIQUE

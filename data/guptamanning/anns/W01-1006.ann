@@ -1,0 +1,10 @@
+T1|Ontology Construction|91,114|DOMAIN,FOCUS
+T2|machine translation|1588,1607|DOMAIN
+T3|ontology-based|1721,1735|DOMAIN
+T4|word sense disambiguation|1833,1858|DOMAIN
+T5|Ontology Construction|91,114|FOCUS
+T6|ontology|537,545|FOCUS
+T7|Thesaurus , Computational Dictionaries , And Large Corpora|226,284|TECHNIQUE
+T8|semi-automatic|383,397|TECHNIQUE
+T9|Kadokawa thesaurus|783,803|TECHNIQUE
+T10|semantic relations|900,918|TECHNIQUE

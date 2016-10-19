@@ -1,0 +1,7 @@
+T1|named-entity recognition|339,363|DOMAIN,FOCUS
+T2|Named Entity Recognition|67,91|DOMAIN
+T3|named-entity recognition|339,363|FOCUS
+T4|Character-Level|197,212|TECHNIQUE
+T5|characters and character a4 - grams|481,516|TECHNIQUE
+T6|character-level HMM|684,703|TECHNIQUE
+T7|maximum-entropy conditional markov|837,871|TECHNIQUE

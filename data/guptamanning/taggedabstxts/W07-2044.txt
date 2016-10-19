@@ -1,0 +1,9 @@
+<tag name="TECHNIQUE" value="start"/>KU<tag name="TECHNIQUE" value="end"/> : <tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>Word Sense Disambiguation<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> by <tag name="TECHNIQUE" value="start"/>Substitution<tag name="TECHNIQUE" value="end"/> .
+Data sparsity is one of the main factors that make <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>word sense disambiguation<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> -LRB- <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>WSD<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> -RRB- difficult .
+To overcome this problem we need to find effective ways to use resources other than sense labeled data .
+In this paper I describe a <tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>WSD<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> system that uses a <tag name="TECHNIQUE" value="start"/>statistical language model <tag name="TECHNIQUE" value="end"/> based on a large unannotated corpus .
+The model is used to evaluate the likelihood of various substitutes for a word in a given context .
+These likelihoods are then used to determine the best sense for the word in novel contexts .
+The resulting system participated in three tasks in the SemEval 2007 workshop .
+The WSD of prepositions task proved to be challenging for the system , possibly illustrating some of its limitations : e.g. not all words have good substitutes .
+The system achieved promising results for the English lexical sample and English lexical substitution tasks .

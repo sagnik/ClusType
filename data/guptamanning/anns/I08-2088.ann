@@ -1,0 +1,10 @@
+T1|Selecting Training Data|80,103|FOCUS,TECHNIQUE
+T2|training set selection|862,884|FOCUS,TECHNIQUE
+T3|Translation|270,281|DOMAIN
+T4|translation|1029,1040|DOMAIN
+T5|statistical translation|475,498|FOCUS
+T6|translation|1272,1283|FOCUS
+T7|Selecting Training Data|80,103|TECHNIQUE
+T8|training set selection|862,884|TECHNIQUE
+T9|linear|1163,1169|TECHNIQUE
+T10|language model|1410,1424|TECHNIQUE

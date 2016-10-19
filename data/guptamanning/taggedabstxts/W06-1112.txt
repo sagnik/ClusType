@@ -1,0 +1,6 @@
+A <tag name="FOCUS" value="start"/><tag name="TECHNIQUE" value="start"/>Structural Similarity<tag name="TECHNIQUE" value="end"/><tag name="FOCUS" value="end"/>  Measure .
+This paper outlines a measure of <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>language similarity<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> based on <tag name="TECHNIQUE" value="start"/>structural similarity of surface syntactic dependency trees<tag name="TECHNIQUE" value="end"/> .
+Unlike the more traditional string-based measures , this measure tries to reflect `` deeper '' correspondences among languages .
+The development of this measure has been inspired by the experience from MT of syntactically similar languages .
+This experience shows that the lexical similarity is less important than syntactic similarity .
+This claim is supported by a number of examples illustrating the problems which may arise when a measure of language similarity relies too much on a simple similarity of texts in different languages .

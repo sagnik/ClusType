@@ -1,0 +1,15 @@
+T1|Machine Translation|67,86|DOMAIN,FOCUS
+T2|machine translation|1821,1840|DOMAIN,FOCUS
+T3|synchronous grammar|439,458|FOCUS,TECHNIQUE
+T4|CSG|1457,1460|FOCUS,TECHNIQUE
+T5|machine translation|2148,2167|DOMAIN
+T6|MT|2241,2243|DOMAIN
+T7|Machine Translation|67,86|FOCUS
+T8|Constraint-Based Synchronous Grammar|229,265|FOCUS
+T9|Constraint-based Synchronous Grammar -LRB- CSG -RRB-|801,853|FOCUS
+T10|CSG|1028,1031|FOCUS
+T11|machine translation|1821,1840|FOCUS
+T12|CSG|2018,2021|FOCUS
+T13|synchronous grammar|439,458|TECHNIQUE
+T14|context-free grammar|588,608|TECHNIQUE
+T15|CSG|1457,1460|TECHNIQUE

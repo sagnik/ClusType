@@ -1,0 +1,13 @@
+T1|Dialogue Manager|168,184|DOMAIN,FOCUS
+T2|Dialogue|540,548|DOMAIN,FOCUS
+T3|spoken dialog|742,755|DOMAIN,FOCUS
+T4|dialogue|1121,1129|DOMAIN,FOCUS
+T5|Dialogue Manager|168,184|FOCUS
+T6|Dialogue|540,548|FOCUS
+T7|spoken dialog|742,755|FOCUS
+T8|dialogue|1121,1129|FOCUS
+T9|Hidden Information State|41,65|TECHNIQUE
+T10|POMDP-Based|300,311|TECHNIQUE
+T11|Hidden Information State -LRB- HIS -RRB-|397,437|TECHNIQUE
+T12|PartiallyObservable Markov-Decision-Process|876,919|TECHNIQUE
+T13|POMDP|998,1003|TECHNIQUE

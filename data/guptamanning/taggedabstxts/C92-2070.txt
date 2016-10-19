@@ -1,0 +1,8 @@
+<tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Word-Sense Disambiguation<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> Using <tag name="TECHNIQUE" value="start"/><tag name="FOCUS" value="start"/>Statistical Models Of Roget 's Categories <tag name="FOCUS" value="end"/><tag name="TECHNIQUE" value="end"/> Trained On Large Corpora .
+This paper describes a program that <tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>disambignates English word senses<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> in unrestricted text using <tag name="TECHNIQUE" value="start"/>statistical<tag name="TECHNIQUE" value="end"/> models of the major <tag name="TECHNIQUE" value="start"/>Roget 's Thesaurus<tag name="TECHNIQUE" value="end"/> categories .
+Roget 's categories serve as approximations of conceptual classes .
+The categories listed for a word in Roger 's index tend to correspond to sense distinctions ; thus selecting the most likely category provides a useful level of sense disambiguatiou .
+The selection of categories is accomplished by identifying and weighting words that are indicative of each category when seen in context , using a <tag name="TECHNIQUE" value="start"/>Bayesian theoretical <tag name="TECHNIQUE" value="end"/> framework .
+Other statistical approaches have required special corpora or hand-labeled training examples for much of the lexicon .
+Our use of class models overcomes this knowledge acquisition bottleneck , enabling training on unresUicted monolingual text without human intervention .
+Applied to the 10 million word Grolier 's Encyclopedia , the system correctly disambiguated 92 % of the instances of 12 polysemous words that have been previously studied in the literature .

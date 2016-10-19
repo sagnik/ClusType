@@ -1,0 +1,13 @@
+T1|Induction Of Morphology|82,105|DOMAIN,FOCUS
+T2|Morphology induction|341,361|DOMAIN,FOCUS
+T3|morphology induction|617,637|DOMAIN,FOCUS
+T4|morphology|1213,1223|DOMAIN,FOCUS
+T5|morphology induction|1707,1727|DOMAIN
+T6|Induction Of Morphology|82,105|FOCUS
+T7|Morphology induction|341,361|FOCUS
+T8|morphology induction|617,637|FOCUS
+T9|morphology|1213,1223|FOCUS
+T10|Latent Semantic Analysis|212,236|TECHNIQUE
+T11|semantic-based|1073,1087|TECHNIQUE
+T12|Latent Semantic Analysis|1457,1481|TECHNIQUE
+T13|semantics-only|1572,1586|TECHNIQUE

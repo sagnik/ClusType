@@ -1,0 +1,14 @@
+T1|Tutorial Dialogue Structure|77,104|DOMAIN,FOCUS
+T2|tutorial dialogue management|627,655|DOMAIN,FOCUS
+T3|tutorial dialogue|859,876|DOMAIN,FOCUS
+T4|dialogue structure|1524,1542|DOMAIN,FOCUS
+T5|tutoring|362,370|DOMAIN
+T6|Tutorial Dialogue Structure|77,104|FOCUS
+T7|tutorial dialogue management|627,655|FOCUS
+T8|tutorial dialogue|859,876|FOCUS
+T9|dialogue structure|1524,1542|FOCUS
+T10|Hidden Markov|210,223|TECHNIQUE
+T11|unsupervised|989,1001|TECHNIQUE
+T12|hidden Markov|1088,1101|TECHNIQUE
+T13|HMMs|1187,1191|TECHNIQUE
+T14|HMMs|1370,1374|TECHNIQUE

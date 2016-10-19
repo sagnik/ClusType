@@ -1,0 +1,5 @@
+Automatic <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Title Generation For Spoken Broadcast News<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
+In this paper , we implemented a set of <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>title generation<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> methods using <tag name="TECHNIQUE" value="start"/>training<tag name="TECHNIQUE" value="end"/> set of 21190 news stories and evaluated them on an independent test corpus of 1006 broadcast news documents , comparing the results over manual transcription to the results over automatically recognized speech .
+We use both F1 and the average number of correct title words in the correct order as metric .
+Overall , the results show that <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>title generation for speech recognized news documents<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/>  is possible at a level approaching the accuracy of titles generated for perfect text transcriptions .
+Keywords Machine learning , title generation

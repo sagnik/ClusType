@@ -1,0 +1,6 @@
+Japanese <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Dependency Parsing<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> Using a <tag name="TECHNIQUE" value="start"/>Tournament<tag name="TECHNIQUE" value="end"/> Model .
+In Japanese <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>dependency parsing<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> , Kudo 's relative preference-based method -LRB- Kudo and Matsumoto , 2005 -RRB- outperforms both deterministic and probabilistic CKY-based parsing methods .
+In Kudo 's method , for each dependent word -LRB- or chunk -RRB- a loglinear model estimates relative preference of all other candidate words -LRB- or chunks -RRB- for being as its head .
+This can not be considered in the deterministic parsing methods .
+We propose an algorithm based on a <tag name="TECHNIQUE" value="start"/>tournament <tag name="TECHNIQUE" value="end"/> model , in which the relative preferences are directly modeled by <tag name="TECHNIQUE" value="start"/>one-onone games in a step-ladder tournament<tag name="TECHNIQUE" value="end"/> .
+In an evaluation experiment with Kyoto Text Corpus Version 4.0 , the proposed method outperforms previous approaches , including the relative preference-based method .

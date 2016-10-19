@@ -1,0 +1,10 @@
+Towards <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Multilingual Protocol Generation For Spontaneous Speech Dialogues<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
+: This paper presents a novel <tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>multi-lingual progress protocol generation<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> module .
+The module is used within the <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>speech-to -- speech translation<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> system VERBMOBIL .
+The task of the protocol is to give the dialogue partners a brief description of the content of their dialogue .
+We utilize an .
+abstract representation describing , for instance , <tag name="TECHNIQUE" value="start"/>thematic<tag name="TECHNIQUE" value="end"/>  information and <tag name="TECHNIQUE" value="start"/>dialogue acts<tag name="TECHNIQUE" value="end"/> of the dialogue utterances .
+From this representation we generate simplified <tag name="TECHNIQUE" value="start"/>paraphrases<tag name="TECHNIQUE" value="end"/> of the individual turns of the dialogue which together make up the protocol .
+Instead of writing completely new software , the protocol generation component is almost exclusively composed of already existing modules in the system which are extended by planning and formatting routines for protocol formulations .
+We describe how the abstract information is extracted from user utterances in different languages and how the <tag name="TECHNIQUE" value="start"/>abstract thematic<tag name="TECHNIQUE" value="end"/> representation is used to <tag name="DOMAIN" value="start"/>generate a protocol<tag name="DOMAIN" value="end"/> in one specific language .
+Future directions are given .

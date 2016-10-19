@@ -1,0 +1,16 @@
+T1|Semantic Role Labeling|156,178|DOMAIN,FOCUS
+T2|semantic role labeling|345,367|DOMAIN,FOCUS
+T3|semantic role labeler|2056,2077|DOMAIN,FOCUS
+T4|Semantic Role Labeling|156,178|FOCUS
+T5|semantic role labeling|345,367|FOCUS
+T6|semantic role labeler|2056,2077|FOCUS
+T7|Dependency-based|37,53|TECHNIQUE
+T8|dependency parser|513,530|TECHNIQUE
+T9|projective parser|757,774|TECHNIQUE
+T10|pseudo-projective transformations|853,886|TECHNIQUE
+T11|global inference|989,1005|TECHNIQUE
+T12|segment-based|1289,1302|TECHNIQUE
+T13|dependency-based|1379,1395|TECHNIQUE
+T14|segment-based|1488,1501|TECHNIQUE
+T15|dependency-based|1744,1760|TECHNIQUE
+T16|dependency-based|1937,1953|TECHNIQUE

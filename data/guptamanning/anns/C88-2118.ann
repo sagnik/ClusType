@@ -1,0 +1,12 @@
+T1|Parsing Noisy Sentences|67,90|DOMAIN,FOCUS
+T2|parse and understand a `` noisy '' sentence|256,299|DOMAIN,FOCUS
+T3|parse the noisy phoneme sequence|788,820|DOMAIN,FOCUS
+T4|parsing|1106,1113|DOMAIN,FOCUS
+T5|machine translation|1959,1978|DOMAIN
+T6|Parsing Noisy Sentences|67,90|FOCUS
+T7|parse and understand a `` noisy '' sentence|256,299|FOCUS
+T8|parse the noisy phoneme sequence|788,820|FOCUS
+T9|parsing|1106,1113|FOCUS
+T10|parsing|1450,1457|FOCUS
+T11|generalized LR|1333,1347|TECHNIQUE
+T12|confusion matrix|1687,1703|TECHNIQUE

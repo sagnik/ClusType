@@ -1,0 +1,13 @@
+T1|Semantic Parsing|77,93|DOMAIN,FOCUS
+T2|semantic parser|503,518|DOMAIN,FOCUS
+T3|Parsing semantic structures|1172,1199|DOMAIN,FOCUS
+T4|Semantic Parsing|77,93|FOCUS
+T5|semantic parser|503,518|FOCUS
+T6|Parsing semantic structures|1172,1199|FOCUS
+T7|FrameNet|200,208|TECHNIQUE
+T8|WordNet|285,292|TECHNIQUE
+T9|rule-based|390,400|TECHNIQUE
+T10|frame|636,641|TECHNIQUE
+T11|FrameNet|728,736|TECHNIQUE
+T12|semantic network|823,839|TECHNIQUE
+T13|WordNet|918,925|TECHNIQUE

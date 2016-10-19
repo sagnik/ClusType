@@ -1,0 +1,9 @@
+T1|machine translation|494,513|DOMAIN,FOCUS
+T2|Machine Translation|248,267|DOMAIN
+T3|machine translation|494,513|FOCUS
+T4|Variational Decoding|37,57|TECHNIQUE
+T5|Statistical|167,178|TECHNIQUE
+T6|Statistical|370,381|TECHNIQUE
+T7|variational approximation|1148,1173|TECHNIQUE
+T8|variational distributions|1337,1362|TECHNIQUE
+T9|n-gram|1456,1462|TECHNIQUE

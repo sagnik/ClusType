@@ -1,0 +1,15 @@
+T1|translation|1542,1553|DOMAIN,FOCUS
+T2|translation|1847,1858|DOMAIN,FOCUS
+T3|Machine Translation|255,274|DOMAIN
+T4|machine translation|423,442|DOMAIN
+T5|machine translation|1002,1021|DOMAIN
+T6|Reordering Constraints|70,92|FOCUS
+T7|translation|1542,1553|FOCUS
+T8|translation|1847,1858|FOCUS
+T9|reordering constraints|848,870|TECHNIQUE
+T10|IBM constraints|1135,1150|TECHNIQUE
+T11|ITG constraints|1231,1246|TECHNIQUE
+T12|dynamic programming|1342,1361|TECHNIQUE
+T13|reordering constraints|1714,1736|TECHNIQUE
+T14|phrase reorderings|2026,2044|TECHNIQUE
+T15|ITG constraints|2123,2138|TECHNIQUE

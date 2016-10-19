@@ -1,0 +1,13 @@
+T1|Word Sense Disambiguation|67,92|DOMAIN,FOCUS
+T2|word sense disambiguation|519,544|DOMAIN,FOCUS
+T3|WSD|681,684|DOMAIN,FOCUS
+T4|WSD|1229,1232|DOMAIN
+T5|Word Sense Disambiguation|67,92|FOCUS
+T6|Tree-Structured Conditional Random Fields|246,287|FOCUS
+T7|word sense disambiguation|519,544|FOCUS
+T8|WSD|681,684|FOCUS
+T9|tree-structured conditional random fields|837,878|FOCUS
+T10|supervised|406,416|TECHNIQUE
+T11|TCRFs|988,993|TECHNIQUE
+T12|TCRFs|1086,1091|TECHNIQUE
+T13|tree-structured|1576,1591|TECHNIQUE

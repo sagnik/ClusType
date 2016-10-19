@@ -1,0 +1,7 @@
+T1|gender discriminatory formulations|411,445|DOMAIN,FOCUS
+T2|gender imbalances|804,821|DOMAIN,FOCUS
+T3|Gender Equality|78,95|DOMAIN
+T4|gender discriminatory formulations|411,445|FOCUS
+T5|gender imbalances|804,821|FOCUS
+T6|Shallow|201,208|TECHNIQUE
+T7|shallow rule-based|561,579|TECHNIQUE

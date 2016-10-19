@@ -1,0 +1,9 @@
+T1|part-of-speech tagger|352,373|DOMAIN,FOCUS
+T2|Part-Of-Speech Tagging|67,89|DOMAIN
+T3|part-of-speech tagger|352,373|FOCUS
+T4|Virtual Evidence And Negative Training|196,234|TECHNIQUE
+T5|virtual evidence|510,526|TECHNIQUE
+T6|negative training|643,660|TECHNIQUE
+T7|factored language-model with back-off|990,1027|TECHNIQUE
+T8|Dynamic Bayesian Networks|1177,1202|TECHNIQUE
+T9|DBNs|1281,1285|TECHNIQUE

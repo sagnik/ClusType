@@ -1,0 +1,13 @@
+T1|Speaker Adaptation|325,343|DOMAIN,FOCUS
+T2|speaker adaptation for automatic speech recognition|513,564|DOMAIN
+T3|speaker adaptation|1072,1090|DOMAIN
+T4|speech|1217,1223|DOMAIN
+T5|Articulatory Features|79,100|FOCUS
+T6|Speaker Adaptation|325,343|FOCUS
+T7|Discriminative|208,222|TECHNIQUE
+T8|stream weights in a multi-streamsetup|675,712|TECHNIQUE
+T9|`` Articulatory Features ''|820,847|TECHNIQUE
+T10|supervised|992,1002|TECHNIQUE
+T11|stream-based|1320,1332|TECHNIQUE
+T12|stream weights|1551,1565|TECHNIQUE
+T13|VOICED|1679,1685|TECHNIQUE

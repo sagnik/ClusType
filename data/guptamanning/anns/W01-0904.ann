@@ -1,0 +1,8 @@
+T1|evaluate|356,364|DOMAIN,FOCUS
+T2|translating corpora between syntactic formalisms|693,741|DOMAIN,FOCUS
+T3|translating the Penn Treebank annotation into a Categorial Grammar annotation|902,979|DOMAIN,FOCUS
+T4|Translating Treebank Annotation For Evaluation|67,113|DOMAIN
+T5|evaluate|356,364|FOCUS
+T6|translating corpora between syntactic formalisms|693,741|FOCUS
+T7|translating the Penn Treebank annotation into a Categorial Grammar annotation|902,979|FOCUS
+T8|supervised machine learning|535,562|TECHNIQUE

@@ -1,0 +1,10 @@
+T1|SLM|1584,1587|DOMAIN,FOCUS
+T2|Structured Language Modeling|184,212|DOMAIN
+T3|parsing|791,798|DOMAIN
+T4|parsing|1202,1209|DOMAIN
+T5|language model|1393,1407|DOMAIN
+T6|structured language model|496,521|FOCUS
+T7|SLM|659,662|FOCUS
+T8|SLM|1584,1587|FOCUS
+T9|Richer Syntactic Dependencies|48,77|TECHNIQUE
+T10|richer syntactic dependencies|338,367|TECHNIQUE

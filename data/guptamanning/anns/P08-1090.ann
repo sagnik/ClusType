@@ -1,0 +1,14 @@
+T1|Narrative Event Chains|164,186|DOMAIN,FOCUS
+T2|narrative event chains|600,622|DOMAIN,FOCUS
+T3|narrative event chains|1048,1070|DOMAIN,FOCUS
+T4|narrative relations|1335,1354|DOMAIN,FOCUS
+T5|narrative event chain|780,801|DOMAIN
+T6|Narrative Event Chains|164,186|FOCUS
+T7|narrative event chains|600,622|FOCUS
+T8|narrative event chains|1048,1070|FOCUS
+T9|narrative relations|1335,1354|FOCUS
+T10|Unsupervised Learning|37,58|TECHNIQUE
+T11|unsupervised|447,459|TECHNIQUE
+T12|unsupervised distributional|1186,1215|TECHNIQUE
+T13|temporal classifier|1523,1542|TECHNIQUE
+T14|clusters|1688,1696|TECHNIQUE

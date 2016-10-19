@@ -1,0 +1,18 @@
+T1|Word Segmentation|204,221|DOMAIN,FOCUS
+T2|word segmentation|485,502|DOMAIN,FOCUS
+T3|word segmentation|1316,1333|DOMAIN,FOCUS
+T4|Word Segmentation|2055,2072|DOMAIN,FOCUS
+T5|Word Segmentation|204,221|FOCUS
+T6|word segmentation|485,502|FOCUS
+T7|word segmentation|1316,1333|FOCUS
+T8|Word Segmentation|2055,2072|FOCUS
+T9|Perceptron with Global and Local Features|48,89|TECHNIQUE
+T10|global features|355,370|TECHNIQUE
+T11|global features|611,626|TECHNIQUE
+T12|local features|717,731|TECHNIQUE
+T13|averaged perceptron|814,833|TECHNIQUE
+T14|conditional random field|1002,1026|TECHNIQUE
+T15|CRF|1105,1108|TECHNIQUE
+T16|character-based tagger|1187,1209|TECHNIQUE
+T17|global features|1472,1487|TECHNIQUE
+T18|local features|1697,1711|TECHNIQUE

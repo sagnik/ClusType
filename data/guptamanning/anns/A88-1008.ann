@@ -1,0 +1,14 @@
+T1|scoping|841,848|DOMAIN,FOCUS
+T2|scoping|1959,1966|DOMAIN,FOCUS
+T3|scoping|2154,2161|DOMAIN,FOCUS
+T4|Scope Ambiguities|76,93|DOMAIN
+T5|scope ambiguities|284,301|DOMAIN
+T6|scoping|841,848|FOCUS
+T7|scoping|1959,1966|FOCUS
+T8|scoping|2154,2161|FOCUS
+T9|logical translations|471,491|TECHNIQUE
+T10|parser\/translator|581,599|TECHNIQUE
+T11|domain-independent heuristics|1132,1161|TECHNIQUE
+T12|lexical type|1286,1298|TECHNIQUE
+T13|structural relations|1398,1418|TECHNIQUE
+T14|domain-independent heuristics|1541,1570|TECHNIQUE

@@ -1,0 +1,10 @@
+T1|Semantic Frame Composition in a Spoken Dialog|170,215|DOMAIN,FOCUS
+T2|spoken language understanding|663,692|DOMAIN,FOCUS
+T3|semantic frame-based tree structures from speech transcriptions|916,979|DOMAIN
+T4|Semantic Frame Composition in a Spoken Dialog|170,215|FOCUS
+T5|spoken language understanding|663,692|FOCUS
+T6|Bayesian Networks|46,63|TECHNIQUE
+T7|stochastic|327,337|TECHNIQUE
+T8|Dynamic Bayesian Networks|428,453|TECHNIQUE
+T9|DBNs|532,536|TECHNIQUE
+T10|DBN-based|795,804|TECHNIQUE

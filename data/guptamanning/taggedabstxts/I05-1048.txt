@@ -1,0 +1,8 @@
+A <tag name="TECHNIQUE" value="start"/>Lexicon-Constrained Character<tag name="TECHNIQUE" value="end"/> Model for Chinese  <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Morphological Analysis<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
+This paper proposes a <tag name="TECHNIQUE" value="start"/>lexicon-constrained character<tag name="TECHNIQUE" value="end"/> model that combines both <tag name="TECHNIQUE" value="start"/>word and character features<tag name="TECHNIQUE" value="end"/> to solve complicated issues in Chinese  <tag name="DOMAIN" value="start"/>morphological analysis<tag name="DOMAIN" value="end"/> .
+A Chinese  <tag name="TECHNIQUE" value="start"/>character-based<tag name="TECHNIQUE" value="end"/> model constrained by a <tag name="TECHNIQUE" value="start"/>lexicon<tag name="TECHNIQUE" value="end"/> is built to acquire word building rules .
+Each character in a Chinese sentence is assigned a tag by the proposed model .
+The <tag name="DOMAIN" value="start"/>word segmentation<tag name="DOMAIN" value="end"/> and <tag name="DOMAIN" value="start"/>partof-speech tagging<tag name="DOMAIN" value="end"/> results are then generated based on the character tags .
+The proposed method solves such problems as unknown word identification , data sparseness , and estimation bias in an integrated , unified framework .
+Preliminary experiments indicate that the proposed method outperforms the best SIGHAN word segmentation systems in the open track on 3 out of the 4 test corpora .
+Additionally , our method can be conveniently integrated with any other Chinese morphological systems as a post-processing module leading to significant improvement in performance .

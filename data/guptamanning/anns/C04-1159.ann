@@ -1,0 +1,11 @@
+T1|spontaneous Japanese speech|1056,1083|DOMAIN,FOCUS
+T2|Dependency Structure Analysis|67,96|DOMAIN
+T3|Sentence Boundary Detection|167,194|DOMAIN
+T4|Spontaneous Japanese|264,284|DOMAIN
+T5|dependencies|425,437|DOMAIN
+T6|sentence boundaries in a spontaneous speech corpus|559,609|DOMAIN
+T7|sentence boundary detection|895,922|DOMAIN
+T8|spontaneous Japanese speech|1056,1083|FOCUS
+T9|statistical machine translation|1202,1233|TECHNIQUE
+T10|dependency information|1312,1334|TECHNIQUE
+T11|text chunking using SVM|1433,1456|TECHNIQUE

@@ -1,0 +1,11 @@
+T1|Semantic Tagging|84,100|DOMAIN,FOCUS
+T2|Tagging|329,336|DOMAIN,FOCUS
+T3|semantic ambiguities|933,953|DOMAIN,FOCUS
+T4|semantic categories|1352,1371|DOMAIN,FOCUS
+T5|Semantic Tagging|84,100|FOCUS
+T6|Tagging|329,336|FOCUS
+T7|semantic ambiguities|933,953|FOCUS
+T8|semantic categories|1352,1371|FOCUS
+T9|Hidden Markov Model|207,226|TECHNIQUE
+T10|lexicon|1092,1099|TECHNIQUE
+T11|Hidden Markov|1186,1199|TECHNIQUE

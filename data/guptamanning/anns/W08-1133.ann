@@ -1,0 +1,13 @@
+T1|Referring Expression Generation|67,98|DOMAIN,FOCUS
+T2|referring expression generation|573,604|DOMAIN,FOCUS
+T3|referring expression generation|1219,1250|DOMAIN,FOCUS
+T4|Referring Expression Generation|67,98|FOCUS
+T5|referring expression generation|573,604|FOCUS
+T6|referring expression generation|1219,1250|FOCUS
+T7|Speaker-based Attribute Selection|205,238|TECHNIQUE
+T8|Realization -LRB- ATTR -RRB-|325,353|TECHNIQUE
+T9|surface realization|833,852|TECHNIQUE
+T10|semantic|949,957|TECHNIQUE
+T11|word order|1034,1044|TECHNIQUE
+T12|speaker style|1392,1405|TECHNIQUE
+T13|data-driven surface realization|1486,1517|TECHNIQUE

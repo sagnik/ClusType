@@ -1,0 +1,15 @@
+T1|Spoken-Document Retrieval|75,100|DOMAIN,FOCUS
+T2|Large-Scale Web-Search Architectures|343,379|DOMAIN,FOCUS
+T3|Large-scale web-search engines|512,542|DOMAIN,FOCUS
+T4|large-scale web-search engines|1070,1100|DOMAIN,FOCUS
+T5|phrase spotting and relevance ranking|1875,1912|DOMAIN
+T6|phrase spotting|2143,2158|DOMAIN
+T7|Spoken-Document Retrieval|75,100|FOCUS
+T8|Large-Scale Web-Search Architectures|343,379|FOCUS
+T9|Large-scale web-search engines|512,542|FOCUS
+T10|large-scale web-search engines|1070,1100|FOCUS
+T11|Lattice Indexing|220,236|TECHNIQUE
+T12|indexing word lattices|924,946|TECHNIQUE
+T13|Time-based Merging for Indexing|1270,1301|TECHNIQUE
+T14|TMI|1381,1384|TECHNIQUE
+T15|TMI indexes|1990,2001|TECHNIQUE

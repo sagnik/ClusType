@@ -1,0 +1,15 @@
+T1|Subjective Nouns|75,93|DOMAIN,FOCUS
+T2|subjective|740,750|DOMAIN,FOCUS
+T3|subjective nouns|1714,1730|DOMAIN,FOCUS
+T4|subjectivity|371,383|DOMAIN
+T5|subjective nouns|1157,1173|DOMAIN
+T6|Subjective Nouns|75,93|FOCUS
+T7|subjective|740,750|FOCUS
+T8|subjective nouns|1714,1730|FOCUS
+T9|Extraction Pattern Bootstrapping|200,232|TECHNIQUE
+T10|bootstrapping|542,555|TECHNIQUE
+T11|bootstrapping|907,920|TECHNIQUE
+T12|extraction patterns|1018,1037|TECHNIQUE
+T13|Naive Bayes|1292,1303|TECHNIQUE
+T14|discourse features , and subjectivity clues|1417,1460|TECHNIQUE
+T15|bootstrapping|1568,1581|TECHNIQUE

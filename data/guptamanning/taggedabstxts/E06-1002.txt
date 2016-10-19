@@ -1,0 +1,4 @@
+Using <tag name="TECHNIQUE" value="start"/>Encyclopedic<tag name="TECHNIQUE" value="end"/> Knowledge For <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Named Entity<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> Disambiguation .
+We present a new method for detecting and disambiguating  <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>named entities<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> in open domain text .
+A disambiguation <tag name="TECHNIQUE" value="start"/>SVM kernel<tag name="TECHNIQUE" value="end"/> is trained to exploit the high coverage and rich structure of the knowledge encoded in an online <tag name="TECHNIQUE" value="start"/>encyclopedia<tag name="TECHNIQUE" value="end"/> .
+The resulting model significantly outperforms a less informed baseline .

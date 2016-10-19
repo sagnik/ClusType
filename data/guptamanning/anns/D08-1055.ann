@@ -1,0 +1,10 @@
+T1|Predicate Argument Structure Analysis|79,116|DOMAIN,FOCUS
+T2|predicate argument structure analysis|399,436|DOMAIN,FOCUS
+T3|case roles to the argument of the target predicate|582,632|DOMAIN
+T4|semantic role labeling|1189,1211|DOMAIN
+T5|zero-pronoun identification|1282,1309|DOMAIN
+T6|Predicate Argument Structure Analysis|79,116|FOCUS
+T7|predicate argument structure analysis|399,436|FOCUS
+T8|Decision Lists|223,237|TECHNIQUE
+T9|dependency types , words , semantic categories , parts of speech , functional words and predicate voices|808,912|TECHNIQUE
+T10|decision lists|1002,1016|TECHNIQUE

@@ -1,0 +1,8 @@
+T1|Parsing|77,84|DOMAIN,FOCUS
+T2|Dependency Parsers|246,264|DOMAIN,FOCUS
+T3|parsers|626,633|DOMAIN,FOCUS
+T4|parsing|448,455|DOMAIN
+T5|Parsing|77,84|FOCUS
+T6|Dependency Parsers|246,264|FOCUS
+T7|parsers|626,633|FOCUS
+T8|context features|892,908|TECHNIQUE

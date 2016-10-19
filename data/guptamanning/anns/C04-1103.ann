@@ -1,0 +1,13 @@
+T1|machine transliteration\/backtransliteration|551,595|DOMAIN,FOCUS
+T2|transliteration|1296,1311|DOMAIN,FOCUS
+T3|transliteration\/backtransliteration|1507,1543|DOMAIN,FOCUS
+T4|Direct Orthographical Mapping For Machine Transliteration|67,124|DOMAIN
+T5|Machine transliteration\/back-transliteration|257,302|DOMAIN
+T6|orthographical mapping|728,750|DOMAIN
+T7|transliteration|1867,1882|DOMAIN
+T8|machine transliteration\/backtransliteration|551,595|FOCUS
+T9|transliteration|1296,1311|FOCUS
+T10|transliteration\/backtransliteration|1507,1543|FOCUS
+T11|joint source-channel|908,928|TECHNIQUE
+T12|n-gram|1037,1043|TECHNIQUE
+T13|ngram|1144,1149|TECHNIQUE

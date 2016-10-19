@@ -1,0 +1,11 @@
+T1|Domain-Specific Taggers|76,99|DOMAIN,FOCUS
+T2|Part of spech taging|274,294|DOMAIN,FOCUS
+T3|Biolgy doain|1330,1342|DOMAIN
+T4|Domain-Specific Taggers|76,99|FOCUS
+T5|Part of spech taging|274,294|FOCUS
+T6|raw doain text|689,703|TECHNIQUE
+T7|related ords|792,804|TECHNIQUE
+T8|lexicon|903,910|TECHNIQUE
+T9|lexicon|990,997|TECHNIQUE
+T10|EM trainig|1117,1127|TECHNIQUE
+T11|HM model|1206,1214|TECHNIQUE

@@ -1,0 +1,7 @@
+Improving <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Parsing<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> Accuracy By  Combining Diverse <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Dependency Parsers<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
+This paper explores the possibilities of improving <tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>parsing<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> results by combining outputs of several <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>parsers<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
+To some extent , we are porting the ideas of Henderson and Brill -LRB- 1999 -RRB- to the world of dependency structures .
+We differ from them in  exploring <tag name="TECHNIQUE" value="start"/>context features<tag name="TECHNIQUE" value="end"/>  more deeply .
+All our experiments were conducted on Czech but the method is language-independent .
+We were able to significantly improve over the best parsing result for the given setting , known so far .
+Moreover , our experiments show that even parsers far below the state of the art can contribute to the total improvement .

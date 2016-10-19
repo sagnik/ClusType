@@ -1,0 +1,8 @@
+Alternative Approaches For <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Generating Bodies Of Grammar Rules<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
+We compare two approaches for describing and <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>generating bodies of rules<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> used for natural language <tag name="DOMAIN" value="start"/>parsing<tag name="DOMAIN" value="end"/> .
+In today 's parsers rule bodies do not exist a priori but are generated on the fly , usually with methods based on n-grams , which are one particular way of inducing probabilistic regular languages .
+We compare two approaches for inducing such languages .
+One is based on <tag name="TECHNIQUE" value="start"/>n-grams<tag name="TECHNIQUE" value="end"/> , the other on minimization of the <tag name="TECHNIQUE" value="start"/>Kullback-Leibler divergence<tag name="TECHNIQUE" value="end"/> .
+The inferred regular languages are used for <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>generating bodies of rules<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> inside a <tag name="DOMAIN" value="start"/>parsing<tag name="DOMAIN" value="end"/> procedure .
+We compare the two approaches along two dimensions : the quality of the <tag name="TECHNIQUE" value="start"/>probabilistic<tag name="TECHNIQUE" value="end"/> regular language they produce , and the performance of the <tag name="DOMAIN" value="start"/>parser<tag name="DOMAIN" value="end"/> they were used to build .
+The second approach outperforms the first one along both dimensions .

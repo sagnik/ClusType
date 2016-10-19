@@ -1,0 +1,19 @@
+T1|Science Education|243,260|DOMAIN,FOCUS
+T2|extractive summarizer|446,467|DOMAIN,FOCUS
+T3|educational science|602,621|DOMAIN,FOCUS
+T4|summarizers|1689,1700|DOMAIN,FOCUS
+T5|summaries|1845,1854|DOMAIN,FOCUS
+T6|Extractive Summaries|88,108|DOMAIN
+T7|Science Education|243,260|FOCUS
+T8|extractive summarizer|446,467|FOCUS
+T9|educational science|602,621|FOCUS
+T10|COGENT|733,739|FOCUS
+T11|COGENT|806,812|FOCUS
+T12|COGENT|998,1004|FOCUS
+T13|COGENT|1563,1569|FOCUS
+T14|summarizers|1689,1700|FOCUS
+T15|summaries|1845,1854|FOCUS
+T16|COGENT|2008,2014|FOCUS
+T17|hybrid|1193,1199|TECHNIQUE
+T18|bottom-up sentence scoring features|1317,1352|TECHNIQUE
+T19|domain-aware top-down features|1429,1459|TECHNIQUE

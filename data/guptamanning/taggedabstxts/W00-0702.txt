@@ -1,0 +1,5 @@
+<tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>Corpus-Based Grammar Specialization<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> .
+Broad-coverage grammars tend to be highly ambiguous .
+When such grammars are used in a restricted domain , it may be desirable to specialize them , in effect trading some coverage for a reduction in ambiguity .
+<tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Grammar specialization<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> is here given a novel formulation as an <tag name="TECHNIQUE" value="start"/>optimization <tag name="TECHNIQUE" value="end"/> problem , in which the search is guided by a global measure combining coverage , ambiguity and grammar size .
+The method , applicable to any <tag name="DOMAIN" value="start"/>unification grammar<tag name="DOMAIN" value="end"/> with a phrasestructure backbone , is shown to be effective in specializing a broad-coverage <tag name="DOMAIN" value="start"/> LFG for French<tag name="DOMAIN" value="end"/> .

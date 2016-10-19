@@ -1,0 +1,5 @@
+Automatic Detection of <tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>Opinion Bearing Words and Sentences<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> .
+We describe a sentence-level <tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>opinion detection<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> system .
+We first define what an opinion means in our research and introduce an effective method for obtaining <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>opinion-bearing and nonopinion-bearing words<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
+Then we describe recognizing opinion-bearing sentences using these words We test the system on 3 different test sets : MPQA data , an internal corpus , and the TREC2003 Novelty track data .
+We show that our automatic method for obtaining opinion-bearing words can be used effectively to identify <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>opinion-bearing sentences<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .

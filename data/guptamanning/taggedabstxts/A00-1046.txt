@@ -1,0 +1,8 @@
+The Efficiency Of <tag name="TECHNIQUE" value="start"/>Multimodal<tag name="TECHNIQUE" value="end"/> Interaction For A <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Map-Based <tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> Task .
+This paper compares the efficiency of using a standard direct-manipulation graphical user interface -LRB- GUI -RRB- with that of using the <tag name="TECHNIQUE" value="start"/><tag name="FOCUS" value="start"/>QuickSet pen\/voice multimodal interface<tag name="FOCUS" value="end"/><tag name="TECHNIQUE" value="end"/> for supporting a <tag name="DOMAIN" value="start"/>military task<tag name="DOMAIN" value="end"/> .
+In this task , a user places military units and control measures -LRB- e.g. , various types of lines , obstacles , objectives -RRB- on a map .
+Four military personnel designed and entered their own simulation scenarios via both interfaces .
+Analyses revealed that the <tag name="TECHNIQUE" value="start"/>multimodal <tag name="TECHNIQUE" value="end"/> interface led to an average 3.5-fold speed improvement in the average entity creation time , including all error handling .
+The mean time to repair errors also was 4.3 times faster when interacting multimodally .
+Finally , all subjects reported a strong preference for <tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>multimodal<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> interaction .
+These results indicate a substantial efficiency advantage for multimodal over GUI-based interaction during <tag name="DOMAIN" value="start"/>map-based<tag name="DOMAIN" value="end"/> tasks .

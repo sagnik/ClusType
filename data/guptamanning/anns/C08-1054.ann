@@ -1,0 +1,10 @@
+T1|Coordination Disambiguation|67,94|DOMAIN,FOCUS
+T2|coordination disambiguation|419,446|DOMAIN,FOCUS
+T3|coordination disambiguation|1188,1215|DOMAIN,FOCUS
+T4|parser|1068,1074|DOMAIN
+T5|Coordination Disambiguation|67,94|FOCUS
+T6|coordination disambiguation|419,446|FOCUS
+T7|coordination disambiguation|1188,1215|FOCUS
+T8|dependency relations|657,677|TECHNIQUE
+T9|dependency relations|766,786|TECHNIQUE
+T10|fully-lexicalized generative|970,998|TECHNIQUE

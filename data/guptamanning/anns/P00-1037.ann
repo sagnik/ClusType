@@ -1,0 +1,14 @@
+T1|Spelling Correction|181,200|DOMAIN,FOCUS
+T2|spelling correction|486,505|DOMAIN,FOCUS
+T3|spelling correction|927,946|DOMAIN,FOCUS
+T4|spelling correction|1196,1215|DOMAIN,FOCUS
+T5|Spelling Correction|181,200|FOCUS
+T6|spelling correction|486,505|FOCUS
+T7|spelling correction|927,946|FOCUS
+T8|spelling correction|1196,1215|FOCUS
+T9|Noisy Channel|65,78|TECHNIQUE
+T10|noisy channel|307,320|TECHNIQUE
+T11|channel model|670,683|TECHNIQUE
+T12|channel model|807,820|TECHNIQUE
+T13|channel model|1076,1089|TECHNIQUE
+T14|string edits|1345,1357|TECHNIQUE

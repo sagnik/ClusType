@@ -1,0 +1,5 @@
+Generating And Selecting <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Grammatical Paraphrases<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
+Natural language has a high paraphrastic power yet not all paraphrases are appropriate for all contexts .
+In this paper , we present a <tag name="TECHNIQUE" value="start"/>TAG<tag name="TECHNIQUE" value="end"/> based <tag name="TECHNIQUE" value="start"/>surface realiser<tag name="TECHNIQUE" value="end"/> which supports both the generation and the selection of <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>paraphrases<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
+To deal with the combinatorial explosion typical of such an NP-complete task , we introduce a number of new optimisations in a tabular , <tag name="TECHNIQUE" value="start"/>bottom-up surface realisation <tag name="TECHNIQUE" value="end"/> algorithm .
+We then show that one of these optimisations supports <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>paraphrase selection<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .

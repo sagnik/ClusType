@@ -1,0 +1,10 @@
+T1|Clustering Hungarian Verbs|67,93|DOMAIN,FOCUS
+T2|semantic verb classes|529,550|DOMAIN,FOCUS
+T3|semantically motivated verb classes|816,851|DOMAIN,FOCUS
+T4|Clustering Hungarian Verbs|67,93|FOCUS
+T5|semantic verb classes|529,550|FOCUS
+T6|semantically motivated verb classes|816,851|FOCUS
+T7|verbal subcategorization|1253,1277|FOCUS
+T8|Complementation Patterns|210,234|TECHNIQUE
+T9|unsupervised clustering|350,373|TECHNIQUE
+T10|complementation patterns|1048,1072|TECHNIQUE

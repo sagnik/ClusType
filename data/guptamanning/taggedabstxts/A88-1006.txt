@@ -1,0 +1,5 @@
+From Water To Wine : <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Generating Natural Language Text<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> From Today 's Applications Programs .
+In this paper we present a means of compensating for the semantic deficits of linguistically naive underlying application programs without compromising principled grammatical treatments in <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>natural language generation<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
+We present a method for building an interface from today 's underlying application programs to the linguistic realization component <tag name="TECHNIQUE" value="start"/>Mumble-86<tag name="TECHNIQUE" value="end"/> .
+The goal of the paper is not to discuss how Mumble works , but to describe how one exploits its capabilities .
+We provide examples from current generation projects using <tag name="TECHNIQUE" value="start"/>Mumble<tag name="TECHNIQUE" value="end"/> as their linguistic component .

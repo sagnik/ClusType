@@ -1,0 +1,12 @@
+T1|Query-based Multi-document Summarization|159,199|DOMAIN,FOCUS
+T2|summarizer|372,382|DOMAIN,FOCUS
+T3|summarizer|868,878|DOMAIN
+T4|FastSum|33,40|FOCUS
+T5|Query-based Multi-document Summarization|159,199|FOCUS
+T6|summarizer|372,382|FOCUS
+T7|FastSum|486,493|FOCUS
+T8|FastSum|1497,1504|FOCUS
+T9|word-frequency features|578,601|TECHNIQUE
+T10|regression SVM|745,759|TECHNIQUE
+T11|Least Angle Regression|1315,1337|TECHNIQUE
+T12|LARS|1416,1420|TECHNIQUE

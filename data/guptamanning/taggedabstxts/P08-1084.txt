@@ -1,0 +1,8 @@
+<tag name="TECHNIQUE" value="start"/><tag name="FOCUS" value="start"/>Unsupervised Multilingual Learning<tag name="FOCUS" value="end"/><tag name="TECHNIQUE" value="end"/> for <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Morphological Segmentation<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
+For centuries , the deep connection between languages has brought about major discoveries about human communication .
+In this paper we investigate how this powerful source of information can be exploited for <tag name="FOCUS" value="start"/>unsupervised language learning<tag name="FOCUS" value="end"/> .
+In particular , we study the task of <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>morphological segmentation<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> of multiple languages .
+We present a <tag name="TECHNIQUE" value="start"/>nonparametric Bayesian<tag name="TECHNIQUE" value="end"/> model that jointly induces <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>morpheme segmentations<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> of each language under consideration and at the same time identifies cross-lingual morpheme patterns , or abstract morphemes .
+We apply our modeltothreeSemiticlanguages : Arabic , Hebrew , Aramaic , as well as to English .
+Our results demonstrate that learning <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>morphological<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> models in tandem reduces error by up to 24 % relative to monolingual models .
+Furthermore , we provide evidence that our joint model achieves better performance when applied to languages from the same family .

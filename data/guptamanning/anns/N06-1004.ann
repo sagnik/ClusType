@@ -1,0 +1,16 @@
+T1|translation|2098,2109|DOMAIN,FOCUS
+T2|Machine Translation|427,448|DOMAIN
+T3|machine translation -LRB- MT -RRB-|891,925|DOMAIN
+T4|Segment Choice|70,84|FOCUS
+T5|translation|2098,2109|FOCUS
+T6|Feature-Rich|197,209|TECHNIQUE
+T7|Statistical|347,358|TECHNIQUE
+T8|distortion|589,599|TECHNIQUE
+T9|phrase reordering|678,695|TECHNIQUE
+T10|phrasebased|810,821|TECHNIQUE
+T11|probabilistic distortion|1128,1152|TECHNIQUE
+T12|phrase reordering|1293,1310|TECHNIQUE
+T13|`` segment choice ''|1391,1411|TECHNIQUE
+T14|SCMs|1497,1501|TECHNIQUE
+T15|distortion perplexity|1727,1748|TECHNIQUE
+T16|decision-tree-based SCM|1940,1963|TECHNIQUE

@@ -1,0 +1,6 @@
+Extracting <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Comparative Sentences<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> from Korean Text Documents Using Comparative <tag name="TECHNIQUE" value="start"/>Lexical Patterns<tag name="TECHNIQUE" value="end"/> and <tag name="TECHNIQUE" value="start"/>Machine Learning<tag name="TECHNIQUE" value="end"/> Techniques .
+This paper proposes how to automatically identify Korean <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>comparative sentences<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> from text documents .
+This paper first investigates many comparative sentences referring to previous studies and then defines a set of comparative keywords from them .
+A sentence which contains one or more elements of the keyword set is called a comparative-sentence candidate .
+Finally , we use <tag name="TECHNIQUE" value="start"/>machine learning<tag name="TECHNIQUE" value="end"/> techniques to <tag name="DOMAIN" value="start"/>eliminate non-comparative sentences from the candidates<tag name="DOMAIN" value="end"/> .
+As a result , we achieved significant performance , an F1-score of 88.54 % , in our experiments using various web documents .

@@ -1,0 +1,14 @@
+T1|Dependency Parser|160,177|DOMAIN,FOCUS
+T2|parse|387,392|DOMAIN,FOCUS
+T3|parsing|673,680|DOMAIN,FOCUS
+T4|dependency parsing|1013,1031|DOMAIN,FOCUS
+T5|parsing|1223,1230|DOMAIN,FOCUS
+T6|phrase structure partial parsing|877,909|DOMAIN
+T7|machine translation|1384,1403|DOMAIN
+T8|Dependency Parser|160,177|FOCUS
+T9|parse|387,392|FOCUS
+T10|parsing|673,680|FOCUS
+T11|dependency parsing|1013,1031|FOCUS
+T12|parsing|1223,1230|FOCUS
+T13|Block-Based|39,50|TECHNIQUE
+T14|hybrid|792,798|TECHNIQUE

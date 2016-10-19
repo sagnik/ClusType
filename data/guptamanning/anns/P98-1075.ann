@@ -1,0 +1,20 @@
+T1|Semantic Grammars|75,92|DOMAIN,FOCUS
+T2|semantic grammar|704,720|DOMAIN,FOCUS
+T3|NLU front-ends|1273,1287|DOMAIN,FOCUS
+T4|NLU front-end|1508,1521|DOMAIN,FOCUS
+T5|natural language understanding -LRB- NLU -RRB-|263,309|DOMAIN
+T6|semantic mapping|562,578|DOMAIN
+T7|kernel analysis grammar|1901,1924|DOMAIN
+T8|semantic mappings|2266,2283|DOMAIN
+T9|Semantic Grammars|75,92|FOCUS
+T10|semantic grammar|704,720|FOCUS
+T11|GsG|1113,1116|FOCUS
+T12|NLU front-ends|1273,1287|FOCUS
+T13|NLU front-end|1508,1521|FOCUS
+T14|GSQ|1690,1693|FOCUS
+T15|GsG|2728,2731|FOCUS
+T16|domain model|1813,1825|TECHNIQUE
+T17|learning|2144,2152|TECHNIQUE
+T18|parser predictions|2386,2404|TECHNIQUE
+T19|hidden understanding model|2494,2520|TECHNIQUE
+T20|end-user paraphrases|2615,2635|TECHNIQUE

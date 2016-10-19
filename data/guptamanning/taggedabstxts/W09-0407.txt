@@ -1,0 +1,7 @@
+The RWTH <tag name="TECHNIQUE" value="start"/>System Combination<tag name="TECHNIQUE" value="end"/> System for <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>WMT<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> 2009 .
+RWTH participated in the <tag name="TECHNIQUE" value="start"/>System Combination<tag name="TECHNIQUE" value="end"/> task of the Fourth Workshop on <tag name="FOCUS" value="start"/><tag name="TECHNIQUE" value="start"/>Statistical<tag name="TECHNIQUE" value="end"/> <tag name="DOMAIN" value="start"/>Machine Translation<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> -LRB- WMT 2009 -RRB- .
+Hypotheses from 9 German → English MT systems were combined into a consensus <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>translation<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
+This consensus <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>translation<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> scored 2.1 % better in BLEU and 2.3 % better in TER -LRB- abs . -RRB-
+than the best single system .
+In addition , cross-lingual output from 10 French , German , and Spanish → English systems was combined into a consensus <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>translation<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> , which gave an improvement of 2.0 % in BLEU\/3 .5 % in TER -LRB- abs . -RRB-
+over the best single system .

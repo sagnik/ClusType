@@ -1,0 +1,5 @@
+<tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Word Sense Disambiguation<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> Criteria : A Systematic Study .
+This article describes the results of a systematic indepth study of the criteria used for <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>word sense disambiguation<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
+Our study is based on 60 target words : 20 nouns , 20 adjectives and 20 verbs .
+Our results are not always in line with some practices in the field .
+For example , we show that omitting noncontent words decreases performance and that bigrams yield better results than unigrams .

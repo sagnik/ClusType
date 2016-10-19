@@ -1,0 +1,10 @@
+T1|Entity detection and tracking -LRB- EDT -RRB-|377,422|DOMAIN,FOCUS
+T2|EDT|997,1000|DOMAIN,FOCUS
+T3|Entity Detection And Tracking|206,237|DOMAIN
+T4|named entity detection|616,638|DOMAIN
+T5|coreference resolution|709,731|DOMAIN
+T6|EDT|1527,1530|DOMAIN
+T7|Entity detection and tracking -LRB- EDT -RRB-|377,422|FOCUS
+T8|EDT|997,1000|FOCUS
+T9|Global Features|76,91|TECHNIQUE
+T10|complex , non-local features|1370,1398|TECHNIQUE

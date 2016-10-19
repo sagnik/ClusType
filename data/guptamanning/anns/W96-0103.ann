@@ -1,0 +1,18 @@
+T1|hierarchical clustering of words|380,412|DOMAIN,FOCUS
+T2|clustering of multiword compounds|547,580|DOMAIN,FOCUS
+T3|clustered|777,786|DOMAIN,FOCUS
+T4|hierarchical clusters of words|1216,1246|DOMAIN,FOCUS
+T5|clustering|1788,1798|DOMAIN,FOCUS
+T6|classification of multiword compounds|1962,1999|DOMAIN,FOCUS
+T7|Hierarchical Clustering Of Words|67,99|DOMAIN
+T8|Part-Of-Speech Tagger|1656,1677|DOMAIN
+T9|hierarchical clustering of words|380,412|FOCUS
+T10|clustering of multiword compounds|547,580|FOCUS
+T11|clustered|777,786|FOCUS
+T12|hierarchical clusters of words|1216,1246|FOCUS
+T13|clustering|1788,1798|FOCUS
+T14|classification of multiword compounds|1962,1999|FOCUS
+T15|data-driven|254,265|TECHNIQUE
+T16|bottom-up|887,896|TECHNIQUE
+T17|mutual information|1054,1072|TECHNIQUE
+T18|Decision-Tree|1573,1586|TECHNIQUE

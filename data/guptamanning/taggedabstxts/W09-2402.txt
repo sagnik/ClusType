@@ -1,0 +1,7 @@
+Making Sense of <tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>Word Sense Variation<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> .
+We present a pilot study of <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>word-sense<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> annotation using multiple annotators , relatively polysemous words , and a heterogenous corpus .
+Annotators selected senses for words in context , using an annotation interface that presented <tag name="TECHNIQUE" value="start"/>WordNet<tag name="TECHNIQUE" value="end"/> senses .
+Interannotator agreement -LRB- IA -RRB- results show that annotators agree well or not , depending primarily on the individual words and their general usage properties .
+Our focus is on identifying systematic differences across words and annotators that can account for IA variation .
+We identify three lexical use factors : semantic specificity of the context , sense concreteness , and similarity of senses .
+We discuss systematic differences in sense selection across annotators , and present the use of <tag name="TECHNIQUE" value="start"/>association rules<tag name="TECHNIQUE" value="end"/> to mine the data for systematic differences across annotators .

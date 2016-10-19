@@ -1,0 +1,13 @@
+T1|Classify Suicide Notes|104,126|DOMAIN,FOCUS
+T2|suicide notes|504,517|DOMAIN,FOCUS
+T3|suicide predictor|1452,1469|DOMAIN,FOCUS
+T4|Classify Suicide Notes|104,126|FOCUS
+T5|suicide notes|504,517|FOCUS
+T6|suicide predictor|1452,1469|FOCUS
+T7|machine-learning|249,265|TECHNIQUE
+T8|MLA|355,358|TECHNIQUE
+T9|MLAs|730,734|TECHNIQUE
+T10|sequential minimization optimization|895,931|TECHNIQUE
+T11|SMO|1020,1023|TECHNIQUE
+T12|MLAs|1102,1106|TECHNIQUE
+T13|evidence|1335,1343|TECHNIQUE

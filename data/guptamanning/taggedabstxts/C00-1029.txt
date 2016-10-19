@@ -1,0 +1,6 @@
+A <tag name="FOCUS" value="start"/>Class-Based Probabilistic<tag name="FOCUS" value="end"/> Approach To <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Structural Disambiguation<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
+Knowledge of which words are able to fill p ~ rticular argum .
+ent slots of a predicate can be used tbr <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>structural disambiguation<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
+This paper describes a proposal : for acquiring such knowledge , and in line with much of the recent work in this area , a <tag name="TECHNIQUE" value="start"/>probabilistic<tag name="TECHNIQUE" value="end"/> approach is taken .
+We develop a novel way of using a <tag name="TECHNIQUE" value="start"/>semantic hierarchy<tag name="TECHNIQUE" value="end"/> to estimate the <tag name="TECHNIQUE" value="start"/>probabilities<tag name="TECHNIQUE" value="end"/> , and demonstrate the general approach using a <tag name="TECHNIQUE" value="start"/>prepositional phrase atta<tag name="TECHNIQUE" value="end"/> .
+chment experiment .

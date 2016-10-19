@@ -1,0 +1,8 @@
+<tag name="DOMAIN" value="start"/>Positioning for Conceptual Development<tag name="DOMAIN" value="end"/> using <tag name="TECHNIQUE" value="start"/><tag name="FOCUS" value="start"/>Latent Semantic Analysis<tag name="FOCUS" value="end"/><tag name="TECHNIQUE" value="end"/> .
+With increasing opportunities to learn online , the problem of positioning learners in an educational network of content offers new possibilities for the utilisation of geometry-based natural language processing techniques .
+In this article , the adoption of <tag name="TECHNIQUE" value="start"/>latent semantic analysis<tag name="TECHNIQUE" value="end"/> -LRB- <tag name="TECHNIQUE" value="start"/>LSA<tag name="TECHNIQUE" value="end"/> -RRB- for guiding learners in their conceptual development is investigated .
+We propose five new algorithmic derivations of <tag name="FOCUS" value="start"/><tag name="TECHNIQUE" value="start"/>LSA<tag name="TECHNIQUE" value="end"/><tag name="FOCUS" value="end"/> and test their validity for positioning in an experiment in order to draw back conclusions on the suitability of machine learning from previously accredited evidence .
+Special attention is thereby directed towards the role of distractors and the calculation of thresholds when using similarities as a proxy for assessing conceptual closeness .
+Results indicate that <tag name="TECHNIQUE" value="start"/>learning<tag name="TECHNIQUE" value="end"/> improves <tag name="DOMAIN" value="start"/>positioning<tag name="DOMAIN" value="end"/> .
+Distractors are of low value and seem to be replaceable by generic noise to improve threshold calculation .
+Furthermore , new ways to flexibly calculate thresholds could be identified .

@@ -1,0 +1,11 @@
+T1|Parse Disambiguation|242,262|DOMAIN,FOCUS
+T2|domain adaptation of a stochastic attribute-value grammar|696,753|DOMAIN
+T3|SAVG|826,830|DOMAIN
+T4|Wikipedia|1782,1791|DOMAIN
+T5|Structural Correspondence Learning|70,104|FOCUS
+T6|Parse Disambiguation|242,262|FOCUS
+T7|Structural Correspondence Learning|435,469|FOCUS
+T8|SCL|950,953|FOCUS
+T9|SCL|1296,1299|FOCUS
+T10|SCL|1598,1601|FOCUS
+T11|SCL|579,582|TECHNIQUE

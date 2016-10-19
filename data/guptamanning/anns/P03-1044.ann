@@ -1,0 +1,11 @@
+T1|Semantic Patterns|236,253|DOMAIN,FOCUS
+T2|semantic patterns|516,535|DOMAIN,FOCUS
+T3|Semantic patterns|668,685|DOMAIN,FOCUS
+T4|pattern acquisition|1063,1082|DOMAIN
+T5|Counter-Training|70,86|FOCUS
+T6|Semantic Patterns|236,253|FOCUS
+T7|semantic patterns|516,535|FOCUS
+T8|Semantic patterns|668,685|FOCUS
+T9|unsupervised|389,401|TECHNIQUE
+T10|iterative unsupervised|971,993|TECHNIQUE
+T11|unsupervised learners|1501,1522|TECHNIQUE

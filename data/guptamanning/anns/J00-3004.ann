@@ -1,0 +1,10 @@
+T1|Word Segmentation|181,198|DOMAIN,FOCUS
+T2|word boundaries|786,801|DOMAIN,FOCUS
+T3|word boundaries|1169,1184|DOMAIN,FOCUS
+T4|language segmentation|1454,1475|DOMAIN,FOCUS
+T5|Word Segmentation|181,198|FOCUS
+T6|word boundaries|786,801|FOCUS
+T7|word boundaries|1169,1184|FOCUS
+T8|language segmentation|1454,1475|FOCUS
+T9|Compression-Based|39,56|TECHNIQUE
+T10|adaptive language model|911,934|TECHNIQUE

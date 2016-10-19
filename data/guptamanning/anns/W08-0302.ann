@@ -1,0 +1,11 @@
+T1|Machine Translation|252,271|DOMAIN
+T2|machine translation|519,538|DOMAIN
+T3|MT|881,883|DOMAIN
+T4|Context|54,61|TECHNIQUE
+T5|Statistical|171,182|TECHNIQUE
+T6|statistical|438,449|TECHNIQUE
+T7|statistical|800,811|TECHNIQUE
+T8|surrounding words|1230,1247|TECHNIQUE
+T9|part-of-speech tags|1324,1343|TECHNIQUE
+T10|local syntactic structure|1418,1443|TECHNIQUE
+T11|phrase extraction|1682,1699|TECHNIQUE

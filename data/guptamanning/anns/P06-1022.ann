@@ -1,0 +1,21 @@
+T1|Dependency Parsing|67,85|DOMAIN,FOCUS
+T2|parsing|593,600|DOMAIN,FOCUS
+T3|dependency parsing|969,987|DOMAIN,FOCUS
+T4|dependency parsing|1678,1696|DOMAIN,FOCUS
+T5|dependency parsing|2226,2244|DOMAIN,FOCUS
+T6|dependency parsing|1298,1316|DOMAIN
+T7|Dependency Parsing|67,85|FOCUS
+T8|Spoken Monologue|194,210|FOCUS
+T9|Spoken monologues|376,393|FOCUS
+T10|parsing|593,600|FOCUS
+T11|spoken monologues|713,730|FOCUS
+T12|dependency parsing|969,987|FOCUS
+T13|Japanese monologues|1087,1106|FOCUS
+T14|dependency parsing|1678,1696|FOCUS
+T15|spoken monologue|2056,2072|FOCUS
+T16|dependency parsing|2226,2244|FOCUS
+T17|Japanese monologue|2344,2362|FOCUS
+T18|Clause Boundaries|288,305|TECHNIQUE
+T19|sentence segmentation|1184,1205|TECHNIQUE
+T20|stochastic|1565,1575|TECHNIQUE
+T21|stochastically|1877,1891|TECHNIQUE

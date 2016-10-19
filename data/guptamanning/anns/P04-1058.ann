@@ -1,0 +1,12 @@
+T1|Generating Bodies Of Grammar Rules|94,128|DOMAIN,FOCUS
+T2|generating bodies of rules|306,332|DOMAIN,FOCUS
+T3|generating bodies of rules|1098,1124|DOMAIN,FOCUS
+T4|parsing|456,463|DOMAIN
+T5|parsing|1231,1238|DOMAIN
+T6|parser|1534,1540|DOMAIN
+T7|Generating Bodies Of Grammar Rules|94,128|FOCUS
+T8|generating bodies of rules|306,332|FOCUS
+T9|generating bodies of rules|1098,1124|FOCUS
+T10|n-grams|807,814|TECHNIQUE
+T11|Kullback-Leibler divergence|922,949|TECHNIQUE
+T12|probabilistic|1392,1405|TECHNIQUE

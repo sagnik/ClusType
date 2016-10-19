@@ -1,0 +1,12 @@
+T1|Multiple Aspect Ranking|67,90|DOMAIN,FOCUS
+T2|multiple related opinions|329,354|DOMAIN
+T3|multiple aspect ranking|555,578|DOMAIN
+T4|ranking|850,857|DOMAIN
+T5|ranking|1443,1450|DOMAIN
+T6|ranking|1695,1702|DOMAIN
+T7|Multiple Aspect Ranking|67,90|FOCUS
+T8|Good Grief Algorithm|201,221|TECHNIQUE
+T9|jointly learns|764,780|TECHNIQUE
+T10|dependencies|973,985|TECHNIQUE
+T11|meta-relations|1155,1169|TECHNIQUE
+T12|agreementbased joint|1312,1332|TECHNIQUE

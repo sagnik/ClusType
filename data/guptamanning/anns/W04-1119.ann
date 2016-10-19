@@ -1,0 +1,8 @@
+T1|Named Entity Recognition|205,229|DOMAIN,FOCUS
+T2|named entity recognition|601,625|DOMAIN,FOCUS
+T3|word segmentation|1262,1279|DOMAIN
+T4|Named Entity Recognition|205,229|FOCUS
+T5|named entity recognition|601,625|FOCUS
+T6|Semi-Supervised|39,54|TECHNIQUE
+T7|semi-supervised|356,371|TECHNIQUE
+T8|bootstrapping|1117,1130|TECHNIQUE

@@ -1,0 +1,5 @@
+<tag name="FOCUS" value="start"/><tag name="TECHNIQUE" value="start"/>Learning<tag name="TECHNIQUE" value="end"/> <tag name="DOMAIN" value="start"/>Greek Verb Complements<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> : Addressing The <tag name="FOCUS" value="start"/>Class Imbalance<tag name="FOCUS" value="end"/> .
+Imbalanced training sets , where one class is heavily underrepresented compared to the others , have a bad effect on the classification of rare class instances .
+We apply <tag name="TECHNIQUE" value="start"/>One-sided Sampling<tag name="TECHNIQUE" value="end"/> for the first time to a <tag name="DOMAIN" value="start"/>lexical acquisition task<tag name="DOMAIN" value="end"/> -LRB- learning verb complements from Modern Greek corpora -RRB- to remove redundant and misleading training examples of verb nondependents and thereby balance our training set .
+We experiment with well-known <tag name="TECHNIQUE" value="start"/>learning <tag name="TECHNIQUE" value="end"/> algorithms to classify new examples .
+Performance improves up to 22 % in recall and 15 % in precision after balancing the dataset 1 .
