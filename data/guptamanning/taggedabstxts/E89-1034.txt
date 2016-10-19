@@ -1,6 +1,0 @@
-French <tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>Order<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> Without Order .
-To account for the <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>semi-free word order<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> of French , <tag name="TECHNIQUE" value="start"/>Unification Categorial Grammar<tag name="TECHNIQUE" value="end"/> is extended in two ways .
-First , verbal valencies are contained in a set rather than in a list .
-Second , type-raised NP 's are described as two-sided functors .
-The new framework does not overgenerate i.e. , it accepts all and only the sentences which are grammatical .
-This follows partly from the elimination of false lexical ambiguities - i.e. , ambiguities introduced in order to account for all the possible positions a word can be in within a sentence - and partly from a system of features constraining the possible combinations .

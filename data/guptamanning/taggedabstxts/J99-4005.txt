@@ -1,7 +1,0 @@
-Decoding <tag name="FOCUS" value="start"/>Complexity<tag name="FOCUS" value="end"/> In <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Word-Replacement Translation<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> Models .
-<tag name="FOCUS" value="start"/><tag name="TECHNIQUE" value="start"/>Statistical<tag name="TECHNIQUE" value="end"/> <tag name="DOMAIN" value="start"/>machine translation<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> is a relatively new approach to the long-standing problem of translating human languages by computer .
-Current statistical techniques uncover translation rules from bilingual training texts and use those rules to translate new texts .
-The general architecture is the <tag name="TECHNIQUE" value="start"/>source-channel<tag name="TECHNIQUE" value="end"/> model : an English string is statistically generated -LRB- source -RRB- , then statistically transformed into French -LRB- channel -RRB- .
-In order to translate -LRB- or `` decode '' -RRB- a French string , we look for the most likely English source .
-We show that for the simplest form of <tag name="TECHNIQUE" value="start"/>statistical<tag name="TECHNIQUE" value="end"/> models , this problem is NP-complete , i.e. , probably exponential in the length of the observed sentence .
-We trace this <tag name="FOCUS" value="start"/>complexity<tag name="FOCUS" value="end"/> to factors not present in other decoding problems .

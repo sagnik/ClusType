@@ -1,8 +1,0 @@
-The Difficulties Of <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Taxonomic Name<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> Extraction And A Solution .
-In modern biology , digitization of biosystematics publications is an important task .
-Extraction of <tag name="DOMAIN" value="start"/>taxonomic names<tag name="DOMAIN" value="end"/> from such documents is one of its major issues .
-This is because these names identify the various genera and species .
-This article reports on our experiences with <tag name="FOCUS" value="start"/><tag name="TECHNIQUE" value="start"/>learning<tag name="TECHNIQUE" value="end"/><tag name="FOCUS" value="end"/> techniques for this particular task .
-We say why established <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Named-Entity Recognition<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> techniques are somewhat difficult to use in our context .
-One reason is that we have only very little training data available .
-Our experiments show that a combining approach that relies on <tag name="TECHNIQUE" value="start"/>regular expressions<tag name="TECHNIQUE" value="end"/> , <tag name="TECHNIQUE" value="start"/>heuristics<tag name="TECHNIQUE" value="end"/> , and <tag name="TECHNIQUE" value="start"/>word-level language recognition<tag name="TECHNIQUE" value="end"/> achieves very high precision and recall and allows to cope with those difficulties .

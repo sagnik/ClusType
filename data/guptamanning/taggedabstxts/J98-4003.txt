@@ -1,7 +1,0 @@
-<tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Machine Transliteration<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
-It is challenging to translate names and technical terms across languages with different alphabets and sound inventories .
-These items are commonly transliterated , i.e. , replaced with approximate phonetic equivalents .
-For example , `` computer '' in English comes out as `` konpyuutaa '' in Japanese .
-Translating such items from Japanese back to English is even more challenging , and of practical interest , as transliterated items make up the bulk of text phrases not found in bilingual dictionaries .
-We describe and evaluate a method for performing<tag name="DOMAIN" value="start"/> <tag name="FOCUS" value="start"/>backwards transliterations<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> by machine .
-This method uses a <tag name="TECHNIQUE" value="start"/>generative<tag name="TECHNIQUE" value="end"/> model , incorporating several distinct stages in the <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>transliteration<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> process .

@@ -1,4 +1,0 @@
-<tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>Systemic Classification<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> And Its Efficiency .
-This paper examines the problem of <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>classifying linguistic objects<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> on the basis of information encoded in the <tag name="TECHNIQUE" value="start"/> system network formalism<tag name="TECHNIQUE" value="end"/> developed by Halliday .
-It is shown that this problem is NP-hard , and a restriction to the formalism , which renders the classification problem soluble in polynomial time , is suggested .
-An algorithm for the <tag name="DOMAIN" value="start"/>unrestricted classification <tag name="DOMAIN" value="end"/> problem , which separates a potentially expensive second stage from a more tractable first stage , is then presented .

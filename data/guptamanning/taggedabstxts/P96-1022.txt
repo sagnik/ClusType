@@ -1,4 +1,0 @@
-<tag name="FOCUS" value="start"/>SEMHE<tag name="FOCUS" value="end"/> A Generalised <tag name="FOCUS" value="start"/>Two-Level System<tag name="FOCUS" value="end"/> .
-This paper presents a generalised <tag name="FOCUS" value="start"/> twolevel<tag name="FOCUS" value="end"/> implementation which can handle <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>linear and non-linear morphological operations<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
-An algorithm for the interpretation of <tag name="FOCUS" value="start"/>multi-tape two-level rules<tag name="FOCUS" value="end"/> is described .
-In addition , a number of issues which arise when developing non-linear grammars are discussed with examples from Syriac .

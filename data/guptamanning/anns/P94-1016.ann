@@ -1,9 +1,0 @@
-T1|parsing|1083,1090|DOMAIN,FOCUS
-T2|parser|380,386|DOMAIN
-T3|parser|1270,1276|DOMAIN
-T4|speech recognizer|1433,1450|DOMAIN
-T5|Bottom-Up Parser|121,137|FOCUS
-T6|parsing|1083,1090|FOCUS
-T7|bottom-up|301,310|TECHNIQUE
-T8|leftcontext constraints|635,658|TECHNIQUE
-T9|deferred sortal-constraint|782,808|TECHNIQUE

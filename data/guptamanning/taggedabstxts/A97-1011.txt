@@ -1,6 +1,0 @@
-A <tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>Non-Projective Dependency Parser<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> .
-We describe a practical <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>parser for unrestricted dependencies<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
-The parser creates links between words and names the links according to their <tag name="TECHNIQUE" value="start"/>syntactic functions<tag name="TECHNIQUE" value="end"/> .
-We first describe the older <tag name="TECHNIQUE" value="start"/>Constraint Grammar<tag name="TECHNIQUE" value="end"/> <tag name="DOMAIN" value="start"/>parser<tag name="DOMAIN" value="end"/> where many of the ideas come from .
-Then we proceed to describe the central ideas of our new parser .
-Finally , the parser is evaluated .

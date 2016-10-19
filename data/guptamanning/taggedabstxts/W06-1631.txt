@@ -1,5 +1,0 @@
-Capturing <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Out-Of-Vocabulary Words<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> In Arabic Text .
-The increasing flow of information between languages has led to a rise in the frequency of non-native or loan words , where terms of one language appear transliterated in another .
-Dealing with such out of vocabulary words is essential for successful cross-lingual information retrieval .
-For example , techniques such as stemming should not be applied indiscriminately to all words in a collection , and so before any stemming , foreign words need to be identified .
-In this paper , we investigate three approaches for the identification of <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/> foreign words<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> in Arabic text :<tag name="TECHNIQUE" value="start"/> lexicons , language patterns , and n-grams<tag name="TECHNIQUE" value="end"/> and present that results show that <tag name="TECHNIQUE" value="start"/>lexicon-based<tag name="TECHNIQUE" value="end"/> approaches outperform the other techniques .

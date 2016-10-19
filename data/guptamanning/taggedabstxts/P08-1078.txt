@@ -1,5 +1,0 @@
-<tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>Contextual Preferences<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> .
-The validity of <tag name="DOMAIN" value="start"/>semantic inferences<tag name="DOMAIN" value="end"/> depends on the contexts in which they are applied .
-We propose a generic framework for handling contextual considerations within applied inference , termed <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Contextual Preferences<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
-This framework defines the various context-aware components needed for inference and their relationships .
-<tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>Contextual preferences<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> extend and generalize previous notions , such as selectional preferences , while experiments show that the extended framework allows improving inference quality on real application data .

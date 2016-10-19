@@ -1,5 +1,0 @@
-The<tag name="FOCUS" value="start"/> Alligator theorem prover for <tag name="TECHNIQUE" value="start"/>dependent type systems<tag name="FOCUS" value="end"/><tag name="TECHNIQUE" value="end"/> : Description and proof samples .
-This paper introduces the <tag name="FOCUS" value="start"/>Alligator theorem prover for <tag name="TECHNIQUE" value="start"/>Dependent Type Systems<tag name="TECHNIQUE" value="end"/> -LRB- <tag name="TECHNIQUE" value="start"/>dts<tag name="TECHNIQUE" value="end"/> -RRB-<tag name="FOCUS" value="end"/> .
-We start with highlighting a number of properties of <tag name="TECHNIQUE" value="start"/><tag name="FOCUS" value="start"/>dts<tag name="FOCUS" value="end"/><tag name="TECHNIQUE" value="end"/> that make them specifically suited for computational semantics .
-We then briefly introduce <tag name="FOCUS" value="start"/><tag name="TECHNIQUE" value="start"/>dts<tag name="TECHNIQUE" value="end"/><tag name="FOCUS" value="end"/> and our implementation .
-The paper concludes with an example of a dts proof that illustrates the suitability of dts for modelling <tag name="DOMAIN" value="start"/> anaphora resolution<tag name="DOMAIN" value="end"/> .

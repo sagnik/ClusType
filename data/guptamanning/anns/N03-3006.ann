@@ -1,8 +1,0 @@
-T1|parsing|361,368|DOMAIN,FOCUS
-T2|Dependency Parser|187,204|DOMAIN
-T3|parsing|961,968|DOMAIN
-T4|parsing|361,368|FOCUS
-T5|parsing|615,622|FOCUS
-T6|Probabilistic|104,117|TECHNIQUE
-T7|finite-state|782,794|TECHNIQUE
-T8|statistical|880,891|TECHNIQUE

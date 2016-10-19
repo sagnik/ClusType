@@ -1,7 +1,0 @@
-<tag name="TECHNIQUE" value="start"/>Translating Lexical Semantic Relations<tag name="TECHNIQUE" value="end"/> : The First Step Towards <tag name="DOMAIN" value="start"/>Multilingual Wordnets<tag name="DOMAIN" value="end"/> .
-Establishing correspondences between <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>wordnets<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> of different languages is essential to both multilingual knowledge processing and for bootstrapping wordnets of low-density languages .
-We claim that such correspondences must be based on <tag name="TECHNIQUE" value="start"/>lexical semantic relations<tag name="TECHNIQUE" value="end"/> , rather than top ontology or word translations .
-In particular , we define a translation equivalence relation as a bilingual <tag name="TECHNIQUE" value="start"/>lexical semantic relation<tag name="TECHNIQUE" value="end"/> .
-Such relations can then be part of a <tag name="TECHNIQUE" value="start"/>logical entailment<tag name="TECHNIQUE" value="end"/> predicting whether source language semantic relations will hold in a target language or not .
-Our claim is tested with a study of 210 Chinese lexical lemmas and their possible semantic relations links bootstrapped from the Princeton WordNet .
-The results show that <tag name="TECHNIQUE" value="start"/>lexical semantic relation translations<tag name="TECHNIQUE" value="end"/> are indeed highly precise when they are logically inferable .

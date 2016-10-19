@@ -1,4 +1,0 @@
-<tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>Query Expansion<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> Using Domain Information in <tag name="TECHNIQUE" value="start"/>Compounds<tag name="TECHNIQUE" value="end"/> .
-This paper describes a <tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>query expansion<tag name="DOMAIN" value="end"/> strategy for <tag name="DOMAIN" value="start"/>domain specific information retrieval<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> .
-Components of <tag name="TECHNIQUE" value="start"/>compounds<tag name="TECHNIQUE" value="end"/> are used selectively .
-Only parts belonging to the same domain as the <tag name="TECHNIQUE" value="start"/>compound<tag name="TECHNIQUE" value="end"/> itself will be used in expanded queries .

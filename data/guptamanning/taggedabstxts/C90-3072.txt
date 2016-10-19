@@ -1,7 +1,0 @@
-<tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>Spelling-Checking<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> For Highly Inflective Languages .
-<tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>Spelling-checkers<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> have become an integral part of most text processing software .
-From different reasons among which the speed of processing prevails they are usually based on dictionaries of word forms instead of words .
-This approach is sufficient for languages with little inflection such as English , but fails for highly inflective languages such as Czech , Russian , Slovak or other Slavonic languages .
-We have developed a special method for describing inflection for the purpose of building <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>spelling-checkers<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> for such languages .
-The speed of the resulting program lies somewhere in the middle of the scale of existing spelling-checkers for English and the main dictionary fits into the standard 360K floppy , whereas the number of recognized word forms exceeds 6 million -LRB- for Czech -RRB- .
-Further , a special method has been developed for easy <tag name="TECHNIQUE" value="start"/>word classification<tag name="TECHNIQUE" value="end"/> .

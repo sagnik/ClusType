@@ -1,8 +1,0 @@
-T1|Textual Redundancy|95,113|DOMAIN,FOCUS
-T2|redundant|270,279|DOMAIN,FOCUS
-T3|redundant|996,1005|DOMAIN,FOCUS
-T4|Textual Redundancy|95,113|FOCUS
-T5|redundant|270,279|FOCUS
-T6|redundant|996,1005|FOCUS
-T7|graph-based|716,727|TECHNIQUE
-T8|set cover approximation|850,873|TECHNIQUE

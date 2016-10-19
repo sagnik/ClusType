@@ -1,9 +1,0 @@
-T1|Sentence Compression|561,581|DOMAIN,FOCUS
-T2|paraphrase|1458,1468|DOMAIN,FOCUS
-T3|Paraphrases for Sentence Compression|167,203|DOMAIN
-T4|paraphrases|401,412|DOMAIN
-T5|Sentence Compression|561,581|FOCUS
-T6|paraphrase|799,809|FOCUS
-T7|paraphrase|1458,1468|FOCUS
-T8|Biology Based|70,83|TECHNIQUE
-T9|biology based|1313,1326|TECHNIQUE

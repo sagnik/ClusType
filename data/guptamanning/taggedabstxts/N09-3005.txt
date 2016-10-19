@@ -1,4 +1,0 @@
-Using <tag name="TECHNIQUE" value="start"/>Language Modeling<tag name="TECHNIQUE" value="end"/> to <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Select Useful Annotation Data<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
-An <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>annotation<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> project typically has an abundant supply of unlabeled data that can be drawn from some corpus , but because the labeling process is expensive , it is helpful to pre-screen the pool of the candidate instances based on some criterion of future usefulness .
-In many cases , that criterion is to improve the presence of the rare classes in the data to be annotated .
-We propose a novel method for solving this problem and show that it compares favorably to a random sampling baseline and a clustering algorithm .

@@ -1,3 +1,0 @@
-A Perspective On <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Word Sense Disambiguation<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> Methods And Their Evaluation .
-In this position paper , we make several observations about the state of the art in automatic <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>word sense disambiguation<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
-Motivated by these observations , we offer several specific proposals to the community regarding improved evaluation criteria , common training and testing resources , and the definition of sense inventories .

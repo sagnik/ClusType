@@ -1,5 +1,0 @@
-Outline Of The <tag name="FOCUS" value="start"/>International Standard Linguistic Annotation <tag name="FOCUS" value="end"/> Framework .
-This paper describes the outline of a <tag name="FOCUS" value="start"/>linguistic annotation <tag name="FOCUS" value="end"/> framework under development by ISO TC37 SC WG1-1 .
-This international standard provides an architecture for the  creation , annotation , and manipulation of linguistic resources and processing software .
-The goal is to provide maximum flexibility for encoders and annotators , while at the same time enabling interchange and re-use of annotated linguistic resources .
-We describe here the outline of the standard for the purposes of enabling annotators to begin to explore how their schemes may map into the framework .

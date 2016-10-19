@@ -1,6 +1,0 @@
-Using <tag name="TECHNIQUE" value="start"/>Citations<tag name="TECHNIQUE" value="end"/> to <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Generate surveys of Scientific Paradigms<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
-The number of research publications in various disciplines is growing exponentially .
-Researchers and scientists are increasingly finding themselves in the position of having to quickly understand large amounts of technical material .
-In this paper we present the first steps in producing an automatically generated , readily consumable , <tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>technical survey<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> .
-Specifically we explore the combination of <tag name="TECHNIQUE" value="start"/>citation information<tag name="TECHNIQUE" value="end"/> and <tag name="TECHNIQUE" value="start"/>summarization <tag name="TECHNIQUE" value="end"/> techniques .
-Even though prior work -LRB- Teufel et al. , 2006 -RRB- argues that citation text is unsuitable for summarization , we show that in the framework of <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>multi-document survey creation<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> , citation texts can play a crucial role .

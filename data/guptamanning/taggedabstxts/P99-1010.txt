@@ -1,8 +1,0 @@
-<tag name="FOCUS" value="start"/><tag name="TECHNIQUE" value="start"/>Supervised<tag name="TECHNIQUE" value="end"/> <tag name="DOMAIN" value="start"/>Grammar Induction<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> Using Training Data With Limited Constituent Information .
-Corpus-based <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>grammar induction<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> generally relies on hand-parsed training data to learn the structure of the language .
-Unfortunately , the cost of building large annotated corpora is prohibitively expensive .
-This work aims to improve the <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>induction<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> strategy when there are few labels in the training data .
-We show that the most informative linguistic constituents are the higher nodes in the parse trees , typically denoting complex noun phrases and sentential clauses .
-They account for only 20 % of all constituents .
-For <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>inducing grammars<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> from sparsely labeled training data -LRB- e.g. , only higher-level constituent labels -RRB- , we propose an <tag name="TECHNIQUE" value="start"/>adaptation<tag name="TECHNIQUE" value="end"/> strategy , which produces grammars that parse almost as well as grammars induced from fully labeled corpora .
-Our results suggest that for a partial parser to replace human annotators , it must be able to automatically extract higher-level constituents rather than base noun phrases .

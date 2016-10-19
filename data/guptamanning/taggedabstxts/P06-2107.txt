@@ -1,8 +1,0 @@
-<tag name="TECHNIQUE" value="start"/>Statistical Phrase-Based<tag name="TECHNIQUE" value="end"/> Models For Interactive <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Computer-Assisted Translation<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
-Obtaining high-quality machine translations is still a long way off .
-A postediting phase is required to improve the output of a machine translation system .
-An alternative is the so called <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>computerassisted translation<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
-In this framework , a human translator interacts with the system in order to obtain high-quality translations .
-A <tag name="TECHNIQUE" value="start"/>statistical phrase-based<tag name="TECHNIQUE" value="end"/> approach to <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>computer-assisted translation<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> is described in this article .
-A new decoder algorithm for interactive search is also presented , that combines monotone and nonmonotone search .
-The system has been assessed in the TransType-2 project for the translation of several printer manuals , from -LRB- to -RRB- English to -LRB- from -RRB- Spanish , German and French .

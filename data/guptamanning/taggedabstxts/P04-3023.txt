@@ -1,4 +1,0 @@
-On The <tag name="FOCUS" value="start"/>Equivalence Of <tag name="DOMAIN" value="start"/>Weighted Finite-State Transducers<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> .
-Although they can be topologically different , two distinct transducers may actually recognize the same rational relation .
-Being able to test the equivalence of transducers allows to implement such operations as incremental minimization and iterative composition .
-This paper presents an algorithm for <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>testing the equivalence of deterministic weighted finite-state transducers<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> , and outlines an implementation of its applications in a prototype weighted finite-state <tag name="TECHNIQUE" value="start"/>calculus tool<tag name="TECHNIQUE" value="end"/> .

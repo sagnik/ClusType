@@ -1,9 +1,0 @@
-Using the <tag name="TECHNIQUE" value="start"/>Web<tag name="TECHNIQUE" value="end"/> for <tag name="FOCUS" value="start"/> Language Independent <tag name="DOMAIN" value="start"/>Spellchecking and Autocorrection<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> .
-We have designed , implemented and evaluated an end-to-end system <tag name="DOMAIN" value="start"/> <tag name="FOCUS" value="start"/>spellchecking and autocorrection<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> system that does not require any manually annotated training data .
-The <tag name="TECHNIQUE" value="start"/>World Wide Web<tag name="TECHNIQUE" value="end"/> is used as a large noisy corpus from which we infer knowledge about misspellings and word usage .
-This is used to build an <tag name="TECHNIQUE" value="start"/>error model<tag name="TECHNIQUE" value="end"/> and an <tag name="TECHNIQUE" value="start"/>n-gram language model<tag name="TECHNIQUE" value="end"/> .
-A small secondary set of news texts with artificially inserted misspellings are used to tune confidence classifiers .
-Because no manual annotation is required , our system can easily be instantiated for new languages .
-When evaluated on human typed data with real misspellings in English and German , our web-based systems outperform baselines which use candidate corrections based on hand-curated dictionaries .
-Our system achieves 3.8 % total error rate in English .
-We show similar improvements in preliminary results on artificial data for Russian and Arabic .

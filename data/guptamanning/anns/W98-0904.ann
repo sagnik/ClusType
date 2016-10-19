@@ -1,9 +1,0 @@
-T1|morphological parsing|1727,1748|DOMAIN,FOCUS
-T2|Optimal Morphology|67,85|DOMAIN
-T3|Optimal morphology|185,203|DOMAIN
-T4|morphophonological alternations in inflectional morphology|561,619|DOMAIN
-T5|morphological parsing|1727,1748|FOCUS
-T6|finite state|294,306|TECHNIQUE
-T7|inviolable lexical constraints|724,754|TECHNIQUE
-T8|violable rankable constraints|910,939|TECHNIQUE
-T9|finite state transducers|1096,1120|TECHNIQUE

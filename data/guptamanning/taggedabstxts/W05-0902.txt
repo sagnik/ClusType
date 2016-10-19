@@ -1,6 +1,0 @@
-On The <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Subjectivity Of Human Authored Summaries<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
-We address the issue of <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>human subjectivity when authoring summaries<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> , aiming at a simple , robust evaluation of machine generated summaries .
-Applying a <tag name="TECHNIQUE" value="start"/>cross comprehension test<tag name="TECHNIQUE" value="end"/> on human authored short summaries from broadcast news , the level of subjectivity is gauged among four authors .
-The instruction set is simple , thus there is enough room for subjectivity .
-However the approach is robust because the test does not use the absolute score , relying instead on relative comparison , effectively alleviating the subjectivity .
-Finally we illustrate the application of the above scheme when evaluating the informativeness of machine generated summaries .

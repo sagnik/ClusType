@@ -1,9 +1,0 @@
-T1|Parsing to Logical Form|247,270|DOMAIN,FOCUS
-T2|online algorithm for inducing a weighted CCG|1119,1163|FOCUS,TECHNIQUE
-T3|parse sentences|409,424|DOMAIN
-T4|lambda-calculus representations|494,525|DOMAIN
-T5|Online Learning of Relaxed CCG Grammars|70,109|FOCUS
-T6|Parsing to Logical Form|247,270|FOCUS
-T7|weighted combinatory categorial grammar -LRB- CCG -RRB-|664,719|TECHNIQUE
-T8|non-standard CCG combinators|821,849|TECHNIQUE
-T9|online algorithm for inducing a weighted CCG|1119,1163|TECHNIQUE

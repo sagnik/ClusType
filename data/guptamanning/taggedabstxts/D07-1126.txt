@@ -1,5 +1,0 @@
-A <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Multilingual Dependency<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> Analysis System Using <tag name="TECHNIQUE" value="start"/>Online Passive-Aggressive Learning<tag name="TECHNIQUE" value="end"/> .
-This paper presents an <tag name="TECHNIQUE" value="start"/>online<tag name="TECHNIQUE" value="end"/> algorithm for <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>dependency parsing<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> problems .
-We propose an adaptation of the <tag name="TECHNIQUE" value="start"/>passive and aggressive online learning<tag name="TECHNIQUE" value="end"/> algorithm to the <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>dependency parsing<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> domain .
-We evaluate the proposed algorithms on the 2007 CONLL Shared Task , and report errors analysis .
-Experimental results show that the system score is better than the average score among the participating systems .

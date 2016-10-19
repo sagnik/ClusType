@@ -1,9 +1,0 @@
-T1|word categorization|299,318|DOMAIN,FOCUS
-T2|Word Categorization|98,117|DOMAIN
-T3|word categorization|299,318|FOCUS
-T4|unigram and the bigram|516,538|TECHNIQUE
-T5|distance function|688,705|TECHNIQUE
-T6|greedy algorithm|823,839|TECHNIQUE
-T7|fuzzy clustering|960,976|TECHNIQUE
-T8|cluster prototypes , degree of membership|1054,1095|TECHNIQUE
-T9|unsupervised|1223,1235|TECHNIQUE

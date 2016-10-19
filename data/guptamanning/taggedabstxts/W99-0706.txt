@@ -1,5 +1,0 @@
-Learning <tag name="TECHNIQUE" value="start"/>Transformation Rules<tag name="TECHNIQUE" value="end"/> To Find <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Grammatical Relations<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
-<tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Grammatical relationships<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> are an important level of natural language processing .
-We present a trainable approach to find these relationships through <tag name="TECHNIQUE" value="start"/>transformation sequences and-error-driven learning<tag name="TECHNIQUE" value="end"/> .
-Our approach finds <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>grammatical relationships<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> between core syntax groups and bypasses much of the parsing phase .
-On our training and test set , our procedure achieves 63.6 % recall and 77.3 % precision -LRB- f-score = 69.8 -RRB- .

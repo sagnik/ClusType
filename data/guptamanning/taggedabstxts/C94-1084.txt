@@ -1,5 +1,0 @@
-Towards Automatic Extraction Of <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Monolingual And Bilingual Terminology<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
-In this paper , we make use of <tag name="TECHNIQUE" value="start"/>linguistic<tag name="TECHNIQUE" value="end"/> knowledge to identify certain <tag name="DOMAIN" value="start"/>noun phrases<tag name="DOMAIN" value="end"/> , both in English and French , which are likely to be <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>terms<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
-We then test and cmnl -RRB- are -LRB- lifl ` e. rent statistical scores to select the `` good '' ones among tile candidate terms , and finally propose a <tag name="TECHNIQUE" value="start"/>statistical<tag name="TECHNIQUE" value="end"/> method to build correspondences of multi-words units across languages .
-Acknowledgement Most of this work was carried out under project EUII .
-OTP ~ A ET-10 \/ 63 , co-sponsored by the European Economic Conmmnity .

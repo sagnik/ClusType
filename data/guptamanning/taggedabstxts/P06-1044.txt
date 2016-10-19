@@ -1,6 +1,0 @@
-Automatic Classification Of <tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>Verbs In Biomedical Texts<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> .
-Lexical classes , when tailored to the application and domain in question , can provide an effective means to deal with a number of natural language processing -LRB- NLP -RRB- tasks .
-While manual construction of such classes is difficult , recent research shows that it is possible to automatically induce verb classes from <tag name="TECHNIQUE" value="start"/>cross-domain corpora<tag name="TECHNIQUE" value="end"/> with promising accuracy .
-We report a novel experiment where similar technology is applied to the important , challenging domain of <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>biomedicine<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
-We show that the resulting classification , acquired from a corpus of biomedical journal articles , is highly accurate and strongly domainspecific .
-It can be used to aid <tag name="DOMAIN" value="start"/>BIO-NLP<tag name="DOMAIN" value="end"/> directly or as useful material for investigating the <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>syntax and semantics of verbs in biomedical texts<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .

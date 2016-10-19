@@ -1,7 +1,0 @@
-A <tag name="TECHNIQUE" value="start"/>Generative <tag name="TECHNIQUE" value="end"/> Model for <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Parsing Natural Language to Meaning Representations<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
-In this paper , we present an algorithm for learning a <tag name="TECHNIQUE" value="start"/>generative<tag name="TECHNIQUE" value="end"/> model of natural language sentences together with their <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>formal meaning representations with hierarchical structures<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
-The model is applied to the task of <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>mapping sentences to hierarchical representations<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> of their underlying meaning .
-We introduce <tag name="TECHNIQUE" value="start"/>dynamic programming<tag name="TECHNIQUE" value="end"/> techniques for efficient training and decoding .
-In experiments , we demonstrate that the model , when coupled with a <tag name="TECHNIQUE" value="start"/>discriminative reranking<tag name="TECHNIQUE" value="end"/> technique , achieves state-of-the-art performance when tested on two publicly available corpora .
-The generative model degrades robustly when presented with instances that are different from those seen in training .
-This allows a notable improvement in recall compared to previous models .

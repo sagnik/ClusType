@@ -1,9 +1,0 @@
-T1|information extraction|388,410|DOMAIN,FOCUS
-T2|field structured extraction|647,674|DOMAIN,FOCUS
-T3|Field Segmentation|132,152|DOMAIN
-T4|Information Extraction|230,252|DOMAIN
-T5|information extraction|388,410|FOCUS
-T6|field structured extraction|647,674|FOCUS
-T7|Unsupervised Learning|36,59|TECHNIQUE
-T8|unsupervised|1332,1344|TECHNIQUE
-T9|semi-supervised|1560,1575|TECHNIQUE

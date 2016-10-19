@@ -1,7 +1,0 @@
-Building <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Domain-Specific Taggers<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> without Annotated -LRB- Domain -RRB- Data .
-<tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Part of spech taging<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> is a fundamental component in many NLP systems .
-When tagers developed in one domain are used in another domain , the perforance can degrade considerably .
-We present a method for developing tagers for new doains without requiring POS anotated text in the ne domain .
-Our method involves using <tag name="TECHNIQUE" value="start"/>raw doain text<tag name="TECHNIQUE" value="end"/> and identifying <tag name="TECHNIQUE" value="start"/>related ords<tag name="TECHNIQUE" value="end"/> to form a domain specific <tag name="TECHNIQUE" value="start"/>lexicon<tag name="TECHNIQUE" value="end"/> .
-This <tag name="TECHNIQUE" value="start"/>lexicon<tag name="TECHNIQUE" value="end"/> provides the initial lexical probabilities for <tag name="TECHNIQUE" value="start"/>EM trainig<tag name="TECHNIQUE" value="end"/> of an <tag name="TECHNIQUE" value="start"/>HM model<tag name="TECHNIQUE" value="end"/> .
-We evaluate the method by aplying it in the <tag name="DOMAIN" value="start"/>Biolgy doain<tag name="DOMAIN" value="end"/> and show that we achieve results that are comparable ith some tagers developed for this domain .

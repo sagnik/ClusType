@@ -1,8 +1,0 @@
-T1|Repairs In Human-Computer Dialog|105,137|DOMAIN,FOCUS
-T2|speech data containing repairs|330,360|DOMAIN,FOCUS
-T3|Repairs In Human-Computer Dialog|105,137|FOCUS
-T4|speech data containing repairs|330,360|FOCUS
-T5|repair|622,628|FOCUS
-T6|pattern matching|855,871|TECHNIQUE
-T7|syntactic and semantic|946,968|TECHNIQUE
-T8|acoustics|1056,1065|TECHNIQUE

@@ -1,4 +1,0 @@
-UTD-SRL : A Pipeline Architecture for Extracting <tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/> Frame Semantic Structures<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> .
-This paper describes our system for the task of extracting <tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/> frame semantic structures <tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/>  in SemEval 2007 .
-The system architecture uses two types of <tag name="TECHNIQUE" value="start"/>learning <tag name="TECHNIQUE" value="end"/> models in each part of the task : <tag name="TECHNIQUE" value="start"/>Support Vector Machines -LRB- SVM -RRB- and Maximum Entropy -LRB- ME -RRB-<tag name="TECHNIQUE" value="end"/> .
-Designed as a pipeline of classi ers , the <tag name="DOMAIN" value="start"/>semantic parsing<tag name="DOMAIN" value="end"/> system obtained competitive precision scores on the test data .

@@ -1,9 +1,0 @@
-T1|Word Alignment|152,168|DOMAIN
-T2|word alignment|510,527|DOMAIN
-T3|alignment|1310,1319|FOCUS
-T4|word alignment|1595,1609|FOCUS
-T5|Discriminative|70,84|TECHNIQUE
-T6|Alignment Matrix|242,258|TECHNIQUE
-T7|discriminative|427,441|TECHNIQUE
-T8|alignment matrix by a conditional random field -LRB- CRF -RRB-|684,748|TECHNIQUE
-T9|CRFs|995,999|TECHNIQUE

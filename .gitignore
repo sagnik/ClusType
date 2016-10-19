@@ -2,4 +2,4 @@
 *.swp
 result/
 candidate_generation/Intermediate*
-
+data/

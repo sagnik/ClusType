@@ -1,7 +1,0 @@
-<tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Machine Translation<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> Based On <tag name="TECHNIQUE" value="start"/>NLG From XML-DB<tag name="TECHNIQUE" value="end"/> .
-The purpose of this study is to propose a new method for <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>machine translation<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
-Wehave proceeded through with two projects for report generation -LRB- Kittredge and Polguere , 2000 -RRB- : Weather Forecast and Monthly Economic Report to be produced in four languages : English , Japanese , French , and German .
-Their input data is stored in XML-DB .
-We applied a three-stage pipelined architecture -LRB- Reiter and Dale , 2000 -RRB- , and each stage was implemented as <tag name="TECHNIQUE" value="start"/>XML transformation processes<tag name="TECHNIQUE" value="end"/> .
-Weregard XML stored data as language-neutral intermediate form and employ the so-called ` <tag name="TECHNIQUE" value="start"/>sublanguage<tag name="TECHNIQUE" value="end"/>  approach  ' -LRB- Somers , 2000 -RRB- .
-The <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>machine translation<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> process is implemented via <tag name="TECHNIQUE" value="start"/>XMLDB<tag name="TECHNIQUE" value="end"/> as a kind of interlingua approach instead of the conventional structure transfer approach .

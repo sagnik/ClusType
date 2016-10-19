@@ -1,9 +1,0 @@
-T1|Machine Translation|102,121|DOMAIN,FOCUS
-T2|machine translation|353,372|DOMAIN,FOCUS
-T3|translation|859,870|DOMAIN,FOCUS
-T4|Machine Translation|102,121|FOCUS
-T5|machine translation|353,372|FOCUS
-T6|translation|859,870|FOCUS
-T7|normalize|654,663|TECHNIQUE
-T8|tag|740,743|TECHNIQUE
-T9|Segmenting utterances|973,994|TECHNIQUE

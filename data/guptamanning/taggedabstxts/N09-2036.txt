@@ -1,4 +1,0 @@
-Faster <tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>MT Decoding<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> Through <tag name="TECHNIQUE" value="start"/>Pervasive Laziness<tag name="TECHNIQUE" value="end"/> .
-<tag name="FOCUS" value="start"/><tag name="TECHNIQUE" value="start"/>Syntax-based<tag name="TECHNIQUE" value="end"/> <tag name="DOMAIN" value="start"/> MT<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> systems have proven effective -- the models are compelling and show good room for improvement .
-However , decoding involves a slow search .
-We present a new <tag name="TECHNIQUE" value="start"/>lazy-search <tag name="TECHNIQUE" value="end"/> method that obtains significant speedups over a strong baseline , with no loss in Bleu .

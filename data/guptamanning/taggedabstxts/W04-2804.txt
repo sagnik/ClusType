@@ -1,3 +1,0 @@
-<tag name="TECHNIQUE" value="start"/>Ends-Based<tag name="TECHNIQUE" value="end"/> <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Dialogue Processing<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
-We describe a reusable and scalable <tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>dialogue<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> toolbox and its application in multiple systems .
-Our main claim is that <tag name="TECHNIQUE" value="start"/>ends-based<tag name="TECHNIQUE" value="end"/> representation and processing throughout the complete dialogue backbone it essential to our approach .

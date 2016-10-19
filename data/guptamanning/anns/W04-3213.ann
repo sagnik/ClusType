@@ -1,9 +1,0 @@
-T1|Semantic Role Labeling|152,174|DOMAIN
-T2|semantic roles|527,541|FOCUS
-T3|Unsupervised|70,82|TECHNIQUE
-T4|unsupervised|324,336|TECHNIQUE
-T5|bootstrapping|648,661|TECHNIQUE
-T6|probability|822,833|TECHNIQUE
-T7|verb , slot , and noun class|997,1025|TECHNIQUE
-T8|backing off|1128,1139|TECHNIQUE
-T9|probability|1219,1230|TECHNIQUE

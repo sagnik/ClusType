@@ -1,5 +1,0 @@
-<tag name="FOCUS" value="start"/><tag name="TECHNIQUE" value="start"/>Boosting<tag name="TECHNIQUE" value="end"/><tag name="FOCUS" value="end"/> Applied To <tag name="DOMAIN" value="start"/>Tagging<tag name="DOMAIN" value="end"/> And <tag name="DOMAIN" value="start"/>PP Attachment<tag name="DOMAIN" value="end"/> .
-<tag name="FOCUS" value="start"/><tag name="TECHNIQUE" value="start"/>Boosting<tag name="TECHNIQUE" value="end"/><tag name="FOCUS" value="end"/> is a machine learning algorithm that is not well known in computational linguistics .
-We apply it to <tag name="DOMAIN" value="start"/>part-of-speech tagging<tag name="DOMAIN" value="end"/> and <tag name="DOMAIN" value="start"/>prepositional phrase attachment<tag name="DOMAIN" value="end"/> .
-Performance is very encouraging .
-We also show how to improve data quality by using <tag name="TECHNIQUE" value="start"/><tag name="FOCUS" value="start"/>boosting<tag name="FOCUS" value="end"/><tag name="TECHNIQUE" value="end"/> to identify <tag name="DOMAIN" value="start"/>annotation errors<tag name="DOMAIN" value="end"/> .

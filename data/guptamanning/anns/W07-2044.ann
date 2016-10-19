@@ -1,9 +1,0 @@
-T1|word sense disambiguation|441,466|DOMAIN,FOCUS
-T2|WSD|603,606|DOMAIN,FOCUS
-T3|Word Sense Disambiguation|144,169|DOMAIN
-T4|WSD|887,890|DOMAIN
-T5|word sense disambiguation|441,466|FOCUS
-T6|WSD|603,606|FOCUS
-T7|KU|37,39|TECHNIQUE
-T8|Substitution|273,285|TECHNIQUE
-T9|statistical language model|1010,1036|TECHNIQUE

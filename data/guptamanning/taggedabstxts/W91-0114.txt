@@ -1,4 +1,0 @@
-<tag name="FOCUS" value="start"/>Shared Preferences<tag name="FOCUS" value="end"/> .
-This paper attempts to develop a <tag name="FOCUS" value="start"/>theory of heuristics or preferences<tag name="FOCUS" value="end"/> that can be shared between <tag name="DOMAIN" value="start"/>understanding and generation systems<tag name="DOMAIN" value="end"/> .
-We first develop a <tag name="FOCUS" value="start"/>formal analysis of preferences<tag name="FOCUS" value="end"/> and consider the relation between their uses in <tag name="DOMAIN" value="start"/>generation and understanding<tag name="DOMAIN" value="end"/> .
-We then present a <tag name="TECHNIQUE" value="start"/>bidirectional<tag name="TECHNIQUE" value="end"/> algorithm for applying them and examine typical heuristics for lexical choice , scope and anaphora in : , more detail .

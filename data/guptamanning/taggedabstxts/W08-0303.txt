@@ -1,9 +1,0 @@
-<tag name="FOCUS" value="start"/><tag name="TECHNIQUE" value="start"/>Discriminative<tag name="TECHNIQUE" value="end"/><tag name="DOMAIN" value="start"/> Word Alignment<tag name="DOMAIN" value="end"/> via <tag name="TECHNIQUE" value="start"/>Alignment Matrix <tag name="TECHNIQUE" value="end"/><tag name="FOCUS" value="end"/> Modeling .
-In this paper a new <tag name="FOCUS" value="start"/><tag name="TECHNIQUE" value="start"/>discriminative<tag name="TECHNIQUE" value="end"/> <tag name="DOMAIN" value="start"/>  word alignment<tag name="DOMAIN" value="end"/> <tag name="FOCUS" value="end"/> method is presented .
-This approach models directly the <tag name="TECHNIQUE" value="start"/> alignment matrix by a conditional random field -LRB- CRF -RRB-<tag name="TECHNIQUE" value="end"/> and so no restrictions to the alignments have to be made .
-Furthermore , it is easy to add features and so all available information can be used .
-Since the structure of the <tag name="TECHNIQUE" value="start"/>CRFs<tag name="TECHNIQUE" value="end"/> can get complex , the inference can only be done approximately and the standard algorithms had to be adapted .
-In addition , different methods to train the model have been developed .
-Using this approach the <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>alignment<tag name="FOCUS" value="end"/> <tag name="DOMAIN" value="end"/> quality could be improved by up to 23 percent for 3 different language pairs compared to a combination of both IBM4alignments .
-Furthermore the <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>word alignment<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> was used to generate new phrase tables .
-These could improve the translation quality significantly .

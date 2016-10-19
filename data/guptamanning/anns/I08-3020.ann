@@ -1,8 +1,0 @@
-T1|Speech to speech machine translation|67,103|DOMAIN,FOCUS
-T2|translates|1244,1254|DOMAIN,FOCUS
-T3|machine translation|1546,1565|DOMAIN,FOCUS
-T4|Speech-to-speech machine translation|279,315|DOMAIN
-T5|Speech to speech machine translation|67,103|FOCUS
-T6|translates|1244,1254|FOCUS
-T7|machine translation|1546,1565|FOCUS
-T8|multi-path|1120,1130|TECHNIQUE

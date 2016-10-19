@@ -1,8 +1,0 @@
-Getting to Know Moses : Initial Experiments on German-English <tag name="FOCUS" value="start"/><tag name="TECHNIQUE" value="start"/>Factored <tag name="TECHNIQUE" value="end"/><tag name="DOMAIN" value="start"/>Translation<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> .
-We present results and experiences from our experiments with <tag name="FOCUS" value="start"/><tag name="TECHNIQUE" value="start"/>phrase-based statistical<tag name="TECHNIQUE" value="end"/> <tag name="DOMAIN" value="start"/> machine translation<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> using <tag name="TECHNIQUE" value="start"/>Moses<tag name="TECHNIQUE" value="end"/> .
-The paper is based on the idea of using an offthe-shelf <tag name="TECHNIQUE" value="start"/>parser<tag name="TECHNIQUE" value="end"/> to supply linguistic information to a <tag name="FOCUS" value="start"/><tag name="TECHNIQUE" value="start"/> factored<tag name="TECHNIQUE" value="end"/> <tag name="DOMAIN" value="start"/>translation<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> model and compare the results of German ?
-English translation to the shared task baseline system based on word form .
-We report partial results for this model and results for two simplified setups .
-Our best setup takes advantage of the parser ?
-s <tag name="TECHNIQUE" value="start"/>lemmatization and decompounding<tag name="TECHNIQUE" value="end"/> .
-A qualitative analysis of compound translation shows that decompounding improves <tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>translation<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> quality .

@@ -1,6 +1,0 @@
-Improvements in <tag name="TECHNIQUE" value="start"/><tag name="FOCUS" value="start"/>Analogical Learning<tag name="FOCUS" value="end"/><tag name="TECHNIQUE" value="end"/> : Application to <tag name="DOMAIN" value="start"/>Translating Multi-Terms of the Medical Domain<tag name="DOMAIN" value="end"/> .
-Handling terminology is an important matter in a translation workflow .
-However , current Machine Translation -LRB- MT -RRB- systems do not yet propose anything proactive upon tools which assist in managing terminological databases .
-In this work , we investigate several enhancements to <tag name="TECHNIQUE" value="start"/><tag name="FOCUS" value="start"/>analogical learning<tag name="FOCUS" value="end"/><tag name="TECHNIQUE" value="end"/> and test our implementation on <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>translating medical terms<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
-We show that the analogical engine works equally well when translating from and into a morphologically rich language , or when dealing with language pairs written in different scripts .
-Combining it with a <tag name="TECHNIQUE" value="start"/>phrasebased statistical<tag name="TECHNIQUE" value="end"/> engine leads to significant improvements .

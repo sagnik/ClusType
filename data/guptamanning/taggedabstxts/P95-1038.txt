@@ -1,5 +1,0 @@
-<tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>Evaluation Of Semantic Clusters<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> .
-<tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>Semantic clusters<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> of a domain form an important feature that can be useful for performing syntactic and semantic disambiguation .
-Several attempts have been made to extract the semantic clusters of a domain by probabilistic or taxonomic techniques .
-However , not much progress has been made in evaluating the obtained semantic clusters .
-This paper focuses on an <tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>evaluation<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> mechanism that can be used to <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>evaluate semantic clusters<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> produced by a system against those provided by human experts .

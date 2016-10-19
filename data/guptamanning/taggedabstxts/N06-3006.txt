@@ -1,5 +1,0 @@
-<tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>Detecting Emotion In Speech<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> : Experiments In Three Domains .
-The goal of my proposed dissertation work is to help answer two fundamental questions : -LRB- 1 -RRB- How is emotion communicated in speech ?
-and -LRB- 2 -RRB- Does emotion modeling improve spoken dialogue applications ?
-In this paper I describe <tag name="TECHNIQUE" value="start"/>feature extraction and emotion classi cation<tag name="TECHNIQUE" value="end"/> experiments I have conducted and plan to conduct on three different domains : <tag name="DOMAIN" value="start"/>EPSaT , HMIHY , and ITSpoke<tag name="DOMAIN" value="end"/> .
-In addition , I plan to implement emotion modeling capabilities into ITSpoke and evaluate the effectiveness of doing so .

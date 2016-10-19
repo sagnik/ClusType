@@ -1,6 +1,0 @@
-Automatic Detection Of Omissions In <tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>Translations<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> .
-<tag name="FOCUS" value="start"/>ADOMIT<tag name="FOCUS" value="end"/> is an algorithln for Automatic Detection of OMissions in <tag name="FOCUS" value="start"/><tag name="DOMAIN" value="start"/>Translations<tag name="DOMAIN" value="end"/><tag name="FOCUS" value="end"/> .
-The algorithm relies solely on <tag name="TECHNIQUE" value="start"/>geometric analysis of bitext maps<tag name="TECHNIQUE" value="end"/> and uses no linguistic information .
-This property allows it to deal equally well with omissions that do not correspond to linguistic units , such as might result ti'om word-processing mishaps .
-<tag name="FOCUS" value="start"/>ADOMIT<tag name="FOCUS" value="end"/> has proven itself by discovering many errors in a handconstructed gold standard for evaluating bitext mapping algorithms .
-Quantitative evaluation on simulated omissions showed that , even with today 's poor bitext mapping technology , <tag name="FOCUS" value="start"/>ADOMIT<tag name="FOCUS" value="end"/> is a valuable quality control tool for translators and translation bureaus .

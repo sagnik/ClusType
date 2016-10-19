@@ -1,9 +1,0 @@
-T1|detection of syntactic errors|388,417|DOMAIN,FOCUS
-T2|Syntactic Error Detection|47,72|DOMAIN
-T3|syntactic error|827,842|DOMAIN
-T4|detection of syntactic errors|388,417|FOCUS
-T5|Syntactic Patterns|148,166|TECHNIQUE
-T6|parsing|263,270|TECHNIQUE
-T7|partial parser|541,555|TECHNIQUE
-T8|finite-state parser|677,696|TECHNIQUE
-T9|patterns|910,920|TECHNIQUE

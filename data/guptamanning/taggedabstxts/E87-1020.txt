@@ -1,6 +1,0 @@
-<tag name="FOCUS" value="start"/>REFTEX<tag name="FOCUS" value="end"/> - A <tag name="TECHNIQUE" value="start"/>Context-Based<tag name="TECHNIQUE" value="end"/> <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Translation Aid<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
-The system presented in this paper produces <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>bilingual passages of text<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> from an original -LRB- source -RRB- text and one -LRB- or more -RRB- of its translated versions .
-The source text passage includes words or word compounds which a translator wants to retrieve for the current translating of another text .
-The target text passage is the equivalent version of the source text passage .
-On the basis of a comparison of the <tag name="TECHNIQUE" value="start"/>contexts<tag name="TECHNIQUE" value="end"/> of these words in the concorded passage and his own text , the translator has to decide on the utility of the <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>translation<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> proposed in the target text passage .
-The program might become a component of translator 's work bench .

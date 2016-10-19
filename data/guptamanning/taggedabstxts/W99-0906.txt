@@ -1,5 +1,0 @@
-A <tag name="TECHNIQUE" value="start"/>Computational<tag name="TECHNIQUE" value="end"/> Approach To <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>Deciphering Unknown Scripts<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
-We propose and evaluate <tag name="TECHNIQUE" value="start"/>computational <tag name="TECHNIQUE" value="end"/>techniques for <tag name="DOMAIN" value="start"/><tag name="FOCUS" value="start"/>deciphering unknown scripts<tag name="FOCUS" value="end"/><tag name="DOMAIN" value="end"/> .
-We focus on the case in which an unfamiliar script encodes a known language .
-The decipherment of a brief document or inscription is driven by data about the spoken language .
-We consider which scripts are easy or hard to decipher , how much data is required , and whether the techniques are robust against language change over time .
