@@ -2,6 +2,7 @@ import json
 import random
 import numpy as np
 
+
 def getRPtoRight(base,sens):
     rpsToRight=[]
     for sen in sens:
@@ -92,18 +93,18 @@ def listToFreqDict(l):
 dinEPsDict=json.load(open("/home/sagnik/codes/ClusType/result/sample-domain-eps.json"))
 tinEPsDict=json.load(open("/home/sagnik/codes/ClusType/result/sample-technique-eps.json"))
 
-random.shuffle(dinEPsDict)
-random.shuffle(tinEPsDict)
+#random.shuffle(dinEPsDict)
+#random.shuffle(tinEPsDict)
 
 
-a=[y for y in [getRPtoJustRight(x['ep'],x["sentence"]) for x in dinEPsDict[:80]] if y is not None]
-b=[y for y in [getRPtoJustRight(x['ep'],x["sentence"]) for x in tinEPsDict[:80]] if y is not None]
+a=[y for y in [getRPtoRight(x['ep'],x["sentence"]) for x in dinEPsDict] if y is not None]
+b=[y for y in [getRPtoRight(x['ep'],x["sentence"]) for x in tinEPsDict] if y is not None]
 
 domainRPstoRight=listToFreqDict([x for y in a for x in y])
 techniqueRPstoRight=listToFreqDict([x for y in b for x in y])
          
-a=[y for y in [getRPtoJustLeft(x['ep'],x["sentence"]) for x in dinEPsDict[:80]] if y is not None]
-b=[y for y in [getRPtoJustLeft(x['ep'],x["sentence"]) for x in tinEPsDict[:80]] if y is not None]
+a=[y for y in [getRPtoLeft(x['ep'],x["sentence"]) for x in dinEPsDict] if y is not None]
+b=[y for y in [getRPtoLeft(x['ep'],x["sentence"]) for x in tinEPsDict] if y is not None]
 
 domainRPstoLeft=listToFreqDict([x for y in a for x in y])
 techniqueRPstoLeft=listToFreqDict([x for y in b for x in y])
@@ -113,9 +114,32 @@ domainRPstoRight.sort(key = lambda x:-x[1])
 techniqueRPstoLeft.sort(key = lambda x:-x[1])
 techniqueRPstoRight.sort(key = lambda x:-x[1])
 
-domainRPsentences=np.sum([len(x["sentence"]) for x in dinEPsDict[:80]])
-techniqueRPsentences=np.sum([len(x["sentence"]) for x in tinEPsDict[:80]])
 
+totalDomainRPstoLeft=np.sum([x[1] for x in domainRPstoLeft])
+totalDomainRPstoRight=np.sum([x[1] for x in domainRPstoRight])
+totalTechniqueRPstoLeft=np.sum([x[1] for x in techniqueRPstoLeft])
+totalTechniqueRPstoRight=np.sum([x[1] for x in techniqueRPstoRight])
+
+
+print "\n------------------------------------------\n"
+print "totalDomainRPstoLeft: {0},totalTechniqueRPstoLeft: {1}"\
+.format(totalDomainRPstoLeft,totalTechniqueRPstoLeft)
+
+print "\n-------First RP on the Left----------------\n"
+print "\n-------domain--------------technique-------\n"
+for d,t in zip(domainRPstoLeft[:20],techniqueRPstoLeft[:20]):
+    print"{0}\t\t{1}".format(d,t) 
+
+print "\n------------------------------------------\n"
+print "totalDomainRPstoRight: {0}, totalTechniqueRPstoRight: {1}"\
+.format(totalDomainRPstoRight,totalTechniqueRPstoRight)
+
+
+print "\n-------First RP on the Right----------------\n"
+print "\n-------domain--------------technique-------\n"
+for d,t in zip(domainRPstoRight[:20],techniqueRPstoRight[:20]):
+    print"{0}\t\t{1}".format(d,t) 
+'''
 print "\n------------------------------------------\n"
 print domainRPsentences,techniqueRPsentences
 
@@ -130,4 +154,4 @@ print domainRPstoRight[:20]
 
 print "\n-------Technique RPs: Right----------------\n"
 print techniqueRPstoRight[:20]
-
+'''
